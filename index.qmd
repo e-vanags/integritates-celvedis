@@ -1,0 +1,33 @@
+---
+title: "Zinātnes integritātes ceļvedis"
+subtitle: "Integritātes pārkāpumi, apšaubāmas pētniecības prakses un sistēmiskie riski"
+listing:
+  id: jedzieni
+  contents: jedzieni/*.qmd
+  type: table
+  fields: [title, subtitle, categories, description]
+  sort: "title"
+  categories: true
+  filter-ui: true
+  sort-ui: [title]
+  table-hover: true
+page-layout: full
+toc: false
+---
+
+::: {.kopsavilkums}
+Šis ceļvedis latviešu valodā apkopo galvenos zinātnes integritātes pārkāpumus un apšaubāmās pētniecības prakses. Katram jēdzienam ir definīcija, atpazīšanas pazīmes, dati par izplatību, oficiāli konstatēts piemērs un atsauces uz recenzētiem avotiem. Ceļvedis ir daļa no iniciatīvas *Slow Science*.
+:::
+
+Jēdzieni ir sakārtoti pēc pētniecības cikla posma un pēc statusa:
+
+- **Pārkāpums**: rīcība, ko Eiropas Pētniecības integritātes kodekss uzskata par pētniecības pārkāpumu, piemēram, fabrikācija, falsifikācija un plaģiāts [@allea2023].
+- **Apšaubāma prakse**: rīcība, kas nav viennozīmīgi aizliegta, bet sistemātiski kropļo pētījumu rezultātus.
+- **Sistēmisks risks**: sistēmas līmeņa parādība, kas rada vidi pārkāpumiem, piemēram, plēsonīgie žurnāli vai papīru fabrikas.
+
+Pārskatu pēc pētniecības posmiem skati sadaļā [Taksonomija](taksonomija.qmd), bet latviešu un angļu terminus sadaļā [Glosārijs](glosarijs.qmd).
+
+## Visi jēdzieni
+
+::: {#jedzieni}
+:::

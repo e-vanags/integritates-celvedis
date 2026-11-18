@@ -1,0 +1,39 @@
+---
+title: "Nopelnu autorība"
+subtitle: "Honorary, gift or guest authorship"
+description: "Autora statuss personai, kas neatbilst autorības kritērijiem"
+categories: [Autorība, Apšaubāma prakse]
+---
+
+::: {.kopsavilkums}
+Nopelnu autorība ir plaši izplatīta un bieži uzskatīta par normālu. Tā kropļo atbildību par pētījumu un mākslīgi palielina autoru publikāciju un citātu skaitu.
+:::
+
+## Definīcija
+
+Nopelnu autorība ir situācija, kad par autoru tiek norādīta persona, kura nav devusi būtisku ieguldījumu pētījumā vai rakstā, piemēram, nodaļas vadītājs vai finansējuma piesaistītājs. Pretējs gadījums ir **spoku autorība**, kad reālais autors, piemēram, uzņēmuma algots rakstītājs, netiek norādīts.
+
+Eiropas kodekss paredz, ka par autoriem norāda tikai tos, kas ir devuši būtisku ieguldījumu un uzņemas atbildību par publikācijas saturu [@allea2023]. Medicīnas žurnālos plaši izmanto ICMJE kritērijus, kas prasa ieguldījumu darbā, līdzdalību rakstīšanā, gala versijas apstiprināšanu un atbildības uzņemšanos.
+
+## Kā atpazīt
+
+- Autoru sarakstā ir personas, kuras nevar izskaidrot pētījuma metodes vai rezultātus.
+- Vienas nodaļas vadītājs ir līdzautors gandrīz visiem nodaļas rakstiem.
+- Autoru ieguldījuma apraksts (piemēram, CRediT) nav sniegts vai ir formāls.
+
+## Cik izplatīts
+
+Veselības zinātņu aptauju metaanalīzē 18% respondentu atzina, ka viņu publikācijās ir bijuši nopelnu autori, ja tiem tika norādīti ICMJE kritēriji. Turklāt 10% respondentu bija lūgti iekļaut nopelnu autoru, un 16% atzina, ka paši tādu pievienojuši [@meursinge2024].
+
+## Piemērs
+
+Parasti tā ir institucionāla norma, nevis atsevišķu personu pārkāpums. Komerciālu formu skati jēdzienā [Autorības tirgus](autoribas-tirgus.qmd).
+
+## Saistītie jēdzieni
+
+[Autorības tirgus](autoribas-tirgus.qmd), [Citēšanas manipulācijas](citesanas-manipulacijas.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

@@ -1,0 +1,40 @@
+---
+title: "Fabrikācija"
+subtitle: "Fabrication"
+description: "Datu vai rezultātu izdomāšana un pasniegšana kā īstu"
+categories: [Dati, Pārkāpums]
+---
+
+::: {.kopsavilkums}
+Fabrikācija ir smagākais pētniecības pārkāpums: pētnieks izdomā datus vai rezultātus, kas nekad nav iegūti. Tā ir reta, bet tās sekas var būt ļoti plašas, jo viltoti rezultāti nonāk pārskatos, mācību grāmatās un praksē.
+:::
+
+## Definīcija
+
+Eiropas Pētniecības integritātes kodekss fabrikāciju definē kā rezultātu izdomāšanu un to fiksēšanu tā, it kā tie būtu īsti [@allea2023]. Kopā ar falsifikāciju un plaģiātu tā veido tā saukto FFP triādi, ko uzskata par pētniecības pārkāpumu pamatu.
+
+## Kā atpazīt
+
+- Dati ir pārāk “tīri”: neiespējami mazas izkliedes, pārāk līdzīgas grupu vidējās vērtības, pārāk apaļi skaitļi.
+- Individuālo datu sadalījumi neatbilst tam, ko varētu sagaidīt reālā izlasē.
+- Autors nevar uzrādīt primāros datus, laboratorijas žurnālus vai dalībnieku sarakstus.
+- Vienā darbā vai autora darbos rezultāti ar aizdomīgu regularitāti apstiprina hipotēzes.
+
+## Cik izplatīts
+
+Aptauju metaanalīzē aptuveni 2% zinātnieku atzina, ka vismaz reizi ir fabricējuši vai falsificējuši datus, bet aptuveni 14% bija novērojuši šādu rīcību kolēģu vidū [@fanelli2009]. Tie ir pašziņojumi, tāpēc patiesā izplatība, visticamāk, ir augstāka.
+
+Klīniskajos pētījumos problēma ir redzama tikai tad, ja pieejami individuālo pacientu dati. Žurnālam *Anaesthesia* iesniegtajos pētījumos, kuriem bija pieejami šādi dati, viltoti dati tika atrasti 44% gadījumu [@carlisle2021].
+
+## Piemērs
+
+Nīderlandes sociālais psihologs Diederiks Stapels (*Diederik Stapel*) gadiem ilgi izdomāja eksperimentu datus. Trīs universitāšu komisijas 2012. gadā konstatēja krāpšanu desmitiem publikāciju, un viņa raksti tika masveidā atsaukti [@levelt2012]. Komisijas ziņojumā īpaši uzsvērts, ka krāpšanu ilgi neatklāja līdzautori, recenzenti un redaktori.
+
+## Saistītie jēdzieni
+
+[Falsifikācija](falsifikacija.qmd), [Zombiju pētījumi](zombiju-petijumi.qmd), [Papīru fabrikas](papiru-fabrikas.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

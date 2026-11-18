@@ -1,0 +1,44 @@
+---
+title: "Citēšanas manipulācijas"
+subtitle: "Citation manipulation, citation cartels"
+description: "Mākslīga citātu skaita palielināšana ar pašcitēšanu, karteļiem vai pirktām citātām"
+categories: [Metrikas, Apšaubāma prakse]
+---
+
+::: {.kopsavilkums}
+Kad citātu skaits un h indekss nosaka karjeru un universitāšu reitingus, rodas stimuls tos uzpūst. Manipulācijas formas ir no pārmērīgas pašcitēšanas līdz organizētiem karteļiem un citātu pirkšanai.
+:::
+
+## Definīcija
+
+Citēšanas manipulācijas ir citātu skaita mākslīga palielināšana, kas neatspoguļo darba reālo zinātnisko ietekmi. Galvenās formas:
+
+- pārmērīga pašcitēšana;
+- **citēšanas karteļi**: pētnieku vai žurnālu grupas, kas sistemātiski citē cita citu;
+- recenzentu vai redaktoru prasība citēt viņu darbus;
+- citātu pirkšana.
+
+## Kā atpazīt
+
+- Liela daļa citātu nāk no neliela autoru vai žurnālu loka.
+- Citātu skaits strauji aug bez atbilstošas atpazīstamības jomā.
+- Neparasti liels publikāciju skaits gadā.
+
+## Cik izplatīts
+
+- Scopus datos laikā no 2000. līdz 2016. gadam vairāk nekā 9000 autoru kādā gadā publicēja vairāk nekā 72 rakstus, tas ir, vienu rakstu ik pēc piecām dienām [@ioannidis2018]. Šādu autoru skaits laikā no 2016. līdz 2022. gadam strauji pieauga, īpaši valstīs ar finansiāliem stimuliem par publikācijām [@ioannidis2024].
+- Clarivate 2025. gadā no Highly Cited Researchers saraksta izslēdza aptuveni 2400 kandidātu, piemēram, hiperautorības, pārmērīgas pašcitēšanas un neparastu grupu citēšanas modeļu dēļ. Clarivate uzsver, ka izslēgšana nenozīmē pierādītu pārkāpumu [@clarivate2025].
+- Eksperimentā pētnieki nopirka 50 citātas Google Scholar profilam no citātu tirgošanas pakalpojuma [@ibrahim2025].
+
+## Piemērs
+
+Clarivate 2023. un 2024. gadā izslēdza visu matemātikas jomu no Highly Cited Researchers saraksta, jo citēšanas karteļi bija sagrozījuši rezultātus. Dažas universitātes bez spēcīgām matemātikas nodaļām bija ieguvušas vairāk “augsti citētu” matemātiķu nekā Stenforda vai Prinstona [@catanzaro2024].
+
+## Saistītie jēdzieni
+
+[Nopelnu autorība](nopelnu-autoriba.qmd), [Pelēkās zonas izdevēji](pelekas-zonas-izdeveji.qmd), [Papīru fabrikas](papiru-fabrikas.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

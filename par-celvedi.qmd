@@ -1,0 +1,51 @@
+---
+title: "Par ceļvedi"
+---
+
+## Mērķis
+
+Latviešu valodā trūkst vienotas terminoloģijas un uzziņas materiāla par zinātnes integritāti. Šis ceļvedis apkopo galvenos jēdzienus vienuviet, lai pētnieki, doktoranti, recenzenti, žurnālisti un lēmumu pieņēmēji varētu tos atpazīt, nosaukt un atsaukties uz pierādījumiem.
+
+Ceļvedis papildina, nevis aizstāj starptautiskos resursus, piemēram, platformu *The Embassy of Good Science* un FORRT atvērtās zinātnes glosāriju [@parsons2022].
+
+## Struktūra
+
+Katram jēdzienam ir vienāda struktūra:
+
+1. **Definīcija**, ja iespējams, balstīta uz Eiropas Pētniecības integritātes kodeksu [@allea2023] vai citu atzītu avotu.
+2. **Kā atpazīt**: tipiskās pazīmes.
+3. **Cik izplatīts**: empīriskie dati ar atsaucēm.
+4. **Piemērs**: oficiāli konstatēts gadījums.
+5. **Saistītie jēdzieni**.
+6. **Atsauces** APA stilā.
+
+## Gadījumu iekļaušanas princips
+
+Ceļvedī ar vārdu tiek minēti tikai **oficiāli konstatēti** gadījumi: publicēts atsaukuma paziņojums, institūcijas, finansētāja vai tiesas lēmums. Statistiskas anomālijas, aizdomas, mediju publikācijas un sociālajos tīklos izteiktas pretenzijas netiek attiecinātas uz konkrētām personām. Augsts publikāciju skaits, publicēšanās noteiktā izdevniecībā vai neparasts citēšanas profils pats par sevi nav pārkāpuma pierādījums.
+
+Latvijas gadījumi tiek iekļauti tikai tad, ja tie ir oficiāli un publiski dokumentēti.
+
+## Teksta izcelsme
+
+Definīcijas un skaidrojumi ceļvedī ir formulēti no jauna. Citu resursu un rakstu teksts netiek pārņemts vai tulkots. Ja kāda formulējuma precizitāte ir būtiska, piemēram, oficiālā kodeksā, tas tiek dots kā īss citāts pēdiņās ar atsauci. Idejas un dati no citiem darbiem vienmēr ir norādīti ar atsauci.
+
+## Avotu princips
+
+Atsauces galvenokārt ir uz recenzētiem žurnāliem, lielu akadēmisko izdevēju publikācijām un atzītām organizācijām. Preprinti un nerecenzētas aplēses ir skaidri apzīmētas.
+
+## Kā atsaukties
+
+Vanags, E. (2026). *Zinātnes integritātes ceļvedis*. Slow Science. https://e-vanags.github.io/integritates-celvedis/
+
+## Līdzdalība
+
+Kļūdas, precizējumus un jaunus jēdzienus var ieteikt, izveidojot *issue* projekta GitHub repozitorijā.
+
+## Licence
+
+Saturs ir pieejams ar licenci CC BY 4.0.
+
+## Atsauces
+
+::: {#refs}
+:::

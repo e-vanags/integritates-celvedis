@@ -1,0 +1,27 @@
+---
+title: "Jēdziena nosaukums latviski"
+subtitle: "English term"
+description: "Viena teikuma skaidrojums sarakstam"
+categories: [Pētniecības posms, Statuss]
+---
+
+::: {.kopsavilkums}
+Īss kopsavilkums divos līdz trijos teikumos.
+:::
+
+## Definīcija
+
+## Kā atpazīt
+
+## Cik izplatīts
+
+## Piemērs
+
+Tikai oficiāli konstatēts gadījums: atsaukuma paziņojums, institūcijas, finansētāja vai tiesas lēmums.
+
+## Saistītie jēdzieni
+
+## Atsauces
+
+::: {#refs}
+:::

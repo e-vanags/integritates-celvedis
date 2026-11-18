@@ -1,0 +1,39 @@
+---
+title: "Autorības tirgus"
+subtitle: "Authorship for sale"
+description: "Autora vietu pirkšana un pārdošana zinātniskajos rakstos"
+categories: [Autorība, Pārkāpums]
+---
+
+::: {.kopsavilkums}
+Papīru fabrikas tirgo autora vietas jau uzrakstītos rakstos. Cena ir atkarīga no vietas autoru sarakstā un žurnāla prestiža. Tas ir organizēts tirgus ar cenu lapām.
+:::
+
+## Definīcija
+
+Autorības tirgus ir autora statusa pirkšana vai pārdošana rakstā, pie kura pircējs nav strādājis. Tas ir pārkāpums neatkarīgi no tā, vai pats raksts ir godīgs vai safabricēts, jo autorība tiek piešķirta nevis par ieguldījumu, bet par samaksu [@allea2023].
+
+## Kā atpazīt
+
+- Autoru komanda ir ģeogrāfiski un tematiski nesaistīta, un autori iepriekš nav sadarbojušies.
+- Autoru saraksts mainās pēc manuskripta iesniegšanas.
+- Raksta tēma neatbilst autoru iepriekšējai pētniecībai.
+
+## Cik izplatīts
+
+Abalkina analizēja Krievijā bāzētas papīru fabrikas piedāvājumus no 2019. līdz 2021. gadam: tā tirgoja autora vietas vairāk nekā 1000 rakstos, un vismaz 434 publicēti raksti, iespējams, ir saistīti ar šo shēmu [@abalkina2023].
+
+Plašākā datu kopa (preprints, nav recenzēta) apkopo 18 710 sludinājumus no septiņām papīru fabrikām septiņās valstīs, ieskaitot Latviju. Pirmā autora vietas mediānā cena bija ap 788 ASV dolāriem [@richardson2026].
+
+## Piemērs
+
+Daudzi raksti, kuros pārdotas autora vietas, ir atsaukti, kad izdevēji atklāja papīru fabriku shēmas [@abalkina2023]. Personu gadījumi šajā ceļvedī tiks minēti tikai ar oficiālu lēmumu.
+
+## Saistītie jēdzieni
+
+[Papīru fabrikas](papiru-fabrikas.qmd), [Nopelnu autorība](nopelnu-autoriba.qmd), [Viltus recenzēšana](viltus-recenzesana.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

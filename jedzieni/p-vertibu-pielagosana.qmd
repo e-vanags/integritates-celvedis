@@ -1,0 +1,42 @@
+---
+title: "P vērtību pielāgošana"
+subtitle: "P-hacking"
+description: "Analīzes elastības izmantošana, līdz rezultāts kļūst statistiski nozīmīgs"
+categories: [Analīze, Apšaubāma prakse]
+---
+
+::: {.kopsavilkums}
+P vērtību pielāgošana ir viens no galvenajiem replikācijas krīzes cēloņiem. Pētnieks izmēģina dažādus analīzes variantus un ziņo tikai to, kas dod p < 0,05. Tas bieži notiek bez apzināta nodoma krāpties.
+:::
+
+## Definīcija
+
+P vērtību pielāgošana ir pētnieka rīcības brīvības izmantošana datu vākšanā un analīzē (*researcher degrees of freedom*), līdz tiek iegūts statistiski nozīmīgs rezultāts, ziņojot tikai par veiksmīgo variantu [@simmons2011].
+
+## Kā atpazīt
+
+- Daudzas p vērtības ir tieši zem 0,05.
+- Nav priekšreģistrācijas, vai publikācija atšķiras no reģistrētā plāna.
+- Izlases lielums nav pamatots, un datu vākšana, šķiet, apturēta “īstajā brīdī”.
+- Izslēgšanas kritēriji, kovariātes vai atkarīgie mainīgie dažādos pētījumos mainās bez skaidrojuma.
+
+## Cik izplatīts
+
+Simmons, Nelson un Simonsohn ar simulācijām parādīja, ka, apvienojot dažus izplatītus analīzes izvēles veidus, kļūdaini pozitīva rezultāta iespējamība no nominālajiem 5% var pieaugt līdz aptuveni 60% [@simmons2011]. Aptaujā starp ASV psihologiem vairums atzina vismaz vienu šādu praksi, piemēram, ne visu atkarīgo mainīgo uzrādīšanu vai lēmumu par papildu datu vākšanu pēc rezultātu apskatīšanas [@john2012].
+
+## Piemērs
+
+Šī ir sistēmiska prakse, nevis atsevišķu personu pārkāpums. Tās sekas labi parāda liela mēroga replikāciju projekti: no 100 psiholoģijas pētījumiem oriģinālajos rezultātos 97% bija statistiski nozīmīgi, bet replikācijās tikai 36% [@osc2015].
+
+## Ko darīt
+
+Priekšreģistrācija, reģistrētie ziņojumi, iepriekš pamatots izlases lielums un atvērti dati un kods.
+
+## Saistītie jēdzieni
+
+[HARKing](harking.qmd), [Publikāciju nobīde](publikaciju-nobide.qmd), [Falsifikācija](falsifikacija.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

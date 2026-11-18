@@ -1,0 +1,40 @@
+---
+title: "Zombiju pētījumi un atsaukumi"
+subtitle: "Zombie trials, retractions"
+description: "Pētījumi ar viltotiem datiem, kas turpina ietekmēt pierādījumu bāzi arī pēc atsaukšanas"
+categories: [Dati, Sistēmisks risks]
+---
+
+::: {.kopsavilkums}
+Viltots pētījums nepazūd pēc atsaukšanas. Tas paliek sistemātiskajos pārskatos, metaanalīzēs un klīniskajās vadlīnijās, un to joprojām citē.
+:::
+
+## Definīcija
+
+**Zombiju pētījums** ir pētījums ar tik nopietni viltotiem datiem, ka tas ir pilnībā nederīgs, bet tas tiek publicēts un izskatās pēc parasta pētījuma [@carlisle2021].
+
+**Atsaukums** ir izdevēja paziņojums, ka publikācija vairs nav uzskatāma par derīgu. Tas var būt saistīts ar pārkāpumu vai godīgu kļūdu.
+
+## Kā atpazīt
+
+- Individuālo pacientu datos ir neiespējamas vērtības, dublēti ieraksti vai neticami sadalījumi.
+- Pārskata vai vadlīniju avotos ir atsaukti pētījumi. To var pārbaudīt Retraction Watch datubāzē, kas pieejama arī caur Crossref.
+
+## Cik izplatīts
+
+Žurnālam *Anaesthesia* iesniegtajos randomizētajos pētījumos, kuriem bija pieejami individuālo pacientu dati, 26% tika klasificēti kā zombiju pētījumi [@carlisle2021]. Ioannidis no tā secināja, ka literatūrā cirkulē simtiem tūkstošu šādu pētījumu [@ioannidis2021]. Šī izlase nav reprezentatīva.
+
+2023. gadā atsaukumu skaits pirmo reizi pārsniedza 10 000 [@vannoorden2023b].
+
+## Piemērs
+
+VITALITY pētījumā identificēja 1330 atsauktus randomizētus pētījumus un 847 sistemātiskus pārskatus, kas tos iekļāva. Izslēdzot atsauktos pētījumus, 16% metaanalīžu mainījās statistiskā nozīmība, bet 8,4% mainījās efekta virziens. Pārskati ar izkropļotiem secinājumiem tika izmantoti 157 klīniskajās vadlīnijās [@xu2025].
+
+## Saistītie jēdzieni
+
+[Fabrikācija](fabrikacija.qmd), [Falsifikācija](falsifikacija.qmd), [Papīru fabrikas](papiru-fabrikas.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

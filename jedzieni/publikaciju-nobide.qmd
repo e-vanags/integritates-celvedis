@@ -1,0 +1,41 @@
+---
+title: "Publikāciju nobīde"
+subtitle: "Publication bias, file drawer problem"
+description: "Statistiski nozīmīgi rezultāti tiek publicēti daudz biežāk nekā nenozīmīgi"
+categories: [Ziņošana, Apšaubāma prakse]
+---
+
+::: {.kopsavilkums}
+Ja tiek publicēti galvenokārt veiksmīgie rezultāti, publicētā literatūra sistemātiski pārspīlē efektus. Metaanalīzes, kas balstās tikai uz publicētiem pētījumiem, šo kļūdu pārņem.
+:::
+
+## Definīcija
+
+Publikāciju nobīde rodas, ja publicēšanas iespējamība ir atkarīga no rezultāta virziena vai statistiskās nozīmības. Rozentāls (*Rosenthal*) to nosauca par “atvilktnes problēmu”: nenozīmīgie rezultāti paliek galda atvilktnē [@rosenthal1979].
+
+## Kā atpazīt
+
+- Metaanalīzē piltuves diagramma ir asimetriska.
+- Mazos pētījumos efekti ir lielāki nekā lielos.
+- Gandrīz visi publicētie pētījumi kādā jomā ir pozitīvi.
+
+## Cik izplatīts
+
+Pētījumā, kurā izsekoja visiem vienas ASV aptauju programmas eksperimentiem, spēcīgu rezultātu publicēšanas iespējamība bija par aptuveni 40 procentpunktiem augstāka nekā nulles rezultātu, un lielākā daļa nulles rezultātu netika pat uzrakstīti [@franco2014]. Psiholoģijas oriģinālpētījumos 97% rezultātu bija statistiski nozīmīgi [@osc2015], un šāds īpatsvars nav ticams bez publikāciju nobīdes.
+
+## Piemērs
+
+Sistēmiska parādība bez konkrētiem personu gadījumiem.
+
+## Ko darīt
+
+Reģistrētie ziņojumi, pētījumu reģistri, nulles rezultātu publicēšana, metaanalīzēs nepublicētu datu meklēšana un nobīdes korekcija.
+
+## Saistītie jēdzieni
+
+[P vērtību pielāgošana](p-vertibu-pielagosana.qmd), [HARKing](harking.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

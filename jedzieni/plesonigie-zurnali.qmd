@@ -1,0 +1,40 @@
+---
+title: "Plēsonīgie žurnāli"
+subtitle: "Predatory journals"
+description: "Žurnāli, kas savas intereses liek augstāk par zinātni un maldina par savu darbību"
+categories: [Publicēšana, Sistēmisks risks]
+---
+
+::: {.kopsavilkums}
+Plēsonīgie žurnāli imitē zinātnisku žurnālu, bet patiesībā pārdod publicēšanas pakalpojumu bez reālas kvalitātes kontroles. Tie izmanto metriku spiedienu, kas prasa publikāciju skaitu.
+:::
+
+## Definīcija
+
+Pēc starptautiskas vienošanās plēsonīgie žurnāli un izdevēji ir subjekti, kas savas intereses liek augstāk par zinātni un kam raksturīga nepatiesa vai maldinoša informācija, atkāpes no labas redakcionālās un publicēšanas prakses, caurskatāmības trūkums un agresīva, neselektīva autoru piesaiste [@grudniewicz2019].
+
+## Kā atpazīt
+
+- Nevēlami e-pasta uzaicinājumi publicēt vai būt redkolēģijā.
+- Solīta publicēšana dažu dienu laikā.
+- Nepatiesi apgalvojumi par indeksāciju vai ietekmes faktoru.
+- Neskaidra informācija par redakciju, recenzēšanu un maksām.
+
+## Cik izplatīts
+
+No 2015. līdz 2017. gadam 2,8% visu Scopus rakstu tika publicēti žurnālos no Beall sarakstiem, Kazahstānā un Indonēzijā aptuveni katrs sestais raksts [@machacek2022]. Latvijai šis rādītājs bija 1,35%, bet, neskaitot Frontiers, kas iekļauts Beall sarakstā, 1,05%. Tas ir 6. augstākais rādītājs ES (aprēķināts no Macháček un Srholec papildmateriāliem).
+
+Plēsonīgo žurnālu rakstiem ir maza zinātniskā ietekme: piecu gadu laikā 56% rakstu nebija citēti ne reizi [@bjork2020].
+
+## Piemērs
+
+Žurnālu līmenī: daudzi žurnāli ir izslēgti no Scopus un Web of Science. Personu gadījumi netiek minēti, jo publicēšanās šādā žurnālā pati par sevi nav konstatēts pārkāpums.
+
+## Saistītie jēdzieni
+
+[Pelēkās zonas izdevēji](pelekas-zonas-izdeveji.qmd), [Papīru fabrikas](papiru-fabrikas.qmd), [Citēšanas manipulācijas](citesanas-manipulacijas.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

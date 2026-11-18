@@ -1,0 +1,25 @@
+---
+title: "Taksonomija"
+subtitle: "Integritātes riski pētniecības ciklā"
+---
+
+Integritātes problēmas var rasties jebkurā pētniecības posmā. Tabulā jēdzieni ir sakārtoti pēc tā, kurā posmā tie parasti rodas, un pēc to statusa.
+
+| Pētniecības posms | Pārkāpums | Apšaubāma prakse | Sistēmisks risks |
+|---|---|---|---|
+| Datu iegūšana | [Fabrikācija](jedzieni/fabrikacija.qmd), [Falsifikācija](jedzieni/falsifikacija.qmd) | | [Zombiju pētījumi](jedzieni/zombiju-petijumi.qmd) |
+| Analīze | | [P vērtību pielāgošana](jedzieni/p-vertibu-pielagosana.qmd), [HARKing](jedzieni/harking.qmd) | |
+| Ziņošana | | [Publikāciju nobīde](jedzieni/publikaciju-nobide.qmd) | |
+| Rakstīšana | [Plaģiāts](jedzieni/plagiats.qmd) | | |
+| Autorība | [Autorības tirgus](jedzieni/autoribas-tirgus.qmd) | [Nopelnu autorība](jedzieni/nopelnu-autoriba.qmd) | |
+| Recenzēšana | [Viltus recenzēšana](jedzieni/viltus-recenzesana.qmd) | | |
+| Publicēšana | | | [Papīru fabrikas](jedzieni/papiru-fabrikas.qmd), [Plēsonīgie žurnāli](jedzieni/plesonigie-zurnali.qmd), [Pelēkās zonas izdevēji](jedzieni/pelekas-zonas-izdeveji.qmd) |
+| Metrikas un vērtēšana | | [Citēšanas manipulācijas](jedzieni/citesanas-manipulacijas.qmd) | |
+
+## Kā lasīt tabulu
+
+Robežas starp kategorijām nav absolūtas. Piemēram, p vērtību pielāgošana kļūst par falsifikāciju, ja dati tiek apzināti mainīti. Savukārt citēšanas manipulācijas sistemātiskas organizētas shēmas formā var tikt atzītas par pārkāpumu. Statuss atspoguļo tipisko gadījumu, nevis katra atsevišķa gadījuma vērtējumu.
+
+## Sistēmiskais konteksts
+
+Daudzas no šīm problēmām nav tikai atsevišķu pētnieku morāles jautājums. Tās veicina vērtēšanas sistēmas, kas atalgo publikāciju un citātu skaitu. Papīru fabriku produktu skaits aug daudz straujāk nekā zinātnes apjoms kopumā: tas dubultojas aptuveni ik pēc pusotra gada, kamēr visu publikāciju skaits dubultojas ik pēc aptuveni 15 gadiem [@richardson2025].

@@ -1,0 +1,40 @@
+---
+title: "Papīru fabrikas"
+subtitle: "Paper mills"
+description: "Komerciālas struktūras, kas ražo un pārdod viltotus rakstus un autorību"
+categories: [Publicēšana, Sistēmisks risks]
+---
+
+::: {.kopsavilkums}
+Papīru fabrikas ir rūpnieciska mēroga krāpšana. To produkcija aug daudz straujāk nekā zinātne kopumā, un tikai neliela daļa no tās tiek atklāta un atsaukta.
+:::
+
+## Definīcija
+
+Papīru fabrikas ir komerciālas, bieži nelegālas organizācijas, kas ražo un pārdod viltotus vai zemas kvalitātes manuskriptus, autora vietas un dažreiz arī recenzēšanas iznākumu [@cope2022].
+
+## Kā atpazīt
+
+- Daudziem rakstiem ir vienāda struktūra, līdzīgi nosaukumi un attēli.
+- Tekstā ir [mocītās frāzes](plagiats.qmd).
+- Autori, iestādes un tēma nav savstarpēji saistīti.
+- Rakstu viļņi parādās viena žurnāla speciālizdevumos ar vieniem un tiem pašiem viesredaktoriem.
+
+## Cik izplatīts
+
+- Iespējamo papīru fabriku produktu skaits dubultojas aptuveni ik pēc pusotra gada, bet visu zinātnisko publikāciju skaits ik pēc aptuveni 15 gadiem [@richardson2025].
+- Nerecenzēta, autora vārdiem konservatīva aplēse: no 2000. līdz 2022. gadam publicēti vairāk nekā 400 000 rakstu ar papīru fabriku pazīmēm [@vannoorden2023a].
+- Integritātes detektīvi norāda, ka tajā pašā laikā atsaukti vai laboti tikai aptuveni 55 000 rakstu jebkāda iemesla dēļ [@abalkina2025].
+
+## Piemērs
+
+Wiley piederošā izdevniecība Hindawi 2023. gadā atsauca vairāk nekā 8000 rakstu, galvenokārt speciālizdevumos, ar pamatojumu “sistemātiska publicēšanas un recenzēšanas procesa manipulēšana”. Tajā gadā kopējais atsaukumu skaits pirmo reizi pārsniedza 10 000 [@vannoorden2023b]. Wiley vēlāk slēdza vairākus žurnālus un pārtrauca Hindawi zīmola izmantošanu.
+
+## Saistītie jēdzieni
+
+[Autorības tirgus](autoribas-tirgus.qmd), [Viltus recenzēšana](viltus-recenzesana.qmd), [Plaģiāts](plagiats.qmd), [Pelēkās zonas izdevēji](pelekas-zonas-izdeveji.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

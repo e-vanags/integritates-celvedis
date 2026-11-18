@@ -1,0 +1,41 @@
+---
+title: "HARKing"
+subtitle: "Hypothesizing After the Results are Known"
+description: "Hipotēžu formulēšana pēc rezultātu uzzināšanas, pasniedzot tās kā iepriekš izvirzītas"
+categories: [Analīze, Apšaubāma prakse]
+---
+
+::: {.kopsavilkums}
+HARKing pārvērš izpētes (eksploratīvu) atradumu par it kā apstiprinošu pārbaudi. Lasītājs tiek maldināts par to, cik spēcīgs ir pierādījums.
+:::
+
+## Definīcija
+
+HARKing ir prakse, kad pētnieks pēc rezultātu iegūšanas formulē hipotēzi, kas tiem atbilst, un rakstā to pasniedz tā, it kā tā būtu izvirzīta pirms pētījuma [@kerr1998].
+
+## Kā atpazīt
+
+- Visas hipotēzes ir apstiprinātas, arī negaidītas un ļoti specifiskas.
+- Teorētiskais ievads izskatās pielāgots tieši iegūtajiem rezultātiem.
+- Hipotēzes atšķiras no tām, kas norādītas projekta pieteikumā, disertācijā vai priekšreģistrācijā.
+
+## Cik izplatīts
+
+Netiešs rādītājs ir pozitīvo rezultātu īpatsvars. Standarta psiholoģijas rakstos hipotēzes apstiprinājās 96% gadījumu, bet reģistrētajos ziņojumos, kur hipotēzes tiek fiksētas pirms datu iegūšanas, tikai 44% [@scheel2021]. Šī starpība atspoguļo HARKing, [p vērtību pielāgošanas](p-vertibu-pielagosana.qmd) un [publikāciju nobīdes](publikaciju-nobide.qmd) kopējo ietekmi.
+
+## Piemērs
+
+Sistēmiska prakse bez konkrētiem personu gadījumiem.
+
+## Ko darīt
+
+Skaidri nošķirt apstiprinošas un izpētes analīzes, izmantot priekšreģistrāciju un reģistrētos ziņojumus.
+
+## Saistītie jēdzieni
+
+[P vērtību pielāgošana](p-vertibu-pielagosana.qmd), [Publikāciju nobīde](publikaciju-nobide.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

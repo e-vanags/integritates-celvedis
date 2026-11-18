@@ -1,0 +1,37 @@
+---
+title: "Falsifikācija"
+subtitle: "Falsification"
+description: "Datu, materiālu vai procesu manipulēšana, arī attēlu manipulācijas"
+categories: [Dati, Pārkāpums]
+---
+
+::: {.kopsavilkums}
+Falsifikācija atšķiras no fabrikācijas ar to, ka dati vai materiāli pastāv, bet tie tiek nepamatoti mainīti, izlaisti vai sagrozīti. Biomedicīnā viens no biežākajiem veidiem ir attēlu manipulācijas.
+:::
+
+## Definīcija
+
+Eiropas Pētniecības integritātes kodekss falsifikāciju definē kā pētniecības materiālu, aprīkojuma vai procesu manipulēšanu, kā arī datu vai rezultātu mainīšanu, izlaišanu vai noklusēšanu bez pamatojuma [@allea2023].
+
+## Kā atpazīt
+
+- Mikroskopijas vai Western blot attēlos atkārtojas vieni un tie paši fragmenti, dažreiz pagriezti, spoguļoti vai mērogoti.
+- No analīzes bez paskaidrojuma izslēgti dalībnieki vai mērījumi.
+- Publicētie rezultāti neatbilst primārajiem datiem vai iepriekšējām tā paša autora publikācijām.
+
+## Cik izplatīts
+
+Vizuāli pārbaudot 20 621 rakstu no 40 biomedicīnas žurnāliem, 3,8% rakstu tika atrasti neatbilstoši dublēti attēli, un vismaz pusē no šiem gadījumiem bija pazīmes, kas liecina par apzinātu manipulāciju [@bik2016].
+
+## Piemērs
+
+Science 2024. gadā publicēja izmeklēšanu par aizdomīgiem attēliem vairāk nekā 100 neirozinātnieka Eliēzera Maslija (*Eliezer Masliah*) publikācijās [@piller2024]. ASV Nacionālie veselības institūti (NIH) oficiāli konstatēja pētniecības pārkāpumu divās publikācijās, un Maslijs zaudēja vadošo amatu.
+
+## Saistītie jēdzieni
+
+[Fabrikācija](fabrikacija.qmd), [P vērtību pielāgošana](p-vertibu-pielagosana.qmd), [Papīru fabrikas](papiru-fabrikas.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

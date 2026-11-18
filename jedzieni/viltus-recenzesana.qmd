@@ -1,0 +1,43 @@
+---
+title: "Viltus recenzēšana"
+subtitle: "Fake peer review, peer review manipulation"
+description: "Recenzēšanas procesa manipulēšana ar izdomātiem recenzentiem, recenziju apļiem vai MI ģenerētām recenzijām"
+categories: [Recenzēšana, Pārkāpums]
+---
+
+::: {.kopsavilkums}
+Recenzēšana ir galvenais filtrs pret kļūdainu un viltotu zinātni, bet tā balstās uz uzticēšanos un bezmaksas darbu. Šo vājumu izmanto gan atsevišķi autori, gan organizētas aģentūras.
+:::
+
+## Definīcija
+
+Viltus recenzēšana ir recenzēšanas procesa manipulēšana, lai panāktu raksta pieņemšanu. Tipiskie veidi:
+
+- žurnālam tiek ieteikti izdomāti recenzenti vai īsti eksperti ar viltotām e-pasta adresēm, un autors recenzē pats savu rakstu;
+- recenziju apļi, kuros autoru grupa savstarpēji recenzē rakstus;
+- trešo pušu aģentūras, kas par samaksu garantē labvēlīgu recenziju.
+
+## Kā atpazīt
+
+- Ieteiktajiem recenzentiem ir privātas e-pasta adreses, nevis institūciju adreses.
+- Recenzijas tiek iesniegtas neparasti ātri un ir vispārīgas un pozitīvas.
+- Vairākiem rakstiem ir līdzīgas recenzijas.
+
+## Cik izplatīts
+
+No 2012. līdz 2015. gadam Retraction Watch datos tika identificēti 250 raksti, kas atsaukti viltus recenzēšanas dēļ, un to skaits gadā pieauga no aptuveni 40 līdz gandrīz 160 [@qi2017].
+
+Recenzēšanas sistēma ir pārslogota: 2020. gadā recenzenti pasaulē recenzēšanai veltīja vairāk nekā 100 miljonus stundu [@aczel2021]. Jauns risks ir MI ģenerētas recenzijas. Vienā lielā MI konferencē aptuveni piektā daļa recenziju bija pilnībā ģenerēta ar MI. Šī ir aplēse, kas iegūta ar MI detektoru [@naddaf2025].
+
+## Piemērs
+
+Izdevniecība BioMed Central 2015. gadā atsauca 43 rakstus pēc izmeklēšanas, kas atklāja ar izdomātiem recenzentiem manipulētu recenzēšanu. Izmeklēšanā tika atklātas arī trešo pušu aģentūras, kas piedāvāja labvēlīgu recenzēšanas iznākumu [@moylan2015].
+
+## Saistītie jēdzieni
+
+[Papīru fabrikas](papiru-fabrikas.qmd), [Autorības tirgus](autoribas-tirgus.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

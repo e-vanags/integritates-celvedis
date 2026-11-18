@@ -1,0 +1,40 @@
+---
+title: "Pelēkās zonas izdevēji"
+subtitle: "Grey zone publishers"
+description: "Izdevēji, kuru biznesa modelis rada bažas par kvalitāti, bet kas neatbilst plēsonīga izdevēja definīcijai"
+categories: [Publicēšana, Sistēmisks risks]
+---
+
+::: {.kopsavilkums}
+Pelēkās zonas izdevēji veic recenzēšanu un ir indeksēti lielajās datubāzēs, tāpēc tos nevar saukt par plēsonīgiem. Tomēr to izaugsmes modelis, kas balstās uz publicēšanas maksām un speciālizdevumiem, rada nopietnas bažas par kvalitātes kontroli.
+:::
+
+## Definīcija
+
+Termins nāk no Somijas publikāciju foruma JUFO, kas no 2025. gada pazemināja 271 MDPI un Frontiers žurnālu līdz 0. līmenim, nosaucot tos par pelēkās zonas žurnāliem, kuros publicēšanos nevar ieteikt bez iebildumiem [@retractionwatch2024jufo]. Atšķirībā no [plēsonīgajiem žurnāliem](plesonigie-zurnali.qmd) šie izdevēji neatbilst plēsonīga izdevēja definīcijai [@grudniewicz2019].
+
+## Kā atpazīt
+
+- Lielākā daļa rakstu tiek publicēti speciālizdevumos ar viesredaktoriem.
+- Ļoti īss laiks no iesniegšanas līdz publicēšanai.
+- Liels vienas izdevniecības žurnālu savstarpējās citēšanas īpatsvars.
+- Masveida uzaicinājumi būt viesredaktoram vai recenzentam.
+
+## Cik izplatīts
+
+Laikā no 2016. līdz 2022. gadam MDPI un Frontiers nodrošināja aptuveni 38% no indeksēto rakstu skaita pieauguma pasaulē. 2022. gadā speciālizdevumos tika publicēti 88% MDPI un 69% Frontiers rakstu, salīdzinot ar 11% Nature izdevniecībā un 1% PLOS [@hanson2024].
+
+Latvijā laikā no 2022. līdz 2024. gadam gandrīz puse Latvijas autoru Web of Science rakstu bija publicēti MDPI, Frontiers vai Emerging Sources žurnālos, un ES vairāk ir tikai Rumānijā un Bulgārijā [@krasnopjorovs2025].
+
+## Piemērs
+
+Žurnālu līmenī: JUFO lēmums Somijā [@retractionwatch2024jufo]. Šī kategorija nav pārkāpums, tāpēc personas netiek minētas.
+
+## Saistītie jēdzieni
+
+[Plēsonīgie žurnāli](plesonigie-zurnali.qmd), [Papīru fabrikas](papiru-fabrikas.qmd), [Citēšanas manipulācijas](citesanas-manipulacijas.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

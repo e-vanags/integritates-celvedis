@@ -1,0 +1,39 @@
+---
+title: "Plaģiāts"
+subtitle: "Plagiarism"
+description: "Cita darba, ideju vai teksta izmantošana bez atbilstošas atsauces, arī mocītās frāzes"
+categories: [Rakstīšana, Pārkāpums]
+---
+
+::: {.kopsavilkums}
+Plaģiāts ir cita autora darba vai ideju piesavināšanās. Mūsdienās to arvien biežāk slēpj ar automātiskiem parafrāzēšanas rīkiem, kas rada absurdas “mocītās frāzes”.
+:::
+
+## Definīcija
+
+Eiropas Pētniecības integritātes kodekss plaģiātu definē kā citu cilvēku darba un ideju izmantošanu, pienācīgi neatsaucoties uz sākotnējo avotu [@allea2023]. Tas attiecas uz tekstu, idejām, datiem, attēliem un metodēm.
+
+Radniecīgas parādības ir **pašplaģiāts** jeb paša iepriekš publicēta teksta atkārtota izmantošana bez norādes un **dublēta publicēšana**, kad viens un tas pats pētījums tiek publicēts vairākas reizes kā jauns.
+
+## Kā atpazīt
+
+- Teksta līdzības pārbaudes rīki uzrāda lielu sakritību ar citiem avotiem.
+- Tekstā ir **mocītās frāzes** (*tortured phrases*): nepareizi parafrāzēti termini, piemēram, *counterfeit consciousness* (“viltota apziņa”) vārdu *artificial intelligence* vietā vai *bosom peril* vārdu *breast cancer* vietā [@cabanac2021].
+- Rakstīšanas stils pēkšņi mainās vienā tekstā.
+
+## Cik izplatīts
+
+Problematic Paper Screener projekts, kas automātiski meklē mocītās frāzes, līdz 2025. gada sākumam atrada gandrīz 19 000 publikāciju ar vismaz piecām šādām frāzēm [@abalkina2025]. Mocītās frāzes bieži ir arī [papīru fabriku](papiru-fabrikas.qmd) produktu pazīme.
+
+## Piemērs
+
+Šis jēdziens vēl gaida oficiāli konstatētu piemēru ar publiski pieejamu lēmumu. Konkrētu personu gadījumi šajā ceļvedī tiks pievienoti tikai ar oficiālu lēmumu.
+
+## Saistītie jēdzieni
+
+[Papīru fabrikas](papiru-fabrikas.qmd), [Autorības tirgus](autoribas-tirgus.qmd)
+
+## Atsauces
+
+::: {#refs}
+:::

@@ -1,0 +1,96 @@
+project:
+  type: website
+  output-dir: _site
+
+lang: lv
+
+language:
+  toc-title-document: "Saturs"
+  toc-title-website: "Šajā lapā"
+  section-title-references: "Atsauces"
+  search-no-results-text: "Nekas netika atrasts"
+  search-matching-documents-text: "atbilstoši dokumenti"
+  search-copy-link-title: "Kopēt saiti uz meklēšanu"
+  search-hide-matches-text: "Paslēpt papildu atbilsmes"
+  search-more-match-text: "vēl viena atbilsme šajā dokumentā"
+  search-more-matches-text: "vēl atbilsmes šajā dokumentā"
+  search-clear-button-title: "Notīrīt"
+  search-detached-cancel-button-title: "Atcelt"
+  search-submit-button-title: "Meklēt"
+  search-label: "Meklēt"
+  listing-page-filter: "Filtrēt"
+  listing-page-order-by: "Kārtot pēc"
+  listing-page-order-by-default: "Noklusējums"
+  listing-page-field-title: "Jēdziens"
+  listing-page-field-subtitle: "Angliski"
+  listing-page-field-categories: "Kategorijas"
+  listing-page-field-description: "Īsumā"
+  listing-page-no-matches: "Nav atbilstošu ierakstu"
+  listing-page-category-all: "Visi"
+  title-block-categories: "Kategorijas"
+  citation-intro: "Lūdzu, atsaucies uz šo darbu šādi"
+  title-block-modified: "Atjaunināts"
+  repo-action-links-issue: "Ziņot par kļūdu"
+  section-title-footnotes: "Piezīmes"
+
+website:
+  title: "Zinātnes integritātes ceļvedis"
+  description: "Integritātes pārkāpumu un apšaubāmu pētniecības prakšu ceļvedis latviešu valodā"
+  site-url: "https://e-vanags.github.io/integritates-celvedis/"
+  repo-url: "https://github.com/e-vanags/integritates-celvedis"
+  repo-actions: [issue]
+  search: true
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Sākums
+      - href: taksonomija.qmd
+        text: Taksonomija
+      - href: glosarijs.qmd
+        text: Glosārijs
+      - href: par-celvedi.qmd
+        text: Par ceļvedi
+  sidebar:
+    style: docked
+    contents:
+      - section: "Dati"
+        contents:
+          - jedzieni/fabrikacija.qmd
+          - jedzieni/falsifikacija.qmd
+          - jedzieni/zombiju-petijumi.qmd
+      - section: "Analīze un ziņošana"
+        contents:
+          - jedzieni/p-vertibu-pielagosana.qmd
+          - jedzieni/harking.qmd
+          - jedzieni/publikaciju-nobide.qmd
+      - section: "Rakstīšana un autorība"
+        contents:
+          - jedzieni/plagiats.qmd
+          - jedzieni/nopelnu-autoriba.qmd
+          - jedzieni/autoribas-tirgus.qmd
+      - section: "Recenzēšana un publicēšana"
+        contents:
+          - jedzieni/viltus-recenzesana.qmd
+          - jedzieni/papiru-fabrikas.qmd
+          - jedzieni/plesonigie-zurnali.qmd
+          - jedzieni/pelekas-zonas-izdeveji.qmd
+      - section: "Metrikas"
+        contents:
+          - jedzieni/citesanas-manipulacijas.qmd
+  page-footer:
+    left: "Slow Science · Edmunds Vanags · CC BY 4.0"
+    right: "Pēdējā atjaunināšana: {{< meta date-modified >}}"
+
+bibliography: references.bib
+csl: apa.csl
+link-citations: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    date-modified: last-modified
+    date-format: "YYYY-MM-DD"
