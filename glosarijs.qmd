@@ -11,12 +11,17 @@ Latviešu termini šajā ceļvedī ir piedāvājums. Daudziem no tiem vēl nav n
 | Atsaukums | Retraction | Izdevēja paziņojums, ka publikācija vairs nav uzskatāma par derīgu |
 | Autorības tirgus | Authorship for sale | Autora vietu pirkšana un pārdošana rakstos |
 | Citēšanas kartelis | Citation cartel | Pētnieku vai žurnālu grupa, kas savstarpēji mākslīgi palielina citātu skaitu |
+| Dublēta publicēšana | Duplicate publication | To pašu datu vai rezultātu publicēšana vairākas reizes kā jaunu |
 | Fabrikācija | Fabrication | Datu vai rezultātu izdomāšana |
 | Falsifikācija | Falsification | Datu, materiālu vai procesu manipulēšana vai rezultātu nepamatota mainīšana |
 | HARKing | HARKing, hypothesizing after the results are known | Hipotēžu formulēšana pēc rezultātu uzzināšanas, pasniedzot tās kā iepriekš izvirzītas |
 | Hiperproduktīvs autors | Hyperprolific author | Autors ar neparasti lielu publikāciju skaitu gadā |
+| Ideju plaģiāts | Idea plagiarism | Cita autora idejas, hipotēzes vai argumenta pārņemšana bez atsauces |
 | Integritātes detektīvs | Science sleuth | Pētnieks, kas meklē un publisko problēmas publikācijās |
+| Lāpīšana | Patchwriting | Avota teksta pārstrāde ar sinonīmiem un gramatikas maiņu, saglabājot oriģināla kodolu |
 | Mocītās frāzes | Tortured phrases | Parafrāzēšanas rīku radītas absurdas frāzes, kas slēpj plaģiātu |
+| Mozaīkas plaģiāts | Mosaic plagiarism | Vairāku avotu fragmentu savīšana vienā tekstā bez skaidras atsaukšanās |
+| Neapzināts plaģiāts | Cryptomnesia, inadvertent plagiarism | Agrāk dzirdētas idejas uzskatīšana par savu |
 | Nopelnu autorība | Honorary authorship, gift authorship | Autora statuss personai, kas neatbilst autorības kritērijiem |
 | P vērtību pielāgošana | P-hacking | Analīzes elastības izmantošana, līdz rezultāts kļūst statistiski nozīmīgs |
 | Papīru fabrika | Paper mill | Komerciāla struktūra, kas ražo un pārdod viltotus vai zemas kvalitātes rakstus un autorību |
@@ -27,6 +32,9 @@ Latviešu termini šajā ceļvedī ir piedāvājums. Daudziem no tiem vēl nav n
 | Publikāciju nobīde | Publication bias | Nozīmīgu rezultātu publicēšana biežāk nekā nenozīmīgu |
 | Reģistrētais ziņojums | Registered Report | Publikācijas formāts, kurā pētījuma plāns tiek recenzēts un pieņemts pirms datu iegūšanas |
 | Replikācijas krīze | Replication crisis | Atklājums, ka liela daļa publicēto rezultātu neatkārtojas |
+| Salami publicēšana | Salami slicing | Viena pētījuma mākslīga sadalīšana vairākās publikācijās |
 | Speciālizdevums | Special issue | Žurnāla tematiskais numurs ar viesredaktoriem |
+| Teksta pārstrāde | Text recycling, self-plagiarism | Paša iepriekš publicēta teksta atkārtota izmantošana bez norādes |
+| Tulkošanas plaģiāts | Translation plagiarism | Cita autora darba pārtulkošana un publicēšana ar savu vārdu |
 | Viltus recenzēšana | Fake peer review | Recenzēšanas procesa manipulēšana, piemēram, ar izdomātiem recenzentiem |
 | Zombiju pētījums | Zombie trial | Pētījums ar tik nopietni viltotiem datiem, ka tas ir pilnībā nederīgs |

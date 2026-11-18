@@ -1,37 +1,152 @@
 ---
 title: "Plaģiāts"
 subtitle: "Plagiarism"
-description: "Cita darba, ideju vai teksta izmantošana bez atbilstošas atsauces, arī mocītās frāzes"
+description: "Cita darba vārdu, ideju, datu vai struktūras izmantošana bez atbilstošas atsauces. Ietver kopēšanu, pārveidošanu, tulkošanu un atribūcijas kļūdas"
 categories: [Rakstīšana, Pārkāpums]
 ---
 
 ::: {.kopsavilkums}
-Plaģiāts ir cita autora darba vai ideju piesavināšanās. Mūsdienās to arvien biežāk slēpj ar automātiskiem parafrāzēšanas rīkiem, kas rada absurdas “mocītās frāzes”.
+Plaģiāts ir cita autora vārdu, ideju, datu vai darba struktūras izmantošana bez atbilstošas atsauces, radot iespaidu, ka tas ir paša autora ieguldījums. Tas nav viens pārkāpums, bet vesela formu saime: no vārds vārdā kopēta rindkopas līdz pārtulkotam svešam rakstam un idejai, kas pārstāstīta bez atsauces. Šajā šķirklī apkopotas galvenās formas, pazīmes un pelēkās zonas.
 :::
 
 ## Definīcija
 
-Eiropas Pētniecības integritātes kodekss plaģiātu definē kā citu cilvēku darba un ideju izmantošanu, pienācīgi neatsaucoties uz sākotnējo avotu [@allea2023]. Tas attiecas uz tekstu, idejām, datiem, attēliem un metodēm.
+Eiropas Pētniecības integritātes kodekss plaģiātu definē kā citu cilvēku darba un ideju izmantošanu, pienācīgi neatsaucoties uz sākotnējo avotu [@allea2023]. Tas ir viens no trim smagākajiem pētniecības pārkāpumiem kopā ar [fabrikāciju](fabrikacija.qmd) un [falsifikāciju](falsifikacija.qmd).
 
-Radniecīgas parādības ir **pašplaģiāts** jeb paša iepriekš publicēta teksta atkārtota izmantošana bez norādes un **dublēta publicēšana**, kad viens un tas pats pētījums tiek publicēts vairākas reizes kā jauns.
+Plaģiāts attiecas ne tikai uz tekstu. Tas var skart idejas, hipotēzes, datus, attēlus, metodes un argumenta struktūru [@roig2015; @tauginiene2018]. Bouville [-@bouville2008] uzsver, ka galvenais ir ideju piesavināšanās, bet vārdi ir tas, pēc kā plaģiātu visbiežāk atklāj.
+
+### Ko nejaukt ar plaģiātu
+
+- **Autortiesību pārkāpums** ir juridisks jautājums, plaģiāts ir akadēmiskās ētikas jautājums. Tie var pārklāties, bet ne vienmēr. Precīzi atsaukts teksts var pārkāpt autortiesības, un plaģiēts var būt arī darbs, uz kuru autortiesības vairs neattiecas [@roig2015].
+- **Nepilnīga avotu izmantošana** ne vienmēr ir plaģiāts. Pētnieki nošķir apzinātu maldināšanu no rakstīšanas prasmju trūkuma, kas prasa mācīšanu, nevis sodu [@pecorari2003].
+- **Leģitīmi žanri**, piemēram, literatūras apskats, kompilācija vai mācību grāmata, var plaši izmantot citu darbus. Tie nav plaģiāts, ja katrs avots ir atsaukts un autora paša ieguldījums ir skaidri redzams.
+- **Vispārzināmas lietas**, piemēram, ka Rīga ir Latvijas galvaspilsēta, atsauci neprasa. Robeža starp vispārzināmo un konkrēta autora ieguldījumu gan ir atkarīga no nozares un lasītāja [@roig2015].
+
+## Kā plaģiātu raksturot: piecas dimensijas
+
+Plaģiāts nav "jā vai nē" jautājums [@weberwulff2014]. Ceļvedī katru gadījumu iesakām raksturot piecās neatkarīgās dimensijās:
+
+| Dimensija | Jautājums | Skala |
+|---|---|---|
+| **Apjoms** | Cik daudz pārņemts? | frāze, teikums, rindkopa, nodaļa, viss darbs |
+| **Avoti** | No cik avotiem un kā? | viens avots, vairāki sajaukti, paša iepriekšējie darbi |
+| **Pārveidošana** | Cik daudz mainīts? | vārds vārdā, tuva parafrāze, pārrakstīts, pārtulkots, tikai ideja |
+| **Atribūcija** | Vai un kā norādīts avots? | nav, daļēja, nepareiza, izdomāta |
+| **Apzinātība** | Vai tas darīts apzināti? | apzināti, pavirši, neapzināti |
+
+Apzinātību tieši pierādīt parasti nav iespējams, tāpēc izmeklēšanā galvenais ir paša teksta pierādījumi. Apzinātība tomēr ietekmē to, cik smagi pārkāpumu vērtē. Apjoms arī nav vienīgais kritērijs: dažu teikumu kopēšana, kas satur oriģinālu ideju, var būt smagāka nekā standarta ievada rindkopas kopēšana [@bouville2008].
+
+## Plaģiāta formas
+
+Formas ir sagrupētas deviņās grupās. Grupējums balstās uz ENAI glosāriju [@tauginiene2018], Foltýnek et al. [-@foltynek2019] tipoloģiju un Dugertija (Dougherty) [-@dougherty2020] slēptā plaģiāta tipoloģiju.
+
+### A. Kopēšana
+
+| Forma | Apraksts |
+|---|---|
+| **Pilnīga kopija** (*clone, copy-paste*) | Teksts pārņemts vārds vārdā bez pēdiņām un atsauces. |
+| **Kopija ar nelielām izmaiņām** | Lielākā daļa teksta ir kopēta, mainīti tikai atsevišķi vārdi vai secība. |
+| **Sinonīmu aizstāšana** (*find and replace*) | Vārdi sistemātiski aizstāti ar sinonīmiem, bet teikumu struktūra paliek nemainīga. Mūsdienās to dara automātiski parafrāzēšanas rīki, kas rada **mocītās frāzes**, piemēram, *counterfeit consciousness* vārdu *artificial intelligence* vietā [@cabanac2021]. |
+
+### B. Pārveidošana
+
+| Forma | Apraksts |
+|---|---|
+| **Lāpīšana** (*patchwriting*) | Avota teksts pārstrādāts, izmetot dažus vārdus, mainot gramatiku un ieliekot sinonīmus, bet saglabājot oriģināla kodolu [@howard1992]. Ja ir atsauce, to bieži vērtē kā prasmju trūkumu, nevis maldināšanu [@pecorari2003]. Pieredzējušam autoram šis attaisnojums neder. |
+| **Mozaīkas plaģiāts** (*mosaic plagiarism*) | Fragmenti no vairākiem avotiem savīti vienā tekstā, daļa savos vārdos, daļa kopēti, bez skaidras norādes, kas no kurienes. |
+| **Pārāk tuva parafrāze ar atsauci** | Avots ir norādīts, bet teksts ir tik tuvs oriģinālam, ka tam vajadzētu būt pēdiņās kā citātam [@roig2015]. |
+
+### C. Kompozīcija
+
+| Forma | Apraksts |
+|---|---|
+| **Agregators** (*aggregator*) | Visi avoti ir pareizi atsaukti, bet tekstā gandrīz nav paša autora ieguldījuma. Autors darbojas kā citu ideju savācējs [@tauginiene2018]. |
+| **Hibrīds** (*hybrid*) | Vienā fragmentā sajaukti pareizi atsaukti un neatsaukti teikumi, bieži no viena un tā paša avota. Atsauce rada iespaidu, ka viss pārējais ir paša autora. |
+
+### D. Atribūcijas problēmas
+
+| Forma | Apraksts |
+|---|---|
+| **Nepareiza atribūcija** (*misattribution*) | Ideja piedēvēta nepareizam autoram, nepareizam gadam vai nepareizam darbam. Lasītājs tiek maldināts par idejas izcelsmi. |
+| **Sekundārais avots kā primārais** | Autors atsaucas uz oriģinālu, ko pats nav lasījis, neatzīstot, ka informācija ņemta no cita darba. Pareizi būtu rakstīt "citēts pēc". Pazīme: oriģinālā atsaucē ir tās pašas kļūdas, kas sekundārajā avotā. |
+| **Neeksistējoša atsauce** (*404 error*) | Atsauce uz avotu, kura nav [@tauginiene2018]. Šī problēma kļūst biežāka līdz ar valodas modeļu lietošanu, kas mēdz izdomāt atsauces. |
+| **Atsauce ar sagrozītu saturu** | Avots eksistē, bet tam piedēvēts apgalvojums vai skaitlis, kura tajā nav. Šeit plaģiāts robežojas ar [fabrikāciju](fabrikacija.qmd). |
+| **Nepilnīga atribūcija** | Avots ir minēts tikai daļā vietu, kur tas izmantots, vai tikai vispārīgi, piemēram, vienreiz nodaļas sākumā [@roig2015]. |
+
+### E. Paša teksta atkārtota izmantošana
+
+| Forma | Apraksts |
+|---|---|
+| **Teksta pārstrāde** (*text recycling*), bieži sauktā "pašplaģiāts" | Paša iepriekš publicēta teksta izmantošana jaunā darbā bez norādes. Metožu aprakstu atkārtošana bieži ir pieņemama, diskusijas vai secinājumu atkārtošana parasti nav [@moskovitz2019]. ASV federālajos noteikumos tas nav pētniecības pārkāpums, bet joprojām ir ētikas problēma [@roig2015]. |
+| **Dublēta publicēšana** (*duplicate publication*) | Tie paši dati vai rezultāti publicēti vairākas reizes kā jauni. Tas kropļo metaanalīzes (sk. "Cik izplatīts"). |
+| **Salami publicēšana** (*salami slicing*) | Viens pētījums mākslīgi sadalīts vairākās publikācijās, lai palielinātu publikāciju skaitu [@roig2015]. |
+
+### F. Tulkošanas plaģiāts
+
+| Forma | Apraksts |
+|---|---|
+| **Tulkošanas plaģiāts** (*translation plagiarism*) | Cita autora darbs pārtulkots citā valodā un publicēts ar sava vārdu [@dougherty2020]. Teksta līdzības rīki to parasti neatklāj, tāpēc tas var palikt nepamanīts gadiem. Mazās valodās, piemēram, latviešu, risks ir īpaši liels, jo lielākā daļa avotu ir angļu valodā. |
+| **Daļējs tulkošanas plaģiāts** | Atsevišķas rindkopas vai nodaļas pārtulkotas un iekļautas darbā bez atsauces. |
+| **Divkāršs tulkojums** | Teksts tulkots uz citu valodu un atpakaļ, lai slēptu izcelsmi [@dougherty2020]. |
+
+### G. Ideju plaģiāts
+
+| Forma | Apraksts |
+|---|---|
+| **Ideju plaģiāts** (*idea plagiarism*) | Cita autora ideja, hipotēze, skaidrojums vai argumenta līnija pārņemta bez atsauces, pat ja vārdi ir pilnībā savi [@roig2015; @bouville2008]. Īpaši nopietns gadījums ir ideju pārņemšana no rokraksta, ko autors saņēmis recenzēšanai. |
+| **Struktūras plaģiāts** | Pārņemta cita darba uzbūve, nodaļu secība un argumentu kārtība, tekstu pārrakstot. To bieži redz kopā ar citām formām. |
+
+### H. Autorība un pasūtīti darbi
+
+Šīs formas ceļvedī aprakstītas atsevišķos šķirkļos: [nopelnu autorība](nopelnu-autoriba.qmd), kad autorība piešķirta bez ieguldījuma, un [autorības tirgus](autoribas-tirgus.qmd), kur nopērk autora vietu vai visu darbu. Pasūtīta darba iesniegšana ar sava vārdu (*contract cheating, ghostwriting*) ir maldināšana par autorību, pat ja teksts pats par sevi nav kopēts.
+
+### I. Mākslīgā intelekta radīts teksts
+
+| Forma | Apraksts |
+|---|---|
+| **Neatklāta MI izmantošana** | Ar MI rīku ģenerēts teksts pasniegts kā paša rakstīts. ENAI iesaka atklāt visas personas, avotus un rīkus, kas ietekmējuši darba idejas vai saturu, un nenorādīt MI rīkus kā autorus [@foltynek2023]. |
+| **MI ar izdomātām atsaucēm** | MI ģenerētajā tekstā ir neeksistējošas vai sagrozītas atsauces (sk. D grupu). |
+
+## Pelēkās zonas
+
+- **Lāpīšana kā mācīšanās posms.** Studentiem, īpaši rakstot svešvalodā, tā var būt normāla prasmju attīstības stadija [@howard1992; @pecorari2003]. Profesionālam autoram šis arguments neder.
+- **Neapzināts plaģiāts** (*cryptomnesia*). Eksperimenti rāda, ka cilvēki mēdz uzskatīt par savu ideju to, ko agrāk dzirdējuši no citiem [@brown1989]. Tas izskaidro atsevišķus gadījumus, bet ne sistemātisku kopēšanu.
+- **Standarta formulējumi.** Metožu aprakstos, definīcijās un tehniskos terminos vienādi formulējumi bieži ir neizbēgami [@moskovitz2019].
+- **Kopīgi darbi.** Ja teksts radīts kopā ar citiem, tā atkārtota izmantošana prasa norādi uz kopīgo darbu un, ja iespējams, līdzautoru piekrišanu.
+- **Mācību grāmatas.** Žanrs atļauj pārstāstīt klasiskās teorijas, bet atsauču prasības paliek spēkā. Robeža starp mācību grāmatu un neatzītu kompilāciju jāvērtē katrā gadījumā atsevišķi.
 
 ## Kā atpazīt
 
-- Teksta līdzības pārbaudes rīki uzrāda lielu sakritību ar citiem avotiem.
-- Tekstā ir **mocītās frāzes** (*tortured phrases*): nepareizi parafrāzēti termini, piemēram, *counterfeit consciousness* (“viltota apziņa”) vārdu *artificial intelligence* vietā vai *bosom peril* vārdu *breast cancer* vietā [@cabanac2021].
-- Rakstīšanas stils pēkšņi mainās vienā tekstā.
+**Tekstā**
+
+- Pēkšņas stila, terminoloģijas vai valodas kvalitātes maiņas viena teksta ietvaros.
+- Neparasti, neveikli vai absurdi termini, kas izskatās pēc mašīnas veiktas sinonīmu aizstāšanas [@cabanac2021].
+- Latviešu tekstā sintakse, kas atkārto angļu teikumu uzbūvi, var liecināt par tulkojumu.
+- Atsaukšanās, kas sakrīt ar cita darba atsaucēm, ieskaitot to kļūdas.
+
+**Atsaucēs**
+
+- Avots ir minēts nodaļas sākumā, bet tālāk teksts turpina to izmantot bez atsauces.
+- Atsauces gads, autors vai darbs neatbilst idejai, kas tam piedēvēta.
+- Atsauces, kuras neizdodas atrast nevienā datubāzē.
+
+**Rīki**
+
+Teksta līdzības rīki palīdz atrast kopēšanu, bet tie neatklāj tulkošanas plaģiātu, ideju plaģiātu un daudzas pārveidotas formas [@foltynek2019]. Līdzības procents pats par sevi nav pierādījums: to vienmēr jāizvērtē cilvēkam.
 
 ## Cik izplatīts
 
-Problematic Paper Screener projekts, kas automātiski meklē mocītās frāzes, līdz 2025. gada sākumam atrada gandrīz 19 000 publikāciju ar vismaz piecām šādām frāzēm [@abalkina2025]. Mocītās frāzes bieži ir arī [papīru fabriku](papiru-fabrikas.qmd) produktu pazīme.
+- Metaanalīzē, kas apvienoja 17 aptaujas, vidēji 1,7 % pētnieku atzina, ka paši ir plaģiējuši, bet 30 % zināja kolēģi, kas to darījis [@pupovac2015]. Pašziņojumi, visticamāk, izplatību novērtē par zemu.
+- Dublētas publikācijas var kropļot pētījumu kopsavilkumus. Ondansetrona pētījumu analīzē 17 % klīnisko pētījumu bija slēpti dublikāti, un to iekļaušana metaanalīzē par 23 % pārspīlēja zāļu efektu [@tramer1997].
+- Problematic Paper Screener projekts līdz 2025. gada sākumam atrada gandrīz 19 000 publikāciju ar vismaz piecām mocītajām frāzēm [@abalkina2025]. Mocītās frāzes bieži ir arī [papīru fabriku](papiru-fabrikas.qmd) pazīme.
 
 ## Piemērs
 
-Šis jēdziens vēl gaida oficiāli konstatētu piemēru ar publiski pieejamu lēmumu. Konkrētu personu gadījumi šajā ceļvedī tiks pievienoti tikai ar oficiālu lēmumu.
+**Karla Teodora cu Gutenberga disertācija (Vācija, 2011).** Bairoitas Universitāte 2011. gada februārī atņēma toreizējam Vācijas aizsardzības ministram doktora grādu. Universitātes komisija "Selbstkontrolle in der Wissenschaft" 2011. gada maijā secināja, ka viņš disertācijā apzināti piesavinājies svešu tekstu autorību un rupji pārkāpis labas zinātniskās prakses standartus [@bayreuth2011]. Gadījums kļuva par pagrieziena punktu Vācijā: kopš 2011. gada brīvprātīgo projekts VroniPlag Wiki sistemātiski pārbauda un dokumentē plaģiātu disertācijās [@weberwulff2014].
 
 ## Saistītie jēdzieni
 
-[Papīru fabrikas](papiru-fabrikas.qmd), [Autorības tirgus](autoribas-tirgus.qmd)
+[Fabrikācija](fabrikacija.qmd), [Falsifikācija](falsifikacija.qmd), [Papīru fabrikas](papiru-fabrikas.qmd), [Nopelnu autorība](nopelnu-autoriba.qmd), [Autorības tirgus](autoribas-tirgus.qmd)
 
 ## Atsauces
 
