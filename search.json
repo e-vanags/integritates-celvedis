@@ -1,0 +1,1326 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zinātnes integritātes ceļvedis",
+    "section": "",
+    "text": "Šis ceļvedis latviešu valodā apkopo galvenos zinātnes integritātes pārkāpumus un apšaubāmās pētniecības prakses. Katram jēdzienam ir definīcija, atpazīšanas pazīmes, dati par izplatību, oficiāli konstatēts piemērs un atsauces uz recenzētiem avotiem. Ceļvedis ir daļa no iniciatīvas Slow Science.\nJēdzieni ir sakārtoti pēc pētniecības cikla posma un pēc statusa:\nPārskatu pēc pētniecības posmiem skati sadaļā Taksonomija, bet latviešu un angļu terminus sadaļā Glosārijs."
+  },
+  {
+    "objectID": "index.html#visi-jēdzieni",
+    "href": "index.html#visi-jēdzieni",
+    "title": "Zinātnes integritātes ceļvedis",
+    "section": "Visi jēdzieni",
+    "text": "Visi jēdzieni\n\n\n   \n    \n    \n      Kārtot pēc\n      Noklusējums\n      \n        Jēdziens\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nJēdziens\n\n\n\nAngliski\n\n\n\nKategorijas\n\n\n\nĪsumā\n\n\n\n\n\n\n\n\nAutorības tirgus\n\n\nAuthorship for sale\n\n\nAutorība, Pārkāpums\n\n\nAutora vietu pirkšana un pārdošana zinātniskajos rakstos\n\n\n\n\n\n\nCitēšanas manipulācijas\n\n\nCitation manipulation, citation cartels\n\n\nMetrikas, Apšaubāma prakse\n\n\nMākslīga citātu skaita palielināšana ar pašcitēšanu, karteļiem vai pirktām citātām\n\n\n\n\n\n\nFabrikācija\n\n\nFabrication\n\n\nDati, Pārkāpums\n\n\nDatu vai rezultātu izdomāšana un pasniegšana kā īstu\n\n\n\n\n\n\nFalsifikācija\n\n\nFalsification\n\n\nDati, Pārkāpums\n\n\nDatu, materiālu vai procesu manipulēšana, arī attēlu manipulācijas\n\n\n\n\n\n\nHARKing\n\n\nHypothesizing After the Results are Known\n\n\nAnalīze, Apšaubāma prakse\n\n\nHipotēžu formulēšana pēc rezultātu uzzināšanas, pasniedzot tās kā iepriekš izvirzītas\n\n\n\n\n\n\nNopelnu autorība\n\n\nHonorary, gift or guest authorship\n\n\nAutorība, Apšaubāma prakse\n\n\nAutora statuss personai, kas neatbilst autorības kritērijiem\n\n\n\n\n\n\nP vērtību pielāgošana\n\n\nP-hacking\n\n\nAnalīze, Apšaubāma prakse\n\n\nAnalīzes elastības izmantošana, līdz rezultāts kļūst statistiski nozīmīgs\n\n\n\n\n\n\nPapīru fabrikas\n\n\nPaper mills\n\n\nPublicēšana, Sistēmisks risks\n\n\nKomerciālas struktūras, kas ražo un pārdod viltotus rakstus un autorību\n\n\n\n\n\n\nPelēkās zonas izdevēji\n\n\nGrey zone publishers\n\n\nPublicēšana, Sistēmisks risks\n\n\nIzdevēji, kuru biznesa modelis rada bažas par kvalitāti, bet kas neatbilst plēsonīga izdevēja definīcijai\n\n\n\n\n\n\nPlaģiāts\n\n\nPlagiarism\n\n\nRakstīšana, Pārkāpums\n\n\nCita darba, ideju vai teksta izmantošana bez atbilstošas atsauces, arī mocītās frāzes\n\n\n\n\n\n\nPlēsonīgie žurnāli\n\n\nPredatory journals\n\n\nPublicēšana, Sistēmisks risks\n\n\nŽurnāli, kas savas intereses liek augstāk par zinātni un maldina par savu darbību\n\n\n\n\n\n\nPublikāciju nobīde\n\n\nPublication bias, file drawer problem\n\n\nZiņošana, Apšaubāma prakse\n\n\nStatistiski nozīmīgi rezultāti tiek publicēti daudz biežāk nekā nenozīmīgi\n\n\n\n\n\n\nViltus recenzēšana\n\n\nFake peer review, peer review manipulation\n\n\nRecenzēšana, Pārkāpums\n\n\nRecenzēšanas procesa manipulēšana ar izdomātiem recenzentiem, recenziju apļiem vai MI ģenerētām recenzijām\n\n\n\n\n\n\nZombiju pētījumi un atsaukumi\n\n\nZombie trials, retractions\n\n\nDati, Sistēmisks risks\n\n\nPētījumi ar viltotiem datiem, kas turpina ietekmēt pierādījumu bāzi arī pēc atsaukšanas\n\n\n\n\n\n\nNav atbilstošu ierakstu"
+  },
+  {
+    "objectID": "jedzieni/plesonigie-zurnali.html",
+    "href": "jedzieni/plesonigie-zurnali.html",
+    "title": "Plēsonīgie žurnāli",
+    "section": "",
+    "text": "Plēsonīgie žurnāli imitē zinātnisku žurnālu, bet patiesībā pārdod publicēšanas pakalpojumu bez reālas kvalitātes kontroles. Tie izmanto metriku spiedienu, kas prasa publikāciju skaitu.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Plēsonīgie žurnāli"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plesonigie-zurnali.html#definīcija",
+    "href": "jedzieni/plesonigie-zurnali.html#definīcija",
+    "title": "Plēsonīgie žurnāli",
+    "section": "Definīcija",
+    "text": "Definīcija\nPēc starptautiskas vienošanās plēsonīgie žurnāli un izdevēji ir subjekti, kas savas intereses liek augstāk par zinātni un kam raksturīga nepatiesa vai maldinoša informācija, atkāpes no labas redakcionālās un publicēšanas prakses, caurskatāmības trūkums un agresīva, neselektīva autoru piesaiste (Grudniewicz u.c., 2019).",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Plēsonīgie žurnāli"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plesonigie-zurnali.html#kā-atpazīt",
+    "href": "jedzieni/plesonigie-zurnali.html#kā-atpazīt",
+    "title": "Plēsonīgie žurnāli",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nNevēlami e-pasta uzaicinājumi publicēt vai būt redkolēģijā.\nSolīta publicēšana dažu dienu laikā.\nNepatiesi apgalvojumi par indeksāciju vai ietekmes faktoru.\nNeskaidra informācija par redakciju, recenzēšanu un maksām.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Plēsonīgie žurnāli"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plesonigie-zurnali.html#cik-izplatīts",
+    "href": "jedzieni/plesonigie-zurnali.html#cik-izplatīts",
+    "title": "Plēsonīgie žurnāli",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nNo 2015. līdz 2017. gadam 2,8% visu Scopus rakstu tika publicēti žurnālos no Beall sarakstiem, Kazahstānā un Indonēzijā aptuveni katrs sestais raksts (Macháček & Srholec, 2022). Latvijai šis rādītājs bija 1,35%, bet, neskaitot Frontiers, kas iekļauts Beall sarakstā, 1,05%. Tas ir 6. augstākais rādītājs ES (aprēķināts no Macháček un Srholec papildmateriāliem).\nPlēsonīgo žurnālu rakstiem ir maza zinātniskā ietekme: piecu gadu laikā 56% rakstu nebija citēti ne reizi (Björk u.c., 2020).",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Plēsonīgie žurnāli"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plesonigie-zurnali.html#piemērs",
+    "href": "jedzieni/plesonigie-zurnali.html#piemērs",
+    "title": "Plēsonīgie žurnāli",
+    "section": "Piemērs",
+    "text": "Piemērs\nŽurnālu līmenī: daudzi žurnāli ir izslēgti no Scopus un Web of Science. Personu gadījumi netiek minēti, jo publicēšanās šādā žurnālā pati par sevi nav konstatēts pārkāpums.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Plēsonīgie žurnāli"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plesonigie-zurnali.html#saistītie-jēdzieni",
+    "href": "jedzieni/plesonigie-zurnali.html#saistītie-jēdzieni",
+    "title": "Plēsonīgie žurnāli",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nPelēkās zonas izdevēji, Papīru fabrikas, Citēšanas manipulācijas",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Plēsonīgie žurnāli"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plesonigie-zurnali.html#atsauces",
+    "href": "jedzieni/plesonigie-zurnali.html#atsauces",
+    "title": "Plēsonīgie žurnāli",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nBjörk, B.-C., Kanto-Karvonen, S., & Harviainen, J. T. (2020). How frequently are articles in predatory open access journals cited. Publications, 8(2), 17. https://doi.org/10.3390/publications8020017\n\n\nGrudniewicz, A., Moher, D., Cobey, K. D., u.c. (2019). Predatory journals: No definition, no defence. Nature, 576, 210–212. https://doi.org/10.1038/d41586-019-03759-y\n\n\nMacháček, V., & Srholec, M. (2022). Predatory publishing in Scopus: Evidence on cross-country differences. Quantitative Science Studies, 3(3), 859–887. https://doi.org/10.1162/qss_a_00213",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Plēsonīgie žurnāli"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plagiats.html",
+    "href": "jedzieni/plagiats.html",
+    "title": "Plaģiāts",
+    "section": "",
+    "text": "Plaģiāts ir cita autora darba vai ideju piesavināšanās. Mūsdienās to arvien biežāk slēpj ar automātiskiem parafrāzēšanas rīkiem, kas rada absurdas “mocītās frāzes”.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Plaģiāts"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plagiats.html#definīcija",
+    "href": "jedzieni/plagiats.html#definīcija",
+    "title": "Plaģiāts",
+    "section": "Definīcija",
+    "text": "Definīcija\nEiropas Pētniecības integritātes kodekss plaģiātu definē kā citu cilvēku darba un ideju izmantošanu, pienācīgi neatsaucoties uz sākotnējo avotu (ALLEA, 2023). Tas attiecas uz tekstu, idejām, datiem, attēliem un metodēm.\nRadniecīgas parādības ir pašplaģiāts jeb paša iepriekš publicēta teksta atkārtota izmantošana bez norādes un dublēta publicēšana, kad viens un tas pats pētījums tiek publicēts vairākas reizes kā jauns.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Plaģiāts"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plagiats.html#kā-atpazīt",
+    "href": "jedzieni/plagiats.html#kā-atpazīt",
+    "title": "Plaģiāts",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nTeksta līdzības pārbaudes rīki uzrāda lielu sakritību ar citiem avotiem.\nTekstā ir mocītās frāzes (tortured phrases): nepareizi parafrāzēti termini, piemēram, counterfeit consciousness (“viltota apziņa”) vārdu artificial intelligence vietā vai bosom peril vārdu breast cancer vietā (Cabanac u.c., 2021).\nRakstīšanas stils pēkšņi mainās vienā tekstā.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Plaģiāts"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plagiats.html#cik-izplatīts",
+    "href": "jedzieni/plagiats.html#cik-izplatīts",
+    "title": "Plaģiāts",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nProblematic Paper Screener projekts, kas automātiski meklē mocītās frāzes, līdz 2025. gada sākumam atrada gandrīz 19 000 publikāciju ar vismaz piecām šādām frāzēm (Abalkina u.c., 2025). Mocītās frāzes bieži ir arī papīru fabriku produktu pazīme.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Plaģiāts"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plagiats.html#piemērs",
+    "href": "jedzieni/plagiats.html#piemērs",
+    "title": "Plaģiāts",
+    "section": "Piemērs",
+    "text": "Piemērs\nŠis jēdziens vēl gaida oficiāli konstatētu piemēru ar publiski pieejamu lēmumu. Konkrētu personu gadījumi šajā ceļvedī tiks pievienoti tikai ar oficiālu lēmumu.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Plaģiāts"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plagiats.html#saistītie-jēdzieni",
+    "href": "jedzieni/plagiats.html#saistītie-jēdzieni",
+    "title": "Plaģiāts",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nPapīru fabrikas, Autorības tirgus",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Plaģiāts"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plagiats.html#atsauces",
+    "href": "jedzieni/plagiats.html#atsauces",
+    "title": "Plaģiāts",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nAbalkina, A., Aquarius, R., Bik, E., Bimler, D., Bishop, D., Byrne, J., Cabanac, G., Day, A., Labbé, C., & Wise, N. (2025). \"Stamp out paper mills\": Science sleuths on how to fight fake research. Nature, 637, 1047–1050. https://doi.org/10.1038/d41586-025-00212-1\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nCabanac, G., Labbé, C., & Magazinov, A. (2021). Tortured phrases: A dubious writing style emerging in science. arXiv preprint. https://doi.org/10.48550/arXiv.2107.06751",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Plaģiāts"
+    ]
+  },
+  {
+    "objectID": "jedzieni/harking.html",
+    "href": "jedzieni/harking.html",
+    "title": "HARKing",
+    "section": "",
+    "text": "HARKing pārvērš izpētes (eksploratīvu) atradumu par it kā apstiprinošu pārbaudi. Lasītājs tiek maldināts par to, cik spēcīgs ir pierādījums.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "HARKing"
+    ]
+  },
+  {
+    "objectID": "jedzieni/harking.html#definīcija",
+    "href": "jedzieni/harking.html#definīcija",
+    "title": "HARKing",
+    "section": "Definīcija",
+    "text": "Definīcija\nHARKing ir prakse, kad pētnieks pēc rezultātu iegūšanas formulē hipotēzi, kas tiem atbilst, un rakstā to pasniedz tā, it kā tā būtu izvirzīta pirms pētījuma (Kerr, 1998).",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "HARKing"
+    ]
+  },
+  {
+    "objectID": "jedzieni/harking.html#kā-atpazīt",
+    "href": "jedzieni/harking.html#kā-atpazīt",
+    "title": "HARKing",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nVisas hipotēzes ir apstiprinātas, arī negaidītas un ļoti specifiskas.\nTeorētiskais ievads izskatās pielāgots tieši iegūtajiem rezultātiem.\nHipotēzes atšķiras no tām, kas norādītas projekta pieteikumā, disertācijā vai priekšreģistrācijā.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "HARKing"
+    ]
+  },
+  {
+    "objectID": "jedzieni/harking.html#cik-izplatīts",
+    "href": "jedzieni/harking.html#cik-izplatīts",
+    "title": "HARKing",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nNetiešs rādītājs ir pozitīvo rezultātu īpatsvars. Standarta psiholoģijas rakstos hipotēzes apstiprinājās 96% gadījumu, bet reģistrētajos ziņojumos, kur hipotēzes tiek fiksētas pirms datu iegūšanas, tikai 44% (Scheel u.c., 2021). Šī starpība atspoguļo HARKing, p vērtību pielāgošanas un publikāciju nobīdes kopējo ietekmi.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "HARKing"
+    ]
+  },
+  {
+    "objectID": "jedzieni/harking.html#piemērs",
+    "href": "jedzieni/harking.html#piemērs",
+    "title": "HARKing",
+    "section": "Piemērs",
+    "text": "Piemērs\nSistēmiska prakse bez konkrētiem personu gadījumiem.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "HARKing"
+    ]
+  },
+  {
+    "objectID": "jedzieni/harking.html#ko-darīt",
+    "href": "jedzieni/harking.html#ko-darīt",
+    "title": "HARKing",
+    "section": "Ko darīt",
+    "text": "Ko darīt\nSkaidri nošķirt apstiprinošas un izpētes analīzes, izmantot priekšreģistrāciju un reģistrētos ziņojumus.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "HARKing"
+    ]
+  },
+  {
+    "objectID": "jedzieni/harking.html#saistītie-jēdzieni",
+    "href": "jedzieni/harking.html#saistītie-jēdzieni",
+    "title": "HARKing",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nP vērtību pielāgošana, Publikāciju nobīde",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "HARKing"
+    ]
+  },
+  {
+    "objectID": "jedzieni/harking.html#atsauces",
+    "href": "jedzieni/harking.html#atsauces",
+    "title": "HARKing",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nKerr, N. L. (1998). HARKing: Hypothesizing after the results are known. Personality and Social Psychology Review, 2(3), 196–217. https://doi.org/10.1207/s15327957pspr0203_4\n\n\nScheel, A. M., Schijen, M. R. M. J., & Lakens, D. (2021). An excess of positive results: Comparing the standard psychology literature with Registered Reports. Advances in Methods and Practices in Psychological Science, 4(2). https://doi.org/10.1177/25152459211007467",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "HARKing"
+    ]
+  },
+  {
+    "objectID": "jedzieni/pelekas-zonas-izdeveji.html",
+    "href": "jedzieni/pelekas-zonas-izdeveji.html",
+    "title": "Pelēkās zonas izdevēji",
+    "section": "",
+    "text": "Pelēkās zonas izdevēji veic recenzēšanu un ir indeksēti lielajās datubāzēs, tāpēc tos nevar saukt par plēsonīgiem. Tomēr to izaugsmes modelis, kas balstās uz publicēšanas maksām un speciālizdevumiem, rada nopietnas bažas par kvalitātes kontroli.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Pelēkās zonas izdevēji"
+    ]
+  },
+  {
+    "objectID": "jedzieni/pelekas-zonas-izdeveji.html#definīcija",
+    "href": "jedzieni/pelekas-zonas-izdeveji.html#definīcija",
+    "title": "Pelēkās zonas izdevēji",
+    "section": "Definīcija",
+    "text": "Definīcija\nTermins nāk no Somijas publikāciju foruma JUFO, kas no 2025. gada pazemināja 271 MDPI un Frontiers žurnālu līdz 0. līmenim, nosaucot tos par pelēkās zonas žurnāliem, kuros publicēšanos nevar ieteikt bez iebildumiem (Retraction Watch, 2024). Atšķirībā no plēsonīgajiem žurnāliem šie izdevēji neatbilst plēsonīga izdevēja definīcijai (Grudniewicz u.c., 2019).",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Pelēkās zonas izdevēji"
+    ]
+  },
+  {
+    "objectID": "jedzieni/pelekas-zonas-izdeveji.html#kā-atpazīt",
+    "href": "jedzieni/pelekas-zonas-izdeveji.html#kā-atpazīt",
+    "title": "Pelēkās zonas izdevēji",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nLielākā daļa rakstu tiek publicēti speciālizdevumos ar viesredaktoriem.\nĻoti īss laiks no iesniegšanas līdz publicēšanai.\nLiels vienas izdevniecības žurnālu savstarpējās citēšanas īpatsvars.\nMasveida uzaicinājumi būt viesredaktoram vai recenzentam.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Pelēkās zonas izdevēji"
+    ]
+  },
+  {
+    "objectID": "jedzieni/pelekas-zonas-izdeveji.html#cik-izplatīts",
+    "href": "jedzieni/pelekas-zonas-izdeveji.html#cik-izplatīts",
+    "title": "Pelēkās zonas izdevēji",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nLaikā no 2016. līdz 2022. gadam MDPI un Frontiers nodrošināja aptuveni 38% no indeksēto rakstu skaita pieauguma pasaulē. 2022. gadā speciālizdevumos tika publicēti 88% MDPI un 69% Frontiers rakstu, salīdzinot ar 11% Nature izdevniecībā un 1% PLOS (Hanson u.c., 2024).\nLatvijā laikā no 2022. līdz 2024. gadam gandrīz puse Latvijas autoru Web of Science rakstu bija publicēti MDPI, Frontiers vai Emerging Sources žurnālos, un ES vairāk ir tikai Rumānijā un Bulgārijā (Krasnopjorovs, 2025).",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Pelēkās zonas izdevēji"
+    ]
+  },
+  {
+    "objectID": "jedzieni/pelekas-zonas-izdeveji.html#piemērs",
+    "href": "jedzieni/pelekas-zonas-izdeveji.html#piemērs",
+    "title": "Pelēkās zonas izdevēji",
+    "section": "Piemērs",
+    "text": "Piemērs\nŽurnālu līmenī: JUFO lēmums Somijā (Retraction Watch, 2024). Šī kategorija nav pārkāpums, tāpēc personas netiek minētas.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Pelēkās zonas izdevēji"
+    ]
+  },
+  {
+    "objectID": "jedzieni/pelekas-zonas-izdeveji.html#saistītie-jēdzieni",
+    "href": "jedzieni/pelekas-zonas-izdeveji.html#saistītie-jēdzieni",
+    "title": "Pelēkās zonas izdevēji",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nPlēsonīgie žurnāli, Papīru fabrikas, Citēšanas manipulācijas",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Pelēkās zonas izdevēji"
+    ]
+  },
+  {
+    "objectID": "jedzieni/pelekas-zonas-izdeveji.html#atsauces",
+    "href": "jedzieni/pelekas-zonas-izdeveji.html#atsauces",
+    "title": "Pelēkās zonas izdevēji",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nGrudniewicz, A., Moher, D., Cobey, K. D., u.c. (2019). Predatory journals: No definition, no defence. Nature, 576, 210–212. https://doi.org/10.1038/d41586-019-03759-y\n\n\nHanson, M. A., Gómez Barreiro, P., Crosetto, P., & Brockington, D. (2024). The strain on scientific publishing. Quantitative Science Studies, 5(4), 823–843. https://doi.org/10.1162/qss_a_00327\n\n\nKrasnopjorovs, O. (2025). Kas slēpjas aiz rekordaugstā Latvijas zinātnisko rakstu skaita pieauguma? Makroekonomika.lv. https://www.makroekonomika.lv/raksti/kas-slepjas-aiz-rekordaugsta-latvijas-zinatnisko-rakstu-skaita-pieauguma\n\n\nRetraction Watch. (2024). Finland Publication Forum will downgrade hundreds of Frontiers and MDPI journals. https://retractionwatch.com/2024/12/24/finland-publication-forum-will-downgrade-hundreds-of-frontiers-and-mdpi-journals",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Pelēkās zonas izdevēji"
+    ]
+  },
+  {
+    "objectID": "jedzieni/p-vertibu-pielagosana.html",
+    "href": "jedzieni/p-vertibu-pielagosana.html",
+    "title": "P vērtību pielāgošana",
+    "section": "",
+    "text": "P vērtību pielāgošana ir viens no galvenajiem replikācijas krīzes cēloņiem. Pētnieks izmēģina dažādus analīzes variantus un ziņo tikai to, kas dod p &lt; 0,05. Tas bieži notiek bez apzināta nodoma krāpties.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "P vērtību pielāgošana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/p-vertibu-pielagosana.html#definīcija",
+    "href": "jedzieni/p-vertibu-pielagosana.html#definīcija",
+    "title": "P vērtību pielāgošana",
+    "section": "Definīcija",
+    "text": "Definīcija\nP vērtību pielāgošana ir pētnieka rīcības brīvības izmantošana datu vākšanā un analīzē (researcher degrees of freedom), līdz tiek iegūts statistiski nozīmīgs rezultāts, ziņojot tikai par veiksmīgo variantu (Simmons u.c., 2011).",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "P vērtību pielāgošana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/p-vertibu-pielagosana.html#kā-atpazīt",
+    "href": "jedzieni/p-vertibu-pielagosana.html#kā-atpazīt",
+    "title": "P vērtību pielāgošana",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nDaudzas p vērtības ir tieši zem 0,05.\nNav priekšreģistrācijas, vai publikācija atšķiras no reģistrētā plāna.\nIzlases lielums nav pamatots, un datu vākšana, šķiet, apturēta “īstajā brīdī”.\nIzslēgšanas kritēriji, kovariātes vai atkarīgie mainīgie dažādos pētījumos mainās bez skaidrojuma.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "P vērtību pielāgošana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/p-vertibu-pielagosana.html#cik-izplatīts",
+    "href": "jedzieni/p-vertibu-pielagosana.html#cik-izplatīts",
+    "title": "P vērtību pielāgošana",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nSimmons, Nelson un Simonsohn ar simulācijām parādīja, ka, apvienojot dažus izplatītus analīzes izvēles veidus, kļūdaini pozitīva rezultāta iespējamība no nominālajiem 5% var pieaugt līdz aptuveni 60% (Simmons u.c., 2011). Aptaujā starp ASV psihologiem vairums atzina vismaz vienu šādu praksi, piemēram, ne visu atkarīgo mainīgo uzrādīšanu vai lēmumu par papildu datu vākšanu pēc rezultātu apskatīšanas (John u.c., 2012).",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "P vērtību pielāgošana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/p-vertibu-pielagosana.html#piemērs",
+    "href": "jedzieni/p-vertibu-pielagosana.html#piemērs",
+    "title": "P vērtību pielāgošana",
+    "section": "Piemērs",
+    "text": "Piemērs\nŠī ir sistēmiska prakse, nevis atsevišķu personu pārkāpums. Tās sekas labi parāda liela mēroga replikāciju projekti: no 100 psiholoģijas pētījumiem oriģinālajos rezultātos 97% bija statistiski nozīmīgi, bet replikācijās tikai 36% (Open Science Collaboration, 2015).",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "P vērtību pielāgošana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/p-vertibu-pielagosana.html#ko-darīt",
+    "href": "jedzieni/p-vertibu-pielagosana.html#ko-darīt",
+    "title": "P vērtību pielāgošana",
+    "section": "Ko darīt",
+    "text": "Ko darīt\nPriekšreģistrācija, reģistrētie ziņojumi, iepriekš pamatots izlases lielums un atvērti dati un kods.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "P vērtību pielāgošana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/p-vertibu-pielagosana.html#saistītie-jēdzieni",
+    "href": "jedzieni/p-vertibu-pielagosana.html#saistītie-jēdzieni",
+    "title": "P vērtību pielāgošana",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nHARKing, Publikāciju nobīde, Falsifikācija",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "P vērtību pielāgošana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/p-vertibu-pielagosana.html#atsauces",
+    "href": "jedzieni/p-vertibu-pielagosana.html#atsauces",
+    "title": "P vērtību pielāgošana",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nJohn, L. K., Loewenstein, G., & Prelec, D. (2012). Measuring the prevalence of questionable research practices with incentives for truth telling. Psychological Science, 23(5), 524–532. https://doi.org/10.1177/0956797611430953\n\n\nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. https://doi.org/10.1126/science.aac4716\n\n\nSimmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "P vērtību pielāgošana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/papiru-fabrikas.html",
+    "href": "jedzieni/papiru-fabrikas.html",
+    "title": "Papīru fabrikas",
+    "section": "",
+    "text": "Papīru fabrikas ir rūpnieciska mēroga krāpšana. To produkcija aug daudz straujāk nekā zinātne kopumā, un tikai neliela daļa no tās tiek atklāta un atsaukta.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Papīru fabrikas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/papiru-fabrikas.html#definīcija",
+    "href": "jedzieni/papiru-fabrikas.html#definīcija",
+    "title": "Papīru fabrikas",
+    "section": "Definīcija",
+    "text": "Definīcija\nPapīru fabrikas ir komerciālas, bieži nelegālas organizācijas, kas ražo un pārdod viltotus vai zemas kvalitātes manuskriptus, autora vietas un dažreiz arī recenzēšanas iznākumu (COPE & STM, 2022).",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Papīru fabrikas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/papiru-fabrikas.html#kā-atpazīt",
+    "href": "jedzieni/papiru-fabrikas.html#kā-atpazīt",
+    "title": "Papīru fabrikas",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nDaudziem rakstiem ir vienāda struktūra, līdzīgi nosaukumi un attēli.\nTekstā ir mocītās frāzes.\nAutori, iestādes un tēma nav savstarpēji saistīti.\nRakstu viļņi parādās viena žurnāla speciālizdevumos ar vieniem un tiem pašiem viesredaktoriem.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Papīru fabrikas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/papiru-fabrikas.html#cik-izplatīts",
+    "href": "jedzieni/papiru-fabrikas.html#cik-izplatīts",
+    "title": "Papīru fabrikas",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\n\nIespējamo papīru fabriku produktu skaits dubultojas aptuveni ik pēc pusotra gada, bet visu zinātnisko publikāciju skaits ik pēc aptuveni 15 gadiem (Richardson u.c., 2025).\nNerecenzēta, autora vārdiem konservatīva aplēse: no 2000. līdz 2022. gadam publicēti vairāk nekā 400 000 rakstu ar papīru fabriku pazīmēm (Van Noorden, 2023a).\nIntegritātes detektīvi norāda, ka tajā pašā laikā atsaukti vai laboti tikai aptuveni 55 000 rakstu jebkāda iemesla dēļ (Abalkina u.c., 2025).",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Papīru fabrikas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/papiru-fabrikas.html#piemērs",
+    "href": "jedzieni/papiru-fabrikas.html#piemērs",
+    "title": "Papīru fabrikas",
+    "section": "Piemērs",
+    "text": "Piemērs\nWiley piederošā izdevniecība Hindawi 2023. gadā atsauca vairāk nekā 8000 rakstu, galvenokārt speciālizdevumos, ar pamatojumu “sistemātiska publicēšanas un recenzēšanas procesa manipulēšana”. Tajā gadā kopējais atsaukumu skaits pirmo reizi pārsniedza 10 000 (Van Noorden, 2023b). Wiley vēlāk slēdza vairākus žurnālus un pārtrauca Hindawi zīmola izmantošanu.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Papīru fabrikas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/papiru-fabrikas.html#saistītie-jēdzieni",
+    "href": "jedzieni/papiru-fabrikas.html#saistītie-jēdzieni",
+    "title": "Papīru fabrikas",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nAutorības tirgus, Viltus recenzēšana, Plaģiāts, Pelēkās zonas izdevēji",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Papīru fabrikas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/papiru-fabrikas.html#atsauces",
+    "href": "jedzieni/papiru-fabrikas.html#atsauces",
+    "title": "Papīru fabrikas",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nAbalkina, A., Aquarius, R., Bik, E., Bimler, D., Bishop, D., Byrne, J., Cabanac, G., Day, A., Labbé, C., & Wise, N. (2025). \"Stamp out paper mills\": Science sleuths on how to fight fake research. Nature, 637, 1047–1050. https://doi.org/10.1038/d41586-025-00212-1\n\n\nCOPE, & STM. (2022). Paper mills: Research report from COPE & STM. Committee on Publication Ethics. https://doi.org/10.24318/jtbG8IHL\n\n\nRichardson, R. A. K., Hong, S. S., Byrne, J. A., Stoeger, T., & Amaral, L. A. N. (2025). The entities enabling scientific fraud at scale are large, resilient, and growing rapidly. Proceedings of the National Academy of Sciences, 122(32), e2420092122. https://doi.org/10.1073/pnas.2420092122\n\n\nVan Noorden, R. (2023a). How big is science’s fake-paper problem? Nature, 623, 466–467. https://doi.org/10.1038/d41586-023-03464-x\n\n\nVan Noorden, R. (2023b). More than 10,000 research papers were retracted in 2023: A new record. Nature, 624, 479–481. https://doi.org/10.1038/d41586-023-03974-8",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Papīru fabrikas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/falsifikacija.html",
+    "href": "jedzieni/falsifikacija.html",
+    "title": "Falsifikācija",
+    "section": "",
+    "text": "Falsifikācija atšķiras no fabrikācijas ar to, ka dati vai materiāli pastāv, bet tie tiek nepamatoti mainīti, izlaisti vai sagrozīti. Biomedicīnā viens no biežākajiem veidiem ir attēlu manipulācijas.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Falsifikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/falsifikacija.html#definīcija",
+    "href": "jedzieni/falsifikacija.html#definīcija",
+    "title": "Falsifikācija",
+    "section": "Definīcija",
+    "text": "Definīcija\nEiropas Pētniecības integritātes kodekss falsifikāciju definē kā pētniecības materiālu, aprīkojuma vai procesu manipulēšanu, kā arī datu vai rezultātu mainīšanu, izlaišanu vai noklusēšanu bez pamatojuma (ALLEA, 2023).",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Falsifikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/falsifikacija.html#kā-atpazīt",
+    "href": "jedzieni/falsifikacija.html#kā-atpazīt",
+    "title": "Falsifikācija",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nMikroskopijas vai Western blot attēlos atkārtojas vieni un tie paši fragmenti, dažreiz pagriezti, spoguļoti vai mērogoti.\nNo analīzes bez paskaidrojuma izslēgti dalībnieki vai mērījumi.\nPublicētie rezultāti neatbilst primārajiem datiem vai iepriekšējām tā paša autora publikācijām.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Falsifikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/falsifikacija.html#cik-izplatīts",
+    "href": "jedzieni/falsifikacija.html#cik-izplatīts",
+    "title": "Falsifikācija",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nVizuāli pārbaudot 20 621 rakstu no 40 biomedicīnas žurnāliem, 3,8% rakstu tika atrasti neatbilstoši dublēti attēli, un vismaz pusē no šiem gadījumiem bija pazīmes, kas liecina par apzinātu manipulāciju (Bik u.c., 2016).",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Falsifikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/falsifikacija.html#piemērs",
+    "href": "jedzieni/falsifikacija.html#piemērs",
+    "title": "Falsifikācija",
+    "section": "Piemērs",
+    "text": "Piemērs\nScience 2024. gadā publicēja izmeklēšanu par aizdomīgiem attēliem vairāk nekā 100 neirozinātnieka Eliēzera Maslija (Eliezer Masliah) publikācijās (Piller, 2024). ASV Nacionālie veselības institūti (NIH) oficiāli konstatēja pētniecības pārkāpumu divās publikācijās, un Maslijs zaudēja vadošo amatu.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Falsifikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/falsifikacija.html#saistītie-jēdzieni",
+    "href": "jedzieni/falsifikacija.html#saistītie-jēdzieni",
+    "title": "Falsifikācija",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nFabrikācija, P vērtību pielāgošana, Papīru fabrikas",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Falsifikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/falsifikacija.html#atsauces",
+    "href": "jedzieni/falsifikacija.html#atsauces",
+    "title": "Falsifikācija",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nBik, E. M., Casadevall, A., & Fang, F. C. (2016). The prevalence of inappropriate image duplication in biomedical research publications. mBio, 7(3), e00809–16. https://doi.org/10.1128/mBio.00809-16\n\n\nPiller, C. (2024). Picture imperfect: Scores of papers by Eliezer Masliah, prominent neuroscientist and top NIH official, fall under suspicion. Science.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Falsifikācija"
+    ]
+  },
+  {
+    "objectID": "taksonomija.html",
+    "href": "taksonomija.html",
+    "title": "Taksonomija",
+    "section": "",
+    "text": "Integritātes problēmas var rasties jebkurā pētniecības posmā. Tabulā jēdzieni ir sakārtoti pēc tā, kurā posmā tie parasti rodas, un pēc to statusa."
+  },
+  {
+    "objectID": "taksonomija.html#kā-lasīt-tabulu",
+    "href": "taksonomija.html#kā-lasīt-tabulu",
+    "title": "Taksonomija",
+    "section": "Kā lasīt tabulu",
+    "text": "Kā lasīt tabulu\nRobežas starp kategorijām nav absolūtas. Piemēram, p vērtību pielāgošana kļūst par falsifikāciju, ja dati tiek apzināti mainīti. Savukārt citēšanas manipulācijas sistemātiskas organizētas shēmas formā var tikt atzītas par pārkāpumu. Statuss atspoguļo tipisko gadījumu, nevis katra atsevišķa gadījuma vērtējumu."
+  },
+  {
+    "objectID": "taksonomija.html#sistēmiskais-konteksts",
+    "href": "taksonomija.html#sistēmiskais-konteksts",
+    "title": "Taksonomija",
+    "section": "Sistēmiskais konteksts",
+    "text": "Sistēmiskais konteksts\nDaudzas no šīm problēmām nav tikai atsevišķu pētnieku morāles jautājums. Tās veicina vērtēšanas sistēmas, kas atalgo publikāciju un citātu skaitu. Papīru fabriku produktu skaits aug daudz straujāk nekā zinātnes apjoms kopumā: tas dubultojas aptuveni ik pēc pusotra gada, kamēr visu publikāciju skaits dubultojas ik pēc aptuveni 15 gadiem (Richardson u.c., 2025)."
+  },
+  {
+    "objectID": "par-celvedi.html",
+    "href": "par-celvedi.html",
+    "title": "Par ceļvedi",
+    "section": "",
+    "text": "Latviešu valodā trūkst vienotas terminoloģijas un uzziņas materiāla par zinātnes integritāti. Šis ceļvedis apkopo galvenos jēdzienus vienuviet, lai pētnieki, doktoranti, recenzenti, žurnālisti un lēmumu pieņēmēji varētu tos atpazīt, nosaukt un atsaukties uz pierādījumiem.\nCeļvedis papildina, nevis aizstāj starptautiskos resursus, piemēram, platformu The Embassy of Good Science un FORRT atvērtās zinātnes glosāriju (Parsons u.c., 2022)."
+  },
+  {
+    "objectID": "par-celvedi.html#mērķis",
+    "href": "par-celvedi.html#mērķis",
+    "title": "Par ceļvedi",
+    "section": "",
+    "text": "Latviešu valodā trūkst vienotas terminoloģijas un uzziņas materiāla par zinātnes integritāti. Šis ceļvedis apkopo galvenos jēdzienus vienuviet, lai pētnieki, doktoranti, recenzenti, žurnālisti un lēmumu pieņēmēji varētu tos atpazīt, nosaukt un atsaukties uz pierādījumiem.\nCeļvedis papildina, nevis aizstāj starptautiskos resursus, piemēram, platformu The Embassy of Good Science un FORRT atvērtās zinātnes glosāriju (Parsons u.c., 2022)."
+  },
+  {
+    "objectID": "par-celvedi.html#struktūra",
+    "href": "par-celvedi.html#struktūra",
+    "title": "Par ceļvedi",
+    "section": "Struktūra",
+    "text": "Struktūra\nKatram jēdzienam ir vienāda struktūra:\n\nDefinīcija, ja iespējams, balstīta uz Eiropas Pētniecības integritātes kodeksu (ALLEA, 2023) vai citu atzītu avotu.\nKā atpazīt: tipiskās pazīmes.\nCik izplatīts: empīriskie dati ar atsaucēm.\nPiemērs: oficiāli konstatēts gadījums.\nSaistītie jēdzieni.\nAtsauces APA stilā."
+  },
+  {
+    "objectID": "par-celvedi.html#gadījumu-iekļaušanas-princips",
+    "href": "par-celvedi.html#gadījumu-iekļaušanas-princips",
+    "title": "Par ceļvedi",
+    "section": "Gadījumu iekļaušanas princips",
+    "text": "Gadījumu iekļaušanas princips\nCeļvedī ar vārdu tiek minēti tikai oficiāli konstatēti gadījumi: publicēts atsaukuma paziņojums, institūcijas, finansētāja vai tiesas lēmums. Statistiskas anomālijas, aizdomas, mediju publikācijas un sociālajos tīklos izteiktas pretenzijas netiek attiecinātas uz konkrētām personām. Augsts publikāciju skaits, publicēšanās noteiktā izdevniecībā vai neparasts citēšanas profils pats par sevi nav pārkāpuma pierādījums.\nLatvijas gadījumi tiek iekļauti tikai tad, ja tie ir oficiāli un publiski dokumentēti."
+  },
+  {
+    "objectID": "par-celvedi.html#teksta-izcelsme",
+    "href": "par-celvedi.html#teksta-izcelsme",
+    "title": "Par ceļvedi",
+    "section": "Teksta izcelsme",
+    "text": "Teksta izcelsme\nDefinīcijas un skaidrojumi ceļvedī ir formulēti no jauna. Citu resursu un rakstu teksts netiek pārņemts vai tulkots. Ja kāda formulējuma precizitāte ir būtiska, piemēram, oficiālā kodeksā, tas tiek dots kā īss citāts pēdiņās ar atsauci. Idejas un dati no citiem darbiem vienmēr ir norādīti ar atsauci."
+  },
+  {
+    "objectID": "par-celvedi.html#avotu-princips",
+    "href": "par-celvedi.html#avotu-princips",
+    "title": "Par ceļvedi",
+    "section": "Avotu princips",
+    "text": "Avotu princips\nAtsauces galvenokārt ir uz recenzētiem žurnāliem, lielu akadēmisko izdevēju publikācijām un atzītām organizācijām. Preprinti un nerecenzētas aplēses ir skaidri apzīmētas."
+  },
+  {
+    "objectID": "par-celvedi.html#kā-atsaukties",
+    "href": "par-celvedi.html#kā-atsaukties",
+    "title": "Par ceļvedi",
+    "section": "Kā atsaukties",
+    "text": "Kā atsaukties\nVanags, E. (2026). Zinātnes integritātes ceļvedis. Slow Science. https://e-vanags.github.io/integritates-celvedis/"
+  },
+  {
+    "objectID": "par-celvedi.html#līdzdalība",
+    "href": "par-celvedi.html#līdzdalība",
+    "title": "Par ceļvedi",
+    "section": "Līdzdalība",
+    "text": "Līdzdalība\nKļūdas, precizējumus un jaunus jēdzienus var ieteikt, izveidojot issue projekta GitHub repozitorijā."
+  },
+  {
+    "objectID": "par-celvedi.html#licence",
+    "href": "par-celvedi.html#licence",
+    "title": "Par ceļvedi",
+    "section": "Licence",
+    "text": "Licence\nSaturs ir pieejams ar licenci CC BY 4.0."
+  },
+  {
+    "objectID": "par-celvedi.html#atsauces",
+    "href": "par-celvedi.html#atsauces",
+    "title": "Par ceļvedi",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nParsons, S., Azevedo, F., Elsherif, M. M., Guay, S., Shahim, O. N., Govaart, G. H., Norris, E., O’Mahony, A., Parker, A. J., Todorovic, A., Pennington, C. R., Garcia-Pelegrin, E., Lazić, A., Robertson, O., Middleton, S. L., Valentini, B., McCuaig, J., Baker, B. J., Collins, E., & Aczel, B. (2022). A community-sourced glossary of open scholarship terms. Nature Human Behaviour, 6(3), 312–318. https://doi.org/10.1038/s41562-021-01269-4"
+  },
+  {
+    "objectID": "jedzieni/fabrikacija.html",
+    "href": "jedzieni/fabrikacija.html",
+    "title": "Fabrikācija",
+    "section": "",
+    "text": "Fabrikācija ir smagākais pētniecības pārkāpums: pētnieks izdomā datus vai rezultātus, kas nekad nav iegūti. Tā ir reta, bet tās sekas var būt ļoti plašas, jo viltoti rezultāti nonāk pārskatos, mācību grāmatās un praksē.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Fabrikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/fabrikacija.html#definīcija",
+    "href": "jedzieni/fabrikacija.html#definīcija",
+    "title": "Fabrikācija",
+    "section": "Definīcija",
+    "text": "Definīcija\nEiropas Pētniecības integritātes kodekss fabrikāciju definē kā rezultātu izdomāšanu un to fiksēšanu tā, it kā tie būtu īsti (ALLEA, 2023). Kopā ar falsifikāciju un plaģiātu tā veido tā saukto FFP triādi, ko uzskata par pētniecības pārkāpumu pamatu.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Fabrikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/fabrikacija.html#kā-atpazīt",
+    "href": "jedzieni/fabrikacija.html#kā-atpazīt",
+    "title": "Fabrikācija",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nDati ir pārāk “tīri”: neiespējami mazas izkliedes, pārāk līdzīgas grupu vidējās vērtības, pārāk apaļi skaitļi.\nIndividuālo datu sadalījumi neatbilst tam, ko varētu sagaidīt reālā izlasē.\nAutors nevar uzrādīt primāros datus, laboratorijas žurnālus vai dalībnieku sarakstus.\nVienā darbā vai autora darbos rezultāti ar aizdomīgu regularitāti apstiprina hipotēzes.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Fabrikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/fabrikacija.html#cik-izplatīts",
+    "href": "jedzieni/fabrikacija.html#cik-izplatīts",
+    "title": "Fabrikācija",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nAptauju metaanalīzē aptuveni 2% zinātnieku atzina, ka vismaz reizi ir fabricējuši vai falsificējuši datus, bet aptuveni 14% bija novērojuši šādu rīcību kolēģu vidū (Fanelli, 2009). Tie ir pašziņojumi, tāpēc patiesā izplatība, visticamāk, ir augstāka.\nKlīniskajos pētījumos problēma ir redzama tikai tad, ja pieejami individuālo pacientu dati. Žurnālam Anaesthesia iesniegtajos pētījumos, kuriem bija pieejami šādi dati, viltoti dati tika atrasti 44% gadījumu (Carlisle, 2021).",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Fabrikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/fabrikacija.html#piemērs",
+    "href": "jedzieni/fabrikacija.html#piemērs",
+    "title": "Fabrikācija",
+    "section": "Piemērs",
+    "text": "Piemērs\nNīderlandes sociālais psihologs Diederiks Stapels (Diederik Stapel) gadiem ilgi izdomāja eksperimentu datus. Trīs universitāšu komisijas 2012. gadā konstatēja krāpšanu desmitiem publikāciju, un viņa raksti tika masveidā atsaukti (Levelt Committee u.c., 2012). Komisijas ziņojumā īpaši uzsvērts, ka krāpšanu ilgi neatklāja līdzautori, recenzenti un redaktori.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Fabrikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/fabrikacija.html#saistītie-jēdzieni",
+    "href": "jedzieni/fabrikacija.html#saistītie-jēdzieni",
+    "title": "Fabrikācija",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nFalsifikācija, Zombiju pētījumi, Papīru fabrikas",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Fabrikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/fabrikacija.html#atsauces",
+    "href": "jedzieni/fabrikacija.html#atsauces",
+    "title": "Fabrikācija",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nCarlisle, J. B. (2021). False individual patient data and zombie randomised controlled trials submitted to Anaesthesia. Anaesthesia, 76(4), 472–479. https://doi.org/10.1111/anae.15263\n\n\nFanelli, D. (2009). How many scientists fabricate and falsify research? A systematic review and meta-analysis of survey data. PLoS ONE, 4(5), e5738. https://doi.org/10.1371/journal.pone.0005738\n\n\nLevelt Committee, Noort Committee, & Drenth Committee. (2012). Flawed science: The fraudulent research practices of social psychologist Diederik Stapel. Tilburg University.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Fabrikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/autoribas-tirgus.html",
+    "href": "jedzieni/autoribas-tirgus.html",
+    "title": "Autorības tirgus",
+    "section": "",
+    "text": "Papīru fabrikas tirgo autora vietas jau uzrakstītos rakstos. Cena ir atkarīga no vietas autoru sarakstā un žurnāla prestiža. Tas ir organizēts tirgus ar cenu lapām.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Autorības tirgus"
+    ]
+  },
+  {
+    "objectID": "jedzieni/autoribas-tirgus.html#definīcija",
+    "href": "jedzieni/autoribas-tirgus.html#definīcija",
+    "title": "Autorības tirgus",
+    "section": "Definīcija",
+    "text": "Definīcija\nAutorības tirgus ir autora statusa pirkšana vai pārdošana rakstā, pie kura pircējs nav strādājis. Tas ir pārkāpums neatkarīgi no tā, vai pats raksts ir godīgs vai safabricēts, jo autorība tiek piešķirta nevis par ieguldījumu, bet par samaksu (ALLEA, 2023).",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Autorības tirgus"
+    ]
+  },
+  {
+    "objectID": "jedzieni/autoribas-tirgus.html#kā-atpazīt",
+    "href": "jedzieni/autoribas-tirgus.html#kā-atpazīt",
+    "title": "Autorības tirgus",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nAutoru komanda ir ģeogrāfiski un tematiski nesaistīta, un autori iepriekš nav sadarbojušies.\nAutoru saraksts mainās pēc manuskripta iesniegšanas.\nRaksta tēma neatbilst autoru iepriekšējai pētniecībai.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Autorības tirgus"
+    ]
+  },
+  {
+    "objectID": "jedzieni/autoribas-tirgus.html#cik-izplatīts",
+    "href": "jedzieni/autoribas-tirgus.html#cik-izplatīts",
+    "title": "Autorības tirgus",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nAbalkina analizēja Krievijā bāzētas papīru fabrikas piedāvājumus no 2019. līdz 2021. gadam: tā tirgoja autora vietas vairāk nekā 1000 rakstos, un vismaz 434 publicēti raksti, iespējams, ir saistīti ar šo shēmu (Abalkina, 2023).\nPlašākā datu kopa (preprints, nav recenzēta) apkopo 18 710 sludinājumus no septiņām papīru fabrikām septiņās valstīs, ieskaitot Latviju. Pirmā autora vietas mediānā cena bija ap 788 ASV dolāriem (Richardson u.c., 2026).",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Autorības tirgus"
+    ]
+  },
+  {
+    "objectID": "jedzieni/autoribas-tirgus.html#piemērs",
+    "href": "jedzieni/autoribas-tirgus.html#piemērs",
+    "title": "Autorības tirgus",
+    "section": "Piemērs",
+    "text": "Piemērs\nDaudzi raksti, kuros pārdotas autora vietas, ir atsaukti, kad izdevēji atklāja papīru fabriku shēmas (Abalkina, 2023). Personu gadījumi šajā ceļvedī tiks minēti tikai ar oficiālu lēmumu.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Autorības tirgus"
+    ]
+  },
+  {
+    "objectID": "jedzieni/autoribas-tirgus.html#saistītie-jēdzieni",
+    "href": "jedzieni/autoribas-tirgus.html#saistītie-jēdzieni",
+    "title": "Autorības tirgus",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nPapīru fabrikas, Nopelnu autorība, Viltus recenzēšana",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Autorības tirgus"
+    ]
+  },
+  {
+    "objectID": "jedzieni/autoribas-tirgus.html#atsauces",
+    "href": "jedzieni/autoribas-tirgus.html#atsauces",
+    "title": "Autorības tirgus",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nAbalkina, A. (2023). Publication and collaboration anomalies in academic papers originating from a paper mill: Evidence from a Russia-based paper mill. Learned Publishing, 36(4), 689–702. https://doi.org/10.1002/leap.1574\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nRichardson, R. A. K., Hong, S. S., & Abalkina, A. (2026). BuyTheBy: A dataset of 18,710 text-based paper mill advertisements with 51,812 timestamped prices. arXiv preprint. https://doi.org/10.48550/arXiv.2604.24576",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Autorības tirgus"
+    ]
+  },
+  {
+    "objectID": "jedzieni/nopelnu-autoriba.html",
+    "href": "jedzieni/nopelnu-autoriba.html",
+    "title": "Nopelnu autorība",
+    "section": "",
+    "text": "Nopelnu autorība ir plaši izplatīta un bieži uzskatīta par normālu. Tā kropļo atbildību par pētījumu un mākslīgi palielina autoru publikāciju un citātu skaitu.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Nopelnu autorība"
+    ]
+  },
+  {
+    "objectID": "jedzieni/nopelnu-autoriba.html#definīcija",
+    "href": "jedzieni/nopelnu-autoriba.html#definīcija",
+    "title": "Nopelnu autorība",
+    "section": "Definīcija",
+    "text": "Definīcija\nNopelnu autorība ir situācija, kad par autoru tiek norādīta persona, kura nav devusi būtisku ieguldījumu pētījumā vai rakstā, piemēram, nodaļas vadītājs vai finansējuma piesaistītājs. Pretējs gadījums ir spoku autorība, kad reālais autors, piemēram, uzņēmuma algots rakstītājs, netiek norādīts.\nEiropas kodekss paredz, ka par autoriem norāda tikai tos, kas ir devuši būtisku ieguldījumu un uzņemas atbildību par publikācijas saturu (ALLEA, 2023). Medicīnas žurnālos plaši izmanto ICMJE kritērijus, kas prasa ieguldījumu darbā, līdzdalību rakstīšanā, gala versijas apstiprināšanu un atbildības uzņemšanos.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Nopelnu autorība"
+    ]
+  },
+  {
+    "objectID": "jedzieni/nopelnu-autoriba.html#kā-atpazīt",
+    "href": "jedzieni/nopelnu-autoriba.html#kā-atpazīt",
+    "title": "Nopelnu autorība",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nAutoru sarakstā ir personas, kuras nevar izskaidrot pētījuma metodes vai rezultātus.\nVienas nodaļas vadītājs ir līdzautors gandrīz visiem nodaļas rakstiem.\nAutoru ieguldījuma apraksts (piemēram, CRediT) nav sniegts vai ir formāls.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Nopelnu autorība"
+    ]
+  },
+  {
+    "objectID": "jedzieni/nopelnu-autoriba.html#cik-izplatīts",
+    "href": "jedzieni/nopelnu-autoriba.html#cik-izplatīts",
+    "title": "Nopelnu autorība",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nVeselības zinātņu aptauju metaanalīzē 18% respondentu atzina, ka viņu publikācijās ir bijuši nopelnu autori, ja tiem tika norādīti ICMJE kritēriji. Turklāt 10% respondentu bija lūgti iekļaut nopelnu autoru, un 16% atzina, ka paši tādu pievienojuši (Meursinge Reynders u.c., 2024).",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Nopelnu autorība"
+    ]
+  },
+  {
+    "objectID": "jedzieni/nopelnu-autoriba.html#piemērs",
+    "href": "jedzieni/nopelnu-autoriba.html#piemērs",
+    "title": "Nopelnu autorība",
+    "section": "Piemērs",
+    "text": "Piemērs\nParasti tā ir institucionāla norma, nevis atsevišķu personu pārkāpums. Komerciālu formu skati jēdzienā Autorības tirgus.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Nopelnu autorība"
+    ]
+  },
+  {
+    "objectID": "jedzieni/nopelnu-autoriba.html#saistītie-jēdzieni",
+    "href": "jedzieni/nopelnu-autoriba.html#saistītie-jēdzieni",
+    "title": "Nopelnu autorība",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nAutorības tirgus, Citēšanas manipulācijas",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Nopelnu autorība"
+    ]
+  },
+  {
+    "objectID": "jedzieni/nopelnu-autoriba.html#atsauces",
+    "href": "jedzieni/nopelnu-autoriba.html#atsauces",
+    "title": "Nopelnu autorība",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nMeursinge Reynders, R. A., Riet, G. ter, Di Girolamo, N., Cavagnetto, D., & Malički, M. (2024). Honorary authorship is highly prevalent in health sciences: Systematic review and meta-analysis of surveys. Scientific Reports, 14, 4385. https://doi.org/10.1038/s41598-024-54909-w",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Nopelnu autorība"
+    ]
+  },
+  {
+    "objectID": "jedzieni/citesanas-manipulacijas.html",
+    "href": "jedzieni/citesanas-manipulacijas.html",
+    "title": "Citēšanas manipulācijas",
+    "section": "",
+    "text": "Kad citātu skaits un h indekss nosaka karjeru un universitāšu reitingus, rodas stimuls tos uzpūst. Manipulācijas formas ir no pārmērīgas pašcitēšanas līdz organizētiem karteļiem un citātu pirkšanai.",
+    "crumbs": [
+      "Sākums",
+      "Metrikas",
+      "Citēšanas manipulācijas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/citesanas-manipulacijas.html#definīcija",
+    "href": "jedzieni/citesanas-manipulacijas.html#definīcija",
+    "title": "Citēšanas manipulācijas",
+    "section": "Definīcija",
+    "text": "Definīcija\nCitēšanas manipulācijas ir citātu skaita mākslīga palielināšana, kas neatspoguļo darba reālo zinātnisko ietekmi. Galvenās formas:\n\npārmērīga pašcitēšana;\ncitēšanas karteļi: pētnieku vai žurnālu grupas, kas sistemātiski citē cita citu;\nrecenzentu vai redaktoru prasība citēt viņu darbus;\ncitātu pirkšana.",
+    "crumbs": [
+      "Sākums",
+      "Metrikas",
+      "Citēšanas manipulācijas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/citesanas-manipulacijas.html#kā-atpazīt",
+    "href": "jedzieni/citesanas-manipulacijas.html#kā-atpazīt",
+    "title": "Citēšanas manipulācijas",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nLiela daļa citātu nāk no neliela autoru vai žurnālu loka.\nCitātu skaits strauji aug bez atbilstošas atpazīstamības jomā.\nNeparasti liels publikāciju skaits gadā.",
+    "crumbs": [
+      "Sākums",
+      "Metrikas",
+      "Citēšanas manipulācijas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/citesanas-manipulacijas.html#cik-izplatīts",
+    "href": "jedzieni/citesanas-manipulacijas.html#cik-izplatīts",
+    "title": "Citēšanas manipulācijas",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\n\nScopus datos laikā no 2000. līdz 2016. gadam vairāk nekā 9000 autoru kādā gadā publicēja vairāk nekā 72 rakstus, tas ir, vienu rakstu ik pēc piecām dienām (Ioannidis u.c., 2018). Šādu autoru skaits laikā no 2016. līdz 2022. gadam strauji pieauga, īpaši valstīs ar finansiāliem stimuliem par publikācijām (Ioannidis u.c., 2024).\nClarivate 2025. gadā no Highly Cited Researchers saraksta izslēdza aptuveni 2400 kandidātu, piemēram, hiperautorības, pārmērīgas pašcitēšanas un neparastu grupu citēšanas modeļu dēļ. Clarivate uzsver, ka izslēgšana nenozīmē pierādītu pārkāpumu (Clarivate, 2025).\nEksperimentā pētnieki nopirka 50 citātas Google Scholar profilam no citātu tirgošanas pakalpojuma (Ibrahim u.c., 2025).",
+    "crumbs": [
+      "Sākums",
+      "Metrikas",
+      "Citēšanas manipulācijas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/citesanas-manipulacijas.html#piemērs",
+    "href": "jedzieni/citesanas-manipulacijas.html#piemērs",
+    "title": "Citēšanas manipulācijas",
+    "section": "Piemērs",
+    "text": "Piemērs\nClarivate 2023. un 2024. gadā izslēdza visu matemātikas jomu no Highly Cited Researchers saraksta, jo citēšanas karteļi bija sagrozījuši rezultātus. Dažas universitātes bez spēcīgām matemātikas nodaļām bija ieguvušas vairāk “augsti citētu” matemātiķu nekā Stenforda vai Prinstona (Catanzaro, 2024).",
+    "crumbs": [
+      "Sākums",
+      "Metrikas",
+      "Citēšanas manipulācijas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/citesanas-manipulacijas.html#saistītie-jēdzieni",
+    "href": "jedzieni/citesanas-manipulacijas.html#saistītie-jēdzieni",
+    "title": "Citēšanas manipulācijas",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nNopelnu autorība, Pelēkās zonas izdevēji, Papīru fabrikas",
+    "crumbs": [
+      "Sākums",
+      "Metrikas",
+      "Citēšanas manipulācijas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/citesanas-manipulacijas.html#atsauces",
+    "href": "jedzieni/citesanas-manipulacijas.html#atsauces",
+    "title": "Citēšanas manipulācijas",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nCatanzaro, M. (2024). Citation cartels help some mathematicians, and their universities, climb the rankings. Science. https://doi.org/10.1126/science.zcl2s6d\n\n\nClarivate. (2025). Highly Cited Researchers 2025: Analysis. https://clarivate.com/highly-cited-researchers/analysis/\n\n\nIbrahim, H., Liu, F., Zaki, Y., & Rahwan, T. (2025). Citation manipulation through citation mills and pre-print servers. Scientific Reports.\n\n\nIoannidis, J. P. A., Collins, T. A., & Baas, J. (2024). Evolving patterns of extreme publishing behavior across science. Scientometrics, 129(9), 5783–5796.\n\n\nIoannidis, J. P. A., Klavans, R., & Boyack, K. W. (2018). Thousands of scientists publish a paper every five days. Nature, 561(7722), 167–169. https://doi.org/10.1038/d41586-018-06185-8",
+    "crumbs": [
+      "Sākums",
+      "Metrikas",
+      "Citēšanas manipulācijas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/viltus-recenzesana.html",
+    "href": "jedzieni/viltus-recenzesana.html",
+    "title": "Viltus recenzēšana",
+    "section": "",
+    "text": "Recenzēšana ir galvenais filtrs pret kļūdainu un viltotu zinātni, bet tā balstās uz uzticēšanos un bezmaksas darbu. Šo vājumu izmanto gan atsevišķi autori, gan organizētas aģentūras.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Viltus recenzēšana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/viltus-recenzesana.html#definīcija",
+    "href": "jedzieni/viltus-recenzesana.html#definīcija",
+    "title": "Viltus recenzēšana",
+    "section": "Definīcija",
+    "text": "Definīcija\nViltus recenzēšana ir recenzēšanas procesa manipulēšana, lai panāktu raksta pieņemšanu. Tipiskie veidi:\n\nžurnālam tiek ieteikti izdomāti recenzenti vai īsti eksperti ar viltotām e-pasta adresēm, un autors recenzē pats savu rakstu;\nrecenziju apļi, kuros autoru grupa savstarpēji recenzē rakstus;\ntrešo pušu aģentūras, kas par samaksu garantē labvēlīgu recenziju.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Viltus recenzēšana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/viltus-recenzesana.html#kā-atpazīt",
+    "href": "jedzieni/viltus-recenzesana.html#kā-atpazīt",
+    "title": "Viltus recenzēšana",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nIeteiktajiem recenzentiem ir privātas e-pasta adreses, nevis institūciju adreses.\nRecenzijas tiek iesniegtas neparasti ātri un ir vispārīgas un pozitīvas.\nVairākiem rakstiem ir līdzīgas recenzijas.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Viltus recenzēšana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/viltus-recenzesana.html#cik-izplatīts",
+    "href": "jedzieni/viltus-recenzesana.html#cik-izplatīts",
+    "title": "Viltus recenzēšana",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nNo 2012. līdz 2015. gadam Retraction Watch datos tika identificēti 250 raksti, kas atsaukti viltus recenzēšanas dēļ, un to skaits gadā pieauga no aptuveni 40 līdz gandrīz 160 (Qi u.c., 2017).\nRecenzēšanas sistēma ir pārslogota: 2020. gadā recenzenti pasaulē recenzēšanai veltīja vairāk nekā 100 miljonus stundu (Aczel u.c., 2021). Jauns risks ir MI ģenerētas recenzijas. Vienā lielā MI konferencē aptuveni piektā daļa recenziju bija pilnībā ģenerēta ar MI. Šī ir aplēse, kas iegūta ar MI detektoru (Naddaf, 2025).",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Viltus recenzēšana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/viltus-recenzesana.html#piemērs",
+    "href": "jedzieni/viltus-recenzesana.html#piemērs",
+    "title": "Viltus recenzēšana",
+    "section": "Piemērs",
+    "text": "Piemērs\nIzdevniecība BioMed Central 2015. gadā atsauca 43 rakstus pēc izmeklēšanas, kas atklāja ar izdomātiem recenzentiem manipulētu recenzēšanu. Izmeklēšanā tika atklātas arī trešo pušu aģentūras, kas piedāvāja labvēlīgu recenzēšanas iznākumu (Moylan, 2015).",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Viltus recenzēšana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/viltus-recenzesana.html#saistītie-jēdzieni",
+    "href": "jedzieni/viltus-recenzesana.html#saistītie-jēdzieni",
+    "title": "Viltus recenzēšana",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nPapīru fabrikas, Autorības tirgus",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Viltus recenzēšana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/viltus-recenzesana.html#atsauces",
+    "href": "jedzieni/viltus-recenzesana.html#atsauces",
+    "title": "Viltus recenzēšana",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nAczel, B., Szaszi, B., & Holcombe, A. O. (2021). A billion-dollar donation: Estimating the cost of researchers’ time spent on peer review. Research Integrity and Peer Review, 6, 14. https://doi.org/10.1186/s41073-021-00118-2\n\n\nMoylan, E. (2015). Inappropriate manipulation of peer review. BMC blog.\n\n\nNaddaf, M. (2025). Major AI conference flooded with peer reviews written fully by AI. Nature.\n\n\nQi, C., Deng, L., Li, J., Guo, X., & Guo, Z. (2017). Characteristics of retractions related to faked peer reviews: An overview. Postgraduate Medical Journal, 93(1102), 499–503. https://doi.org/10.1136/postgradmedj-2016-133969",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Viltus recenzēšana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/zombiju-petijumi.html",
+    "href": "jedzieni/zombiju-petijumi.html",
+    "title": "Zombiju pētījumi un atsaukumi",
+    "section": "",
+    "text": "Viltots pētījums nepazūd pēc atsaukšanas. Tas paliek sistemātiskajos pārskatos, metaanalīzēs un klīniskajās vadlīnijās, un to joprojām citē.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Zombiju pētījumi un atsaukumi"
+    ]
+  },
+  {
+    "objectID": "jedzieni/zombiju-petijumi.html#definīcija",
+    "href": "jedzieni/zombiju-petijumi.html#definīcija",
+    "title": "Zombiju pētījumi un atsaukumi",
+    "section": "Definīcija",
+    "text": "Definīcija\nZombiju pētījums ir pētījums ar tik nopietni viltotiem datiem, ka tas ir pilnībā nederīgs, bet tas tiek publicēts un izskatās pēc parasta pētījuma (Carlisle, 2021).\nAtsaukums ir izdevēja paziņojums, ka publikācija vairs nav uzskatāma par derīgu. Tas var būt saistīts ar pārkāpumu vai godīgu kļūdu.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Zombiju pētījumi un atsaukumi"
+    ]
+  },
+  {
+    "objectID": "jedzieni/zombiju-petijumi.html#kā-atpazīt",
+    "href": "jedzieni/zombiju-petijumi.html#kā-atpazīt",
+    "title": "Zombiju pētījumi un atsaukumi",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nIndividuālo pacientu datos ir neiespējamas vērtības, dublēti ieraksti vai neticami sadalījumi.\nPārskata vai vadlīniju avotos ir atsaukti pētījumi. To var pārbaudīt Retraction Watch datubāzē, kas pieejama arī caur Crossref.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Zombiju pētījumi un atsaukumi"
+    ]
+  },
+  {
+    "objectID": "jedzieni/zombiju-petijumi.html#cik-izplatīts",
+    "href": "jedzieni/zombiju-petijumi.html#cik-izplatīts",
+    "title": "Zombiju pētījumi un atsaukumi",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nŽurnālam Anaesthesia iesniegtajos randomizētajos pētījumos, kuriem bija pieejami individuālo pacientu dati, 26% tika klasificēti kā zombiju pētījumi (Carlisle, 2021). Ioannidis no tā secināja, ka literatūrā cirkulē simtiem tūkstošu šādu pētījumu (Ioannidis, 2021). Šī izlase nav reprezentatīva.\n\ngadā atsaukumu skaits pirmo reizi pārsniedza 10 000 (Van Noorden, 2023).",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Zombiju pētījumi un atsaukumi"
+    ]
+  },
+  {
+    "objectID": "jedzieni/zombiju-petijumi.html#piemērs",
+    "href": "jedzieni/zombiju-petijumi.html#piemērs",
+    "title": "Zombiju pētījumi un atsaukumi",
+    "section": "Piemērs",
+    "text": "Piemērs\nVITALITY pētījumā identificēja 1330 atsauktus randomizētus pētījumus un 847 sistemātiskus pārskatus, kas tos iekļāva. Izslēdzot atsauktos pētījumus, 16% metaanalīžu mainījās statistiskā nozīmība, bet 8,4% mainījās efekta virziens. Pārskati ar izkropļotiem secinājumiem tika izmantoti 157 klīniskajās vadlīnijās (Xu u.c., 2025).",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Zombiju pētījumi un atsaukumi"
+    ]
+  },
+  {
+    "objectID": "jedzieni/zombiju-petijumi.html#saistītie-jēdzieni",
+    "href": "jedzieni/zombiju-petijumi.html#saistītie-jēdzieni",
+    "title": "Zombiju pētījumi un atsaukumi",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nFabrikācija, Falsifikācija, Papīru fabrikas",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Zombiju pētījumi un atsaukumi"
+    ]
+  },
+  {
+    "objectID": "jedzieni/zombiju-petijumi.html#atsauces",
+    "href": "jedzieni/zombiju-petijumi.html#atsauces",
+    "title": "Zombiju pētījumi un atsaukumi",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nCarlisle, J. B. (2021). False individual patient data and zombie randomised controlled trials submitted to Anaesthesia. Anaesthesia, 76(4), 472–479. https://doi.org/10.1111/anae.15263\n\n\nIoannidis, J. P. A. (2021). Hundreds of thousands of zombie randomised trials circulate among us. Anaesthesia, 76(4), 444–447. https://doi.org/10.1111/anae.15297\n\n\nVan Noorden, R. (2023). More than 10,000 research papers were retracted in 2023: A new record. Nature, 624, 479–481. https://doi.org/10.1038/d41586-023-03974-8\n\n\nXu, C., Fan, S., Tian, Y., u.c. (2025). Investigating the impact of trial retractions on the healthcare evidence ecosystem (VITALITY Study I): Retrospective cohort study. BMJ, 389, e082068. https://doi.org/10.1136/bmj-2024-082068",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Zombiju pētījumi un atsaukumi"
+    ]
+  },
+  {
+    "objectID": "jedzieni/publikaciju-nobide.html",
+    "href": "jedzieni/publikaciju-nobide.html",
+    "title": "Publikāciju nobīde",
+    "section": "",
+    "text": "Ja tiek publicēti galvenokārt veiksmīgie rezultāti, publicētā literatūra sistemātiski pārspīlē efektus. Metaanalīzes, kas balstās tikai uz publicētiem pētījumiem, šo kļūdu pārņem.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "Publikāciju nobīde"
+    ]
+  },
+  {
+    "objectID": "jedzieni/publikaciju-nobide.html#definīcija",
+    "href": "jedzieni/publikaciju-nobide.html#definīcija",
+    "title": "Publikāciju nobīde",
+    "section": "Definīcija",
+    "text": "Definīcija\nPublikāciju nobīde rodas, ja publicēšanas iespējamība ir atkarīga no rezultāta virziena vai statistiskās nozīmības. Rozentāls (Rosenthal) to nosauca par “atvilktnes problēmu”: nenozīmīgie rezultāti paliek galda atvilktnē (Rosenthal, 1979).",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "Publikāciju nobīde"
+    ]
+  },
+  {
+    "objectID": "jedzieni/publikaciju-nobide.html#kā-atpazīt",
+    "href": "jedzieni/publikaciju-nobide.html#kā-atpazīt",
+    "title": "Publikāciju nobīde",
+    "section": "Kā atpazīt",
+    "text": "Kā atpazīt\n\nMetaanalīzē piltuves diagramma ir asimetriska.\nMazos pētījumos efekti ir lielāki nekā lielos.\nGandrīz visi publicētie pētījumi kādā jomā ir pozitīvi.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "Publikāciju nobīde"
+    ]
+  },
+  {
+    "objectID": "jedzieni/publikaciju-nobide.html#cik-izplatīts",
+    "href": "jedzieni/publikaciju-nobide.html#cik-izplatīts",
+    "title": "Publikāciju nobīde",
+    "section": "Cik izplatīts",
+    "text": "Cik izplatīts\nPētījumā, kurā izsekoja visiem vienas ASV aptauju programmas eksperimentiem, spēcīgu rezultātu publicēšanas iespējamība bija par aptuveni 40 procentpunktiem augstāka nekā nulles rezultātu, un lielākā daļa nulles rezultātu netika pat uzrakstīti (Franco u.c., 2014). Psiholoģijas oriģinālpētījumos 97% rezultātu bija statistiski nozīmīgi (Open Science Collaboration, 2015), un šāds īpatsvars nav ticams bez publikāciju nobīdes.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "Publikāciju nobīde"
+    ]
+  },
+  {
+    "objectID": "jedzieni/publikaciju-nobide.html#piemērs",
+    "href": "jedzieni/publikaciju-nobide.html#piemērs",
+    "title": "Publikāciju nobīde",
+    "section": "Piemērs",
+    "text": "Piemērs\nSistēmiska parādība bez konkrētiem personu gadījumiem.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "Publikāciju nobīde"
+    ]
+  },
+  {
+    "objectID": "jedzieni/publikaciju-nobide.html#ko-darīt",
+    "href": "jedzieni/publikaciju-nobide.html#ko-darīt",
+    "title": "Publikāciju nobīde",
+    "section": "Ko darīt",
+    "text": "Ko darīt\nReģistrētie ziņojumi, pētījumu reģistri, nulles rezultātu publicēšana, metaanalīzēs nepublicētu datu meklēšana un nobīdes korekcija.",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "Publikāciju nobīde"
+    ]
+  },
+  {
+    "objectID": "jedzieni/publikaciju-nobide.html#saistītie-jēdzieni",
+    "href": "jedzieni/publikaciju-nobide.html#saistītie-jēdzieni",
+    "title": "Publikāciju nobīde",
+    "section": "Saistītie jēdzieni",
+    "text": "Saistītie jēdzieni\nP vērtību pielāgošana, HARKing",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "Publikāciju nobīde"
+    ]
+  },
+  {
+    "objectID": "jedzieni/publikaciju-nobide.html#atsauces",
+    "href": "jedzieni/publikaciju-nobide.html#atsauces",
+    "title": "Publikāciju nobīde",
+    "section": "Atsauces",
+    "text": "Atsauces\n\n\nFranco, A., Malhotra, N., & Simonovits, G. (2014). Publication bias in the social sciences: Unlocking the file drawer. Science, 345(6203), 1502–1505. https://doi.org/10.1126/science.1255484\n\n\nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. https://doi.org/10.1126/science.aac4716\n\n\nRosenthal, R. (1979). The file drawer problem and tolerance for null results. Psychological Bulletin, 86(3), 638–641. https://doi.org/10.1037/0033-2909.86.3.638",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "Publikāciju nobīde"
+    ]
+  },
+  {
+    "objectID": "glosarijs.html",
+    "href": "glosarijs.html",
+    "title": "Glosārijs",
+    "section": "",
+    "text": "Latviešu termini šajā ceļvedī ir piedāvājums. Daudziem no tiem vēl nav nostiprinātas latviešu valodas normas.\n\n\n\n\n\n\n\n\nLatviski\nAngliski\nSkaidrojums\n\n\n\n\nApšaubāma pētniecības prakse\nQuestionable research practice (QRP)\nRīcība, kas nav viennozīmīgi aizliegta, bet palielina kļūdainu secinājumu risku\n\n\nAtsaukums\nRetraction\nIzdevēja paziņojums, ka publikācija vairs nav uzskatāma par derīgu\n\n\nAutorības tirgus\nAuthorship for sale\nAutora vietu pirkšana un pārdošana rakstos\n\n\nCitēšanas kartelis\nCitation cartel\nPētnieku vai žurnālu grupa, kas savstarpēji mākslīgi palielina citātu skaitu\n\n\nFabrikācija\nFabrication\nDatu vai rezultātu izdomāšana\n\n\nFalsifikācija\nFalsification\nDatu, materiālu vai procesu manipulēšana vai rezultātu nepamatota mainīšana\n\n\nHARKing\nHARKing, hypothesizing after the results are known\nHipotēžu formulēšana pēc rezultātu uzzināšanas, pasniedzot tās kā iepriekš izvirzītas\n\n\nHiperproduktīvs autors\nHyperprolific author\nAutors ar neparasti lielu publikāciju skaitu gadā\n\n\nIntegritātes detektīvs\nScience sleuth\nPētnieks, kas meklē un publisko problēmas publikācijās\n\n\nMocītās frāzes\nTortured phrases\nParafrāzēšanas rīku radītas absurdas frāzes, kas slēpj plaģiātu\n\n\nNopelnu autorība\nHonorary authorship, gift authorship\nAutora statuss personai, kas neatbilst autorības kritērijiem\n\n\nP vērtību pielāgošana\nP-hacking\nAnalīzes elastības izmantošana, līdz rezultāts kļūst statistiski nozīmīgs\n\n\nPapīru fabrika\nPaper mill\nKomerciāla struktūra, kas ražo un pārdod viltotus vai zemas kvalitātes rakstus un autorību\n\n\nPelēkās zonas izdevējs\nGrey zone publisher\nIzdevējs, kura biznesa modelis rada nopietnas bažas par kvalitāti, bet kas neatbilst plēsonīga izdevēja definīcijai\n\n\nPlaģiāts\nPlagiarism\nCita darba vai ideju izmantošana bez atbilstošas atsauces\n\n\nPlēsonīgais žurnāls\nPredatory journal\nŽurnāls, kas savas intereses liek augstāk par zinātni un sniedz maldinošu informāciju par savu darbību\n\n\nPriekšreģistrācija\nPreregistration\nHipotēžu un analīzes plāna publiska fiksēšana pirms datu iegūšanas\n\n\nPublikāciju nobīde\nPublication bias\nNozīmīgu rezultātu publicēšana biežāk nekā nenozīmīgu\n\n\nReģistrētais ziņojums\nRegistered Report\nPublikācijas formāts, kurā pētījuma plāns tiek recenzēts un pieņemts pirms datu iegūšanas\n\n\nReplikācijas krīze\nReplication crisis\nAtklājums, ka liela daļa publicēto rezultātu neatkārtojas\n\n\nSpeciālizdevums\nSpecial issue\nŽurnāla tematiskais numurs ar viesredaktoriem\n\n\nViltus recenzēšana\nFake peer review\nRecenzēšanas procesa manipulēšana, piemēram, ar izdomātiem recenzentiem\n\n\nZombiju pētījums\nZombie trial\nPētījums ar tik nopietni viltotiem datiem, ka tas ir pilnībā nederīgs"
+  }
+]
