@@ -5,7 +5,13 @@ listing:
   id: jedzieni
   contents: jedzieni/*.qmd
   type: table
-  fields: [title, subtitle, categories, description]
+  fields: [title, subtitle, categories, description, recenzijas-statuss]
+  field-display-names:
+    title: "Jēdziens"
+    subtitle: "Angliski"
+    categories: "Kategorijas"
+    description: "Apraksts"
+    recenzijas-statuss: "Recenzija"
   sort: "title"
   categories: true
   filter-ui: true

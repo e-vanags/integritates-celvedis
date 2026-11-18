@@ -37,6 +37,31 @@ Atsauces galvenokārt ir uz recenzētiem žurnāliem, lielu akadēmisko izdevēj
 
 Vanags, E. (2026). *Zinātnes integritātes ceļvedis*. Slow Science. https://e-vanags.github.io/integritates-celvedis/
 
+## Recenzēšana {#recenzesana}
+
+Katram šķirklim ir viens no diviem statusiem:
+
+- **Melnraksts**: šķirkli sagatavojis autors, bet to vēl nav pārskatījis neatkarīgs speciālists.
+- **Recenzēts**: šķirkli ir pārskatījis vismaz viens neatkarīgs speciālists, un viņa piezīmes ir ņemtas vērā.
+
+**Kas var būt recenzents.** Speciālists ar publikācijām vai praktisku pieredzi attiecīgajā jomā, piemēram, pētniecības ētikā, metodoloģijā, statistikā, bibliometrijā vai izdevējdarbībā. Recenzentam nedrīkst būt interešu konflikta ar šķirklī minētajiem gadījumiem vai organizācijām.
+
+**Ko recenzents pārbauda.**
+
+1. Vai definīcija ir precīza un atbilst starptautiski lietotajai izpratnei.
+2. Vai apgalvojumi atbilst citētajiem avotiem.
+3. Vai avoti ir kvalitatīvi un aktuāli, un vai nav izlaisti būtiski pētījumi.
+4. Vai piemērs atbilst gadījumu iekļaušanas principam.
+5. Vai latviešu termini ir saprotami un konsekventi.
+
+**Kā tas notiek.**
+
+1. Recenzents GitHub repozitorijā atver *issue* ar veidni "Šķirkļa recenzija" vai nosūta piezīmes autoram.
+2. Autors šķirkli labo un atbild uz katru piezīmi.
+3. Kad recenzents piekrīt labotajai versijai, šķirklis tiek atzīmēts kā recenzēts. Lapā tiek norādīts recenzenta vārds, iestāde un datums.
+
+Recenzenta vārds tiek publicēts tikai ar viņa piekrišanu. Recenzents apliecina konkrētā šķirkļa versiju, nevis atbild par visu ceļvedi. Ja šķirklis pēc recenzijas būtiski mainās, tas atkal tiek atzīmēts kā melnraksts līdz atkārtotai pārskatīšanai. Visu izmaiņu vēsture ir redzama GitHub repozitorijā.
+
 ## Līdzdalība
 
 Kļūdas, precizējumus un jaunus jēdzienus var ieteikt, izveidojot *issue* projekta GitHub repozitorijā.

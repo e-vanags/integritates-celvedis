@@ -1,0 +1,56 @@
+name: Šķirkļa recenzija
+description: Recenzentu piezīmes par vienu ceļveža šķirkli
+title: "Recenzija: [šķirkļa nosaukums]"
+labels: ["recenzija"]
+body:
+  - type: input
+    id: skirklis
+    attributes:
+      label: Šķirklis
+      description: Šķirkļa nosaukums vai saite
+    validations:
+      required: true
+  - type: input
+    id: recenzents
+    attributes:
+      label: Recenzents
+      description: Vārds, uzvārds un iestāde
+    validations:
+      required: true
+  - type: textarea
+    id: definicija
+    attributes:
+      label: 1. Definīcijas precizitāte
+  - type: textarea
+    id: avoti
+    attributes:
+      label: 2. Apgalvojumu atbilstība avotiem
+  - type: textarea
+    id: kvalitate
+    attributes:
+      label: 3. Avotu kvalitāte un pilnīgums
+  - type: textarea
+    id: piemers
+    attributes:
+      label: 4. Piemēra atbilstība iekļaušanas principam
+  - type: textarea
+    id: termini
+    attributes:
+      label: 5. Latviešu termini un valoda
+  - type: dropdown
+    id: ieteikums
+    attributes:
+      label: Ieteikums
+      options:
+        - Var atzīmēt kā recenzētu
+        - Jālabo, pēc tam var atzīmēt kā recenzētu
+        - Nepieciešama būtiska pārstrāde
+    validations:
+      required: true
+  - type: checkboxes
+    id: piekrisana
+    attributes:
+      label: Piekrišana
+      options:
+        - label: Piekrītu, ka mans vārds un iestāde tiek publicēti pie šķirkļa
+        - label: Man nav interešu konflikta ar šķirklī minētajiem gadījumiem vai organizācijām

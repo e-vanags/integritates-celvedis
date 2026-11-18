@@ -3,6 +3,14 @@ title: "Jēdziena nosaukums latviski"
 subtitle: "English term"
 description: "Viena teikuma skaidrojums sarakstam"
 categories: [Pētniecības posms, Statuss]
+sagatavoja: "Vārds Uzvārds"
+recenzijas-statuss: "Melnraksts"   # Melnraksts vai Recenzēts
+recenzenti: []
+# Kad šķirklis recenzēts, piemēram:
+# recenzenti:
+#   - vards: "Vārds Uzvārds"
+#     afiliacija: "Iestāde"
+#     datums: "2026-12-01"
 ---
 
 ::: {.kopsavilkums}

@@ -1,0 +1,5 @@
+filters:
+  - ../_filters/recenzija.lua
+sagatavoja: "Edmunds Vanags"
+recenzijas-statuss: "Melnraksts"
+recenzenti: []
