@@ -15,6 +15,10 @@ Nopelnu autorība ir situācija, kad par autoru tiek norādīta persona, kura na
 
 Eiropas kodekss paredz, ka par autoriem norāda tikai tos, kas ir devuši būtisku ieguldījumu un uzņemas atbildību par publikācijas saturu [@allea2023]. Medicīnas žurnālos plaši izmanto ICMJE kritērijus, kas prasa ieguldījumu darbā, līdzdalību rakstīšanā, gala versijas apstiprināšanu un atbildības uzņemšanos.
 
+## Vēsture
+
+Autorības kritērijus Starptautiskā medicīnas žurnālu redaktoru komiteja (ICMJE) pieņēma 1985. gadā, taču pētījumi rādīja, ka autori tos bieži neievēro vai nezina [@flanagin1998]. 1998. gadā Flanagina un kolēģi veica pirmo plašo daudzu žurnālu pētījumu: 19 % rakstu trīs vadošajos medicīnas žurnālos bija pazīmes, ka autoru vidū ir nopelnu autori, un 11 % rakstu bija "spoku autori", kuru ieguldījums netika atzīts [@flanagin1998].
+
 ## Kā atpazīt
 
 - Autoru sarakstā ir personas, kuras nevar izskaidrot pētījuma metodes vai rezultātus.

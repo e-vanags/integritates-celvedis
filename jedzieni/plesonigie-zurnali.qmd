@@ -13,6 +13,10 @@ Plēsonīgie žurnāli imitē zinātnisku žurnālu, bet patiesībā pārdod pub
 
 Pēc starptautiskas vienošanās plēsonīgie žurnāli un izdevēji ir subjekti, kas savas intereses liek augstāk par zinātni un kam raksturīga nepatiesa vai maldinoša informācija, atkāpes no labas redakcionālās un publicēšanas prakses, caurskatāmības trūkums un agresīva, neselektīva autoru piesaiste [@grudniewicz2019].
 
+## Vēsture
+
+Terminu "plēsonīgs" (*predatory*) zinātniskās izdevējdarbības kontekstā 2010. gadā ieviesa ASV bibliotekārs Džefrijs Bīls (*Jeffrey Beall*) [@beall2010]. Viņš sāka veidot potenciāli plēsonīgu izdevēju sarakstu, ko plaši izmantoja līdz tā slēgšanai 2017. gadā. Tā kā termins bija pretrunīgs un saraksts balstījās uz viena cilvēka vērtējumu, 2019. gadā starptautiska ekspertu grupa vienojās par kopīgu definīciju [@grudniewicz2019].
+
 ## Kā atpazīt
 
 - Nevēlami e-pasta uzaicinājumi publicēt vai būt redkolēģijā.

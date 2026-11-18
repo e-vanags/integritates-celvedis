@@ -15,6 +15,10 @@ Viltots pētījums nepazūd pēc atsaukšanas. Tas paliek sistemātiskajos pārs
 
 **Atsaukums** ir izdevēja paziņojums, ka publikācija vairs nav uzskatāma par derīgu. Tas var būt saistīts ar pārkāpumu vai godīgu kļūdu.
 
+## Vēsture
+
+Terminu "zombiju pētījumi" (*zombie trials*) 2020. gadā ieviesa britu anesteziologs un žurnāla *Anaesthesia* redaktors Džons Kārlails (*John Carlisle*). Viņš tā nosauca klīniskos pētījumus, kuru dati ir tik nopietni bojāti, ka pētījumam nevar uzticēties, lai gan ārēji tas izskatās kā parasts pētījums [@carlisle2021].
+
 ## Kā atpazīt
 
 - Individuālo pacientu datos ir neiespējamas vērtības, dublēti ieraksti vai neticami sadalījumi.

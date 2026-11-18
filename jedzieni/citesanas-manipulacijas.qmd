@@ -18,6 +18,12 @@ Citēšanas manipulācijas ir citātu skaita mākslīga palielināšana, kas nea
 - recenzentu vai redaktoru prasība citēt viņu darbus;
 - citātu pirkšana.
 
+## Vēsture
+
+Citēšanas manipulācijas kļuva iespējamas, kad citātus sāka skaitīt. Jūdžins Garfīlds (*Eugene Garfield*) 1955. gadā ierosināja zinātnes citātu indeksu [@garfield1955], kas pēc tam kļuva par pamatu ietekmes faktoram un mūsdienu bibliometrijai.
+
+1999. gadā vācu zinātnieks Georgs Franks (*Georg Franck*) žurnālā *Science* brīdināja par "citēšanas karteļiem", redaktoru un žurnālu grupām, kas savstarpēji palielina citātu skaitu [@franck1999]. 2012. gadā Vilhaits un Fongs (*Wilhite, Fong*) pirmo reizi plaši izmērīja "piespiedu citēšanu", kad redaktori pieprasa autoriem citēt viņu žurnālu [@wilhite2012].
+
 ## Kā atpazīt
 
 - Liela daļa citātu nāk no neliela autoru vai žurnālu loka.

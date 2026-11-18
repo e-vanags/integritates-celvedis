@@ -17,6 +17,10 @@ Viltus recenzēšana ir recenzēšanas procesa manipulēšana, lai panāktu raks
 - recenziju apļi, kuros autoru grupa savstarpēji recenzē rakstus;
 - trešo pušu aģentūras, kas par samaksu garantē labvēlīgu recenziju.
 
+## Vēsture
+
+Pirmais plaši zināmais gadījums atklājās 2012. gadā. Žurnāla *Journal of Enzyme Inhibition and Medicinal Chemistry* redaktoru pārsteidza, ka recenzijas par viena autora, Dienvidkorejas pētnieka Hjungina Muna (*Hyung-In Moon*), rakstiem pienāk neparasti ātri. Muns atzina, ka daudzas recenzijas uzrakstījis pats, jo kā recenzentus bija ieteicis izdomātas personas ar e-pasta adresēm, kas nonāca pie viņa. Divu gadu laikā pēc tam žurnāliem bija jāatsauc vairāk nekā 110 rakstu vismaz sešos līdzīgos gadījumos [@ferguson2014].
+
 ## Kā atpazīt
 
 - Ieteiktajiem recenzentiem ir privātas e-pasta adreses, nevis institūciju adreses.

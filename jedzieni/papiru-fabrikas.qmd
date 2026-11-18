@@ -13,6 +13,10 @@ Papīru fabrikas ir rūpnieciska mēroga krāpšana. To produkcija aug daudz str
 
 Papīru fabrikas ir komerciālas, bieži nelegālas organizācijas, kas ražo un pārdod viltotus vai zemas kvalitātes manuskriptus, autora vietas un dažreiz arī recenzēšanas iznākumu [@cope2022].
 
+## Vēsture
+
+Zinātnes kontekstā jēdziens nostiprinājās 2010. gadu otrajā pusē. Viens no pirmajiem sistemātiskajiem pētījumiem bija Dženiferas Bairnas (*Jennifer Byrne*) un Sirila Labē (*Cyril Labbé*) darbs, kas tiešsaistē parādījās 2016. gadā. Sākot ar piecām publikācijām, kurās bija viena un tā pati kļūda eksperimenta aprakstā, viņi atrada 48 ļoti līdzīgus vēža pētījumu rakstus un secināja, ka daļa aprakstīto eksperimentu, iespējams, nemaz nav veikti [@byrne2017]. Jau 2013. gadā žurnāls *Science* bija aprakstījis starpniekus, kas pārdod gatavus rakstus [@hvistendahl2013].
+
 ## Kā atpazīt
 
 - Daudziem rakstiem ir vienāda struktūra, līdzīgi nosaukumi un attēli.

@@ -13,6 +13,12 @@ Fabrikācija ir smagākais pētniecības pārkāpums: pētnieks izdomā datus va
 
 Eiropas Pētniecības integritātes kodekss fabrikāciju definē kā rezultātu izdomāšanu un to fiksēšanu tā, it kā tie būtu īsti [@allea2023]. Kopā ar falsifikāciju un plaģiātu tā veido tā saukto FFP triādi, ko uzskata par pētniecības pārkāpumu pamatu.
 
+## Vēsture
+
+Par datu izdomāšanu zinātnē rakstīja jau 1830. gadā angļu matemātiķis Čārlzs Bebidžs (*Charles Babbage*). Grāmatā par zinātnes panīkumu Anglijā viņš izšķīra četrus krāpšanas veidus. Viens no tiem bija *forging*, novērojumu izdomāšana, lai iegūtu zinātnieka slavu [@babbage1830].
+
+Mūsdienu definīcija radās ASV. Pēc vairāk nekā desmit gadu diskusijām 2000. gadā Baltā nama Zinātnes un tehnoloģiju politikas birojs nostiprināja trīs pārkāpumu kodolu: fabrikāciju, falsifikāciju un plaģiātu, saīsināti FFP [@ostp2000]. Arī Eiropas Pētniecības integritātes kodeksā šie trīs ir galvenie pētniecības pārkāpumi [@allea2023].
+
 ## Kā atpazīt
 
 - Dati ir pārāk “tīri”: neiespējami mazas izkliedes, pārāk līdzīgas grupu vidējās vērtības, pārāk apaļi skaitļi.

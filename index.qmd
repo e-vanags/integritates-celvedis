@@ -22,7 +22,7 @@ toc: false
 ---
 
 ::: {.kopsavilkums}
-Šis ceļvedis latviešu valodā apkopo galvenos zinātnes integritātes pārkāpumus un apšaubāmās pētniecības prakses. Katram jēdzienam ir definīcija, atpazīšanas pazīmes, dati par izplatību, oficiāli konstatēts piemērs un atsauces uz recenzētiem avotiem. Ceļvedis ir daļa no iniciatīvas *Slow Science*.
+Šis ceļvedis latviešu valodā apkopo galvenos zinātnes integritātes pārkāpumus un apšaubāmās pētniecības prakses. Katram jēdzienam ir definīcija, īsa vēsture, atpazīšanas pazīmes, dati par izplatību, oficiāli konstatēts piemērs un atsauces uz recenzētiem avotiem. Ceļvedis ir daļa no iniciatīvas *Slow Science*.
 :::
 
 Jēdzieni ir sakārtoti pēc pētniecības cikla posma un pēc statusa:

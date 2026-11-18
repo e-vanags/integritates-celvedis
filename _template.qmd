@@ -19,6 +19,10 @@ recenzenti: []
 
 ## Definīcija
 
+## Vēsture
+
+Kad un kur termins vai parādība pirmoreiz aprakstīta, ar atsauci uz pirmavotu.
+
 ## Kā atpazīt
 
 ## Cik izplatīts

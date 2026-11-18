@@ -13,6 +13,12 @@ Falsifikācija atšķiras no fabrikācijas ar to, ka dati vai materiāli pastāv
 
 Eiropas Pētniecības integritātes kodekss falsifikāciju definē kā pētniecības materiālu, aprīkojuma vai procesu manipulēšanu, kā arī datu vai rezultātu mainīšanu, izlaišanu vai noklusēšanu bez pamatojuma [@allea2023].
 
+## Vēsture
+
+Bebidžs 1830. gadā aprakstīja divus falsifikācijas paveidus, kas pazīstami vēl šodien. *Trimming* jeb apgriešana nozīmēja novērojumu "pielīdzināšanu" vidējam, nogriežot lielākās novirzes un pieliekot tās mazākajām. *Cooking* jeb gatavošana nozīmēja no daudziem novērojumiem atlasīt tikai tos, kas der teorijai [@babbage1830]. Mūsdienās gatavošanu pazīstam kā selektīvu ziņošanu.
+
+Kā juridiski noteikts pārkāpums falsifikācija nostiprinājās ASV federālajā definīcijā 2000. gadā kopā ar fabrikāciju un plaģiātu [@ostp2000].
+
 ## Kā atpazīt
 
 - Mikroskopijas vai Western blot attēlos atkārtojas vieni un tie paši fragmenti, dažreiz pagriezti, spoguļoti vai mērogoti.

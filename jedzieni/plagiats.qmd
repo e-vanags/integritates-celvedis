@@ -22,6 +22,12 @@ Plaģiāts attiecas ne tikai uz tekstu. Tas var skart idejas, hipotēzes, datus,
 - **Leģitīmi žanri**, piemēram, literatūras apskats, kompilācija vai mācību grāmata, var plaši izmantot citu darbus. Tie nav plaģiāts, ja katrs avots ir atsaukts un autora paša ieguldījums ir skaidri redzams.
 - **Vispārzināmas lietas**, piemēram, ka Rīga ir Latvijas galvaspilsēta, atsauci neprasa. Robeža starp vispārzināmo un konkrēta autora ieguldījumu gan ir atkarīga no nozares un lasītāja [@roig2015].
 
+## Vēsture
+
+Vārds nāk no latīņu *plagiarius*, cilvēku zaglis jeb nolaupītājs. Romiešu dzejnieks Marciāls (*Martialis*) 1. gadsimtā epigrammā (I.52) tā nosauca citu dzejnieku, kurš publiski deklamēja Marciāla dzejoļus kā savus, un salīdzināja viņa rīcību ar verdzeņu nolaupīšanu. Angļu valodā vārdu *plagiary* literāras zādzības nozīmē 1601. gadā ieviesa dramaturgs Bens Džonsons (*Ben Jonson*).
+
+Zinātnē plaģiāts kā oficiāls pētniecības pārkāpums nostiprinājās 20. gadsimta beigās, kad ASV to iekļāva pārkāpumu definīcijā kopā ar fabrikāciju un falsifikāciju [@ostp2000]. Pēc 2011. gada Vācijā plaģiāta jautājumu publiskā telpā aktualizēja politiķu disertāciju pārbaudes, ko veica brīvprātīgo kustība VroniPlag Wiki [@weberwulff2014].
+
 ## Kā plaģiātu raksturot: piecas dimensijas
 
 Plaģiāts nav "jā vai nē" jautājums [@weberwulff2014]. Ceļvedī katru gadījumu iesakām raksturot piecās neatkarīgās dimensijās:

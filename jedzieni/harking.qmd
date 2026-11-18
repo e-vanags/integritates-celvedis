@@ -13,6 +13,10 @@ HARKing pārvērš izpētes (eksploratīvu) atradumu par it kā apstiprinošu p�
 
 HARKing ir prakse, kad pētnieks pēc rezultātu iegūšanas formulē hipotēzi, kas tiem atbilst, un rakstā to pasniedz tā, it kā tā būtu izvirzīta pirms pētījuma [@kerr1998].
 
+## Vēsture
+
+Terminu *HARKing*, saīsinājumu no *Hypothesizing After the Results are Known*, 1998. gadā ieviesa sociālais psihologs Norberts Kērs (*Norbert L. Kerr*) [@kerr1998]. Viņš aprakstīja šo praksi kā plaši izplatītu un analizēja, kā tā kropļo zinātnisko literatūru.
+
 ## Kā atpazīt
 
 - Visas hipotēzes ir apstiprinātas, arī negaidītas un ļoti specifiskas.

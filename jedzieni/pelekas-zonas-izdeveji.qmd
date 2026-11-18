@@ -13,6 +13,10 @@ Pelēkās zonas izdevēji veic recenzēšanu un ir indeksēti lielajās datubāz
 
 Termins nāk no Somijas publikāciju foruma JUFO, kas no 2025. gada pazemināja 271 MDPI un Frontiers žurnālu līdz 0. līmenim, nosaucot tos par pelēkās zonas žurnāliem, kuros publicēšanos nevar ieteikt bez iebildumiem [@retractionwatch2024jufo]. Atšķirībā no [plēsonīgajiem žurnāliem](plesonigie-zurnali.qmd) šie izdevēji neatbilst plēsonīga izdevēja definīcijai [@grudniewicz2019].
 
+## Vēsture
+
+Jēdziens radās, kad kļuva skaidrs, ka iedalījums "plēsonīgs vai leģitīms" ir pārāk vienkāršs. Kails Sailers (*Kyle Siler*) 2020. gadā, analizējot žurnālu melnos sarakstus, rakstīja par "pelēkajiem" žurnāliem un izdevējiem, kas atrodas starp plēsonīgumu un leģitimitāti, un ierosināja plēsonīgumu skatīt kā spektru [@siler2020].
+
 ## Kā atpazīt
 
 - Lielākā daļa rakstu tiek publicēti speciālizdevumos ar viesredaktoriem.

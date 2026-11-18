@@ -13,6 +13,10 @@ Papīru fabrikas tirgo autora vietas jau uzrakstītos rakstos. Cena ir atkarīga
 
 Autorības tirgus ir autora statusa pirkšana vai pārdošana rakstā, pie kura pircējs nav strādājis. Tas ir pārkāpums neatkarīgi no tā, vai pats raksts ir godīgs vai safabricēts, jo autorība tiek piešķirta nevis par ieguldījumu, bet par samaksu [@allea2023].
 
+## Vēsture
+
+Plašākai sabiedrībai autorības tirgus kļuva zināms 2013. gadā, kad žurnāls *Science* publicēja Maras Hvistendālas (*Mara Hvistendahl*) slepeno izmeklēšanu. Žurnāliste, uzdodoties par pircēju, atklāja Ķīnā aģentūras, kas pārdeva autora vietas jau pieņemtos rakstos un veselus rakstus [@hvistendahl2013]. Šī bija pirmā publicētā tiešā liecība par šādu tirgu.
+
 ## Kā atpazīt
 
 - Autoru komanda ir ģeogrāfiski un tematiski nesaistīta, un autori iepriekš nav sadarbojušies.

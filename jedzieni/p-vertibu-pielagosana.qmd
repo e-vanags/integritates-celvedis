@@ -13,6 +13,10 @@ P vērtību pielāgošana ir viens no galvenajiem replikācijas krīzes cēloņi
 
 P vērtību pielāgošana ir pētnieka rīcības brīvības izmantošana datu vākšanā un analīzē (*researcher degrees of freedom*), līdz tiek iegūts statistiski nozīmīgs rezultāts, ziņojot tikai par veiksmīgo variantu [@simmons2011].
 
+## Vēsture
+
+Problēma pati par sevi nav jauna, taču nosaukumu tā ieguva tikai 2010. gados. Simonss, Nelsons un Simonsons (*Simmons, Nelson, Simonsohn*) 2011. gadā rakstā par "kļūdaini pozitīvo psiholoģiju" runāja par pētnieka brīvības pakāpēm (*researcher degrees of freedom*) [@simmons2011]. Terminu *p-hacking* tie paši autori plaši ieviesa rakstā par p līknes metodi, kas tiešsaistē parādījās 2013. gadā [@simonsohn2014].
+
 ## Kā atpazīt
 
 - Daudzas p vērtības ir tieši zem 0,05.

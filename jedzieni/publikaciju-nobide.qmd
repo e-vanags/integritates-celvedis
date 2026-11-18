@@ -13,6 +13,12 @@ Ja tiek publicēti galvenokārt veiksmīgie rezultāti, publicētā literatūra 
 
 Publikāciju nobīde rodas, ja publicēšanas iespējamība ir atkarīga no rezultāta virziena vai statistiskās nozīmības. Rozentāls (*Rosenthal*) to nosauca par “atvilktnes problēmu”: nenozīmīgie rezultāti paliek galda atvilktnē [@rosenthal1979].
 
+## Vēsture
+
+Pirmo empīrisko pierādījumu 1959. gadā publicēja statistiķis Teodors Sterlings (*Theodore Sterling*). Viņš konstatēja, ka 97,3 % rakstu četros nozīmīgos psiholoģijas žurnālos ziņoja par statistiski nozīmīgiem rezultātiem, un brīdināja, ka literatūra var lielā mērā sastāvēt no kļūdaini pozitīviem secinājumiem [@sterling1959].
+
+Robērts Rozentāls (*Robert Rosenthal*) 1979. gadā šo parādību nosauca par "atvilktnes problēmu" (*file drawer problem*): nenozīmīgi rezultāti paliek pētnieku atvilktnēs, un žurnālos nonāk tikai tie, kas "izdevušies" [@rosenthal1979].
+
 ## Kā atpazīt
 
 - Metaanalīzē piltuves diagramma ir asimetriska.

@@ -13,11 +13,12 @@ Ceļvedis papildina, nevis aizstāj starptautiskos resursus, piemēram, platform
 Katram jēdzienam ir vienāda struktūra:
 
 1. **Definīcija**, ja iespējams, balstīta uz Eiropas Pētniecības integritātes kodeksu [@allea2023] vai citu atzītu avotu.
-2. **Kā atpazīt**: tipiskās pazīmes.
-3. **Cik izplatīts**: empīriskie dati ar atsaucēm.
-4. **Piemērs**: oficiāli konstatēts gadījums.
-5. **Saistītie jēdzieni**.
-6. **Atsauces** APA stilā.
+2. **Vēsture**: kad termins vai parādība pirmoreiz aprakstīta.
+3. **Kā atpazīt**: tipiskās pazīmes.
+4. **Cik izplatīts**: empīriskie dati ar atsaucēm.
+5. **Piemērs**: oficiāli konstatēts gadījums.
+6. **Saistītie jēdzieni**.
+7. **Atsauces** APA stilā.
 
 ## Gadījumu iekļaušanas princips
 
