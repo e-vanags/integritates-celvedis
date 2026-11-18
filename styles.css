@@ -3,3 +3,14 @@ h1, h2, h3 { color: #111; }
 .statuss { display: inline-block; padding: 0.15em 0.6em; border: 1px solid #555; border-radius: 3px; font-size: 0.85em; color: #333; margin-right: 0.4em; }
 .kopsavilkums { border-left: 4px solid #888; background: #f4f4f4; padding: 0.8em 1em; margin: 1em 0 1.5em 0; }
 table { font-size: 0.95em; }
+
+/* Recenzēšanas informācija */
+.recenzija {
+  border: 1px solid #bbb;
+  padding: 0.6em 1em;
+  margin-bottom: 1.2em;
+  font-size: 0.9em;
+  background: #fafafa;
+}
+.recenzija.recenzets { border-left: 5px solid #444; }
+.recenzija.melnraksts { border-left: 5px solid #bbb; }
