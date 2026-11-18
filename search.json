@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Zinātnes integritātes ceļvedis",
     "section": "",
-    "text": "Šis ceļvedis latviešu valodā apkopo galvenos zinātnes integritātes pārkāpumus un apšaubāmās pētniecības prakses. Katram jēdzienam ir definīcija, atpazīšanas pazīmes, dati par izplatību, oficiāli konstatēts piemērs un atsauces uz recenzētiem avotiem. Ceļvedis ir daļa no iniciatīvas Slow Science.\nJēdzieni ir sakārtoti pēc pētniecības cikla posma un pēc statusa:\nPārskatu pēc pētniecības posmiem skati sadaļā Taksonomija, bet latviešu un angļu terminus sadaļā Glosārijs."
+    "text": "Šis ceļvedis latviešu valodā apkopo galvenos zinātnes integritātes pārkāpumus un apšaubāmās pētniecības prakses. Katram jēdzienam ir definīcija, īsa vēsture, atpazīšanas pazīmes, dati par izplatību, oficiāli konstatēts piemērs un atsauces uz recenzētiem avotiem. Ceļvedis ir daļa no iniciatīvas Slow Science.\nJēdzieni ir sakārtoti pēc pētniecības cikla posma un pēc statusa:\nPārskatu pēc pētniecības posmiem skati sadaļā Taksonomija, bet latviešu un angļu terminus sadaļā Glosārijs."
   },
   {
     "objectID": "index.html#visi-jēdzieni",
@@ -31,6 +31,18 @@
     "title": "Plēsonīgie žurnāli",
     "section": "Definīcija",
     "text": "Definīcija\nPēc starptautiskas vienošanās plēsonīgie žurnāli un izdevēji ir subjekti, kas savas intereses liek augstāk par zinātni un kam raksturīga nepatiesa vai maldinoša informācija, atkāpes no labas redakcionālās un publicēšanas prakses, caurskatāmības trūkums un agresīva, neselektīva autoru piesaiste (Grudniewicz u.c., 2019).",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Plēsonīgie žurnāli"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plesonigie-zurnali.html#vēsture",
+    "href": "jedzieni/plesonigie-zurnali.html#vēsture",
+    "title": "Plēsonīgie žurnāli",
+    "section": "Vēsture",
+    "text": "Vēsture\nTerminu “plēsonīgs” (predatory) zinātniskās izdevējdarbības kontekstā 2010. gadā ieviesa ASV bibliotekārs Džefrijs Bīls (Jeffrey Beall) (Beall, 2010). Viņš sāka veidot potenciāli plēsonīgu izdevēju sarakstu, ko plaši izmantoja līdz tā slēgšanai 2017. gadā. Tā kā termins bija pretrunīgs un saraksts balstījās uz viena cilvēka vērtējumu, 2019. gadā starptautiska ekspertu grupa vienojās par kopīgu definīciju (Grudniewicz u.c., 2019).",
     "crumbs": [
       "Sākums",
       "Recenzēšana un publicēšana",
@@ -90,7 +102,7 @@
     "href": "jedzieni/plesonigie-zurnali.html#atsauces",
     "title": "Plēsonīgie žurnāli",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nBjörk, B.-C., Kanto-Karvonen, S., & Harviainen, J. T. (2020). How frequently are articles in predatory open access journals cited. Publications, 8(2), 17. https://doi.org/10.3390/publications8020017\n\n\nGrudniewicz, A., Moher, D., Cobey, K. D., u.c. (2019). Predatory journals: No definition, no defence. Nature, 576, 210–212. https://doi.org/10.1038/d41586-019-03759-y\n\n\nMacháček, V., & Srholec, M. (2022). Predatory publishing in Scopus: Evidence on cross-country differences. Quantitative Science Studies, 3(3), 859–887. https://doi.org/10.1162/qss_a_00213",
+    "text": "Atsauces\n\n\nBeall, J. (2010). \"Predatory\" open-access scholarly publishers. The Charleston Advisor, 11(4), 10–17.\n\n\nBjörk, B.-C., Kanto-Karvonen, S., & Harviainen, J. T. (2020). How frequently are articles in predatory open access journals cited. Publications, 8(2), 17. https://doi.org/10.3390/publications8020017\n\n\nGrudniewicz, A., Moher, D., Cobey, K. D., u.c. (2019). Predatory journals: No definition, no defence. Nature, 576, 210–212. https://doi.org/10.1038/d41586-019-03759-y\n\n\nMacháček, V., & Srholec, M. (2022). Predatory publishing in Scopus: Evidence on cross-country differences. Quantitative Science Studies, 3(3), 859–887. https://doi.org/10.1162/qss_a_00213",
     "crumbs": [
       "Sākums",
       "Recenzēšana un publicēšana",
@@ -115,6 +127,18 @@
     "title": "Plaģiāts",
     "section": "Definīcija",
     "text": "Definīcija\nEiropas Pētniecības integritātes kodekss plaģiātu definē kā citu cilvēku darba un ideju izmantošanu, pienācīgi neatsaucoties uz sākotnējo avotu (ALLEA, 2023). Tas ir viens no trim smagākajiem pētniecības pārkāpumiem kopā ar fabrikāciju un falsifikāciju.\nPlaģiāts attiecas ne tikai uz tekstu. Tas var skart idejas, hipotēzes, datus, attēlus, metodes un argumenta struktūru (Roig, 2015; Tauginiēnė u.c., 2018). Bouville (2008) uzsver, ka galvenais ir ideju piesavināšanās, bet vārdi ir tas, pēc kā plaģiātu visbiežāk atklāj.\n\nKo nejaukt ar plaģiātu\n\nAutortiesību pārkāpums ir juridisks jautājums, plaģiāts ir akadēmiskās ētikas jautājums. Tie var pārklāties, bet ne vienmēr. Precīzi atsaukts teksts var pārkāpt autortiesības, un plaģiēts var būt arī darbs, uz kuru autortiesības vairs neattiecas (Roig, 2015).\nNepilnīga avotu izmantošana ne vienmēr ir plaģiāts. Pētnieki nošķir apzinātu maldināšanu no rakstīšanas prasmju trūkuma, kas prasa mācīšanu, nevis sodu (Pecorari, 2003).\nLeģitīmi žanri, piemēram, literatūras apskats, kompilācija vai mācību grāmata, var plaši izmantot citu darbus. Tie nav plaģiāts, ja katrs avots ir atsaukts un autora paša ieguldījums ir skaidri redzams.\nVispārzināmas lietas, piemēram, ka Rīga ir Latvijas galvaspilsēta, atsauci neprasa. Robeža starp vispārzināmo un konkrēta autora ieguldījumu gan ir atkarīga no nozares un lasītāja (Roig, 2015).",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Plaģiāts"
+    ]
+  },
+  {
+    "objectID": "jedzieni/plagiats.html#vēsture",
+    "href": "jedzieni/plagiats.html#vēsture",
+    "title": "Plaģiāts",
+    "section": "Vēsture",
+    "text": "Vēsture\nVārds nāk no latīņu plagiarius, cilvēku zaglis jeb nolaupītājs. Romiešu dzejnieks Marciāls (Martialis) 1. gadsimtā epigrammā (I.52) tā nosauca citu dzejnieku, kurš publiski deklamēja Marciāla dzejoļus kā savus, un salīdzināja viņa rīcību ar verdzeņu nolaupīšanu. Angļu valodā vārdu plagiary literāras zādzības nozīmē 1601. gadā ieviesa dramaturgs Bens Džonsons (Ben Jonson).\nZinātnē plaģiāts kā oficiāls pētniecības pārkāpums nostiprinājās 20. gadsimta beigās, kad ASV to iekļāva pārkāpumu definīcijā kopā ar fabrikāciju un falsifikāciju (Office of Science and Technology Policy, 2000). Pēc 2011. gada Vācijā plaģiāta jautājumu publiskā telpā aktualizēja politiķu disertāciju pārbaudes, ko veica brīvprātīgo kustība VroniPlag Wiki (Weber-Wulff, 2014).",
     "crumbs": [
       "Sākums",
       "Rakstīšana un autorība",
@@ -210,7 +234,7 @@
     "href": "jedzieni/plagiats.html#atsauces",
     "title": "Plaģiāts",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nAbalkina, A., Aquarius, R., Bik, E., Bimler, D., Bishop, D., Byrne, J., Cabanac, G., Day, A., Labbé, C., & Wise, N. (2025). \"Stamp out paper mills\": Science sleuths on how to fight fake research. Nature, 637, 1047–1050. https://doi.org/10.1038/d41586-025-00212-1\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nBouville, M. (2008). Plagiarism: Words and ideas. Science and Engineering Ethics, 14(3), 311–322. https://doi.org/10.1007/s11948-008-9057-6\n\n\nBrown, A. S., & Murphy, D. R. (1989). Cryptomnesia: Delineating inadvertent plagiarism. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15(3), 432–442. https://doi.org/10.1037/0278-7393.15.3.432\n\n\nCabanac, G., Labbé, C., & Magazinov, A. (2021). Tortured phrases: A dubious writing style emerging in science. arXiv preprint. https://doi.org/10.48550/arXiv.2107.06751\n\n\nDougherty, M. V. (2020). Disguised academic plagiarism: A typology and case studies for researchers and editors. Springer. https://doi.org/10.1007/978-3-030-46711-1\n\n\nFoltýnek, T., Bjelobaba, S., Glendinning, I., Khan, Z. R., Santos, R., Pavletic, P., & Kravjar, J. (2023). ENAI recommendations on the ethical use of artificial intelligence in education. International Journal for Educational Integrity, 19, Article 12. https://doi.org/10.1007/s40979-023-00133-4\n\n\nFoltýnek, T., Meuschke, N., & Gipp, B. (2019). Academic plagiarism detection: A systematic literature review. ACM Computing Surveys, 52(6), Article 112. https://doi.org/10.1145/3345317\n\n\nHoward, R. M. (1992). A plagiarism pentimento. Journal of Teaching Writing, 11(2), 233–245.\n\n\nMoskovitz, C. (2019). Text recycling in scientific writing. Science and Engineering Ethics, 25(3), 813–851. https://doi.org/10.1007/s11948-017-0008-y\n\n\nPecorari, D. (2003). Good and original: Plagiarism and patchwriting in academic second-language writing. Journal of Second Language Writing, 12(4), 317–345. https://doi.org/10.1016/j.jslw.2003.08.004\n\n\nPupovac, V., & Fanelli, D. (2015). Scientists admitting to plagiarism: A meta-analysis of surveys. Science and Engineering Ethics, 21(5), 1331–1352. https://doi.org/10.1007/s11948-014-9600-6\n\n\nRoig, M. (2015). Avoiding plagiarism, self-plagiarism, and other questionable writing practices: A guide to ethical writing. Office of Research Integrity, U.S. Department of Health and Human Services. https://ori.hhs.gov/avoiding-plagiarism-self-plagiarism-and-other-questionable-writing-practices-guide-ethical-writing\n\n\nTauginiēnė, L., Gaižauskaitė, I., Glendinning, I., Kravjar, J., Ojšteršek, M., Ribeiro, L., Odiņeca, T., Marino, F., Cosentino, M., & Sivasubramaniam, S. (2018). Glossary for academic integrity [ENAI Report 3G]. European Network for Academic Integrity. https://www.academicintegrity.eu/wp/glossary/\n\n\nTramèr, M. R., Reynolds, D. J. M., Moore, R. A., & McQuay, H. J. (1997). Impact of covert duplicate publication on meta-analysis: A case study. BMJ, 315(7109), 635–640. https://doi.org/10.1136/bmj.315.7109.635\n\n\nUniversität Bayreuth. (2011). Fall zu Guttenberg: Kommission legt ihren Abschlussbericht vor. Pressemitteilung Nr. 089/2011, 6. Mai 2011. https://www.presse.uni-bayreuth.de/de/archiv/2011/091-089-guttenberg.pdf\n\n\nWeber-Wulff, D. (2014). False feathers: A perspective on academic plagiarism. Springer. https://doi.org/10.1007/978-3-642-39961-9",
+    "text": "Atsauces\n\n\nAbalkina, A., Aquarius, R., Bik, E., Bimler, D., Bishop, D., Byrne, J., Cabanac, G., Day, A., Labbé, C., & Wise, N. (2025). \"Stamp out paper mills\": Science sleuths on how to fight fake research. Nature, 637, 1047–1050. https://doi.org/10.1038/d41586-025-00212-1\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nBouville, M. (2008). Plagiarism: Words and ideas. Science and Engineering Ethics, 14(3), 311–322. https://doi.org/10.1007/s11948-008-9057-6\n\n\nBrown, A. S., & Murphy, D. R. (1989). Cryptomnesia: Delineating inadvertent plagiarism. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15(3), 432–442. https://doi.org/10.1037/0278-7393.15.3.432\n\n\nCabanac, G., Labbé, C., & Magazinov, A. (2021). Tortured phrases: A dubious writing style emerging in science. arXiv preprint. https://doi.org/10.48550/arXiv.2107.06751\n\n\nDougherty, M. V. (2020). Disguised academic plagiarism: A typology and case studies for researchers and editors. Springer. https://doi.org/10.1007/978-3-030-46711-1\n\n\nFoltýnek, T., Bjelobaba, S., Glendinning, I., Khan, Z. R., Santos, R., Pavletic, P., & Kravjar, J. (2023). ENAI recommendations on the ethical use of artificial intelligence in education. International Journal for Educational Integrity, 19, Article 12. https://doi.org/10.1007/s40979-023-00133-4\n\n\nFoltýnek, T., Meuschke, N., & Gipp, B. (2019). Academic plagiarism detection: A systematic literature review. ACM Computing Surveys, 52(6), Article 112. https://doi.org/10.1145/3345317\n\n\nHoward, R. M. (1992). A plagiarism pentimento. Journal of Teaching Writing, 11(2), 233–245.\n\n\nMoskovitz, C. (2019). Text recycling in scientific writing. Science and Engineering Ethics, 25(3), 813–851. https://doi.org/10.1007/s11948-017-0008-y\n\n\nOffice of Science and Technology Policy. (2000). Federal policy on research misconduct. Federal Register, 65(235), 76260–76264.\n\n\nPecorari, D. (2003). Good and original: Plagiarism and patchwriting in academic second-language writing. Journal of Second Language Writing, 12(4), 317–345. https://doi.org/10.1016/j.jslw.2003.08.004\n\n\nPupovac, V., & Fanelli, D. (2015). Scientists admitting to plagiarism: A meta-analysis of surveys. Science and Engineering Ethics, 21(5), 1331–1352. https://doi.org/10.1007/s11948-014-9600-6\n\n\nRoig, M. (2015). Avoiding plagiarism, self-plagiarism, and other questionable writing practices: A guide to ethical writing. Office of Research Integrity, U.S. Department of Health and Human Services. https://ori.hhs.gov/avoiding-plagiarism-self-plagiarism-and-other-questionable-writing-practices-guide-ethical-writing\n\n\nTauginiēnė, L., Gaižauskaitė, I., Glendinning, I., Kravjar, J., Ojšteršek, M., Ribeiro, L., Odiņeca, T., Marino, F., Cosentino, M., & Sivasubramaniam, S. (2018). Glossary for academic integrity [ENAI Report 3G]. European Network for Academic Integrity. https://www.academicintegrity.eu/wp/glossary/\n\n\nTramèr, M. R., Reynolds, D. J. M., Moore, R. A., & McQuay, H. J. (1997). Impact of covert duplicate publication on meta-analysis: A case study. BMJ, 315(7109), 635–640. https://doi.org/10.1136/bmj.315.7109.635\n\n\nUniversität Bayreuth. (2011). Fall zu Guttenberg: Kommission legt ihren Abschlussbericht vor. Pressemitteilung Nr. 089/2011, 6. Mai 2011. https://www.presse.uni-bayreuth.de/de/archiv/2011/091-089-guttenberg.pdf\n\n\nWeber-Wulff, D. (2014). False feathers: A perspective on academic plagiarism. Springer. https://doi.org/10.1007/978-3-642-39961-9",
     "crumbs": [
       "Sākums",
       "Rakstīšana un autorība",
@@ -235,6 +259,18 @@
     "title": "HARKing",
     "section": "Definīcija",
     "text": "Definīcija\nHARKing ir prakse, kad pētnieks pēc rezultātu iegūšanas formulē hipotēzi, kas tiem atbilst, un rakstā to pasniedz tā, it kā tā būtu izvirzīta pirms pētījuma (Kerr, 1998).",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "HARKing"
+    ]
+  },
+  {
+    "objectID": "jedzieni/harking.html#vēsture",
+    "href": "jedzieni/harking.html#vēsture",
+    "title": "HARKing",
+    "section": "Vēsture",
+    "text": "Vēsture\nTerminu HARKing, saīsinājumu no Hypothesizing After the Results are Known, 1998. gadā ieviesa sociālais psihologs Norberts Kērs (Norbert L. Kerr) (Kerr, 1998). Viņš aprakstīja šo praksi kā plaši izplatītu un analizēja, kā tā kropļo zinātnisko literatūru.",
     "crumbs": [
       "Sākums",
       "Analīze un ziņošana",
@@ -338,6 +374,18 @@
     ]
   },
   {
+    "objectID": "jedzieni/pelekas-zonas-izdeveji.html#vēsture",
+    "href": "jedzieni/pelekas-zonas-izdeveji.html#vēsture",
+    "title": "Pelēkās zonas izdevēji",
+    "section": "Vēsture",
+    "text": "Vēsture\nJēdziens radās, kad kļuva skaidrs, ka iedalījums “plēsonīgs vai leģitīms” ir pārāk vienkāršs. Kails Sailers (Kyle Siler) 2020. gadā, analizējot žurnālu melnos sarakstus, rakstīja par “pelēkajiem” žurnāliem un izdevējiem, kas atrodas starp plēsonīgumu un leģitimitāti, un ierosināja plēsonīgumu skatīt kā spektru (Siler, 2020).",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Pelēkās zonas izdevēji"
+    ]
+  },
+  {
     "objectID": "jedzieni/pelekas-zonas-izdeveji.html#kā-atpazīt",
     "href": "jedzieni/pelekas-zonas-izdeveji.html#kā-atpazīt",
     "title": "Pelēkās zonas izdevēji",
@@ -390,7 +438,7 @@
     "href": "jedzieni/pelekas-zonas-izdeveji.html#atsauces",
     "title": "Pelēkās zonas izdevēji",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nGrudniewicz, A., Moher, D., Cobey, K. D., u.c. (2019). Predatory journals: No definition, no defence. Nature, 576, 210–212. https://doi.org/10.1038/d41586-019-03759-y\n\n\nHanson, M. A., Gómez Barreiro, P., Crosetto, P., & Brockington, D. (2024). The strain on scientific publishing. Quantitative Science Studies, 5(4), 823–843. https://doi.org/10.1162/qss_a_00327\n\n\nKrasnopjorovs, O. (2025). Kas slēpjas aiz rekordaugstā Latvijas zinātnisko rakstu skaita pieauguma? Makroekonomika.lv. https://www.makroekonomika.lv/raksti/kas-slepjas-aiz-rekordaugsta-latvijas-zinatnisko-rakstu-skaita-pieauguma\n\n\nRetraction Watch. (2024). Finland Publication Forum will downgrade hundreds of Frontiers and MDPI journals. https://retractionwatch.com/2024/12/24/finland-publication-forum-will-downgrade-hundreds-of-frontiers-and-mdpi-journals",
+    "text": "Atsauces\n\n\nGrudniewicz, A., Moher, D., Cobey, K. D., u.c. (2019). Predatory journals: No definition, no defence. Nature, 576, 210–212. https://doi.org/10.1038/d41586-019-03759-y\n\n\nHanson, M. A., Gómez Barreiro, P., Crosetto, P., & Brockington, D. (2024). The strain on scientific publishing. Quantitative Science Studies, 5(4), 823–843. https://doi.org/10.1162/qss_a_00327\n\n\nKrasnopjorovs, O. (2025). Kas slēpjas aiz rekordaugstā Latvijas zinātnisko rakstu skaita pieauguma? Makroekonomika.lv. https://www.makroekonomika.lv/raksti/kas-slepjas-aiz-rekordaugsta-latvijas-zinatnisko-rakstu-skaita-pieauguma\n\n\nRetraction Watch. (2024). Finland Publication Forum will downgrade hundreds of Frontiers and MDPI journals. https://retractionwatch.com/2024/12/24/finland-publication-forum-will-downgrade-hundreds-of-frontiers-and-mdpi-journals\n\n\nSiler, K. (2020). Demarcating spectrums of predatory publishing: Economic and institutional sources of academic legitimacy. Journal of the Association for Information Science and Technology, 71(11), 1386–1401. https://doi.org/10.1002/asi.24339",
     "crumbs": [
       "Sākums",
       "Recenzēšana un publicēšana",
@@ -415,6 +463,18 @@
     "title": "P vērtību pielāgošana",
     "section": "Definīcija",
     "text": "Definīcija\nP vērtību pielāgošana ir pētnieka rīcības brīvības izmantošana datu vākšanā un analīzē (researcher degrees of freedom), līdz tiek iegūts statistiski nozīmīgs rezultāts, ziņojot tikai par veiksmīgo variantu (Simmons u.c., 2011).",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "P vērtību pielāgošana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/p-vertibu-pielagosana.html#vēsture",
+    "href": "jedzieni/p-vertibu-pielagosana.html#vēsture",
+    "title": "P vērtību pielāgošana",
+    "section": "Vēsture",
+    "text": "Vēsture\nProblēma pati par sevi nav jauna, taču nosaukumu tā ieguva tikai 2010. gados. Simonss, Nelsons un Simonsons (Simmons, Nelson, Simonsohn) 2011. gadā rakstā par “kļūdaini pozitīvo psiholoģiju” runāja par pētnieka brīvības pakāpēm (researcher degrees of freedom) (Simmons u.c., 2011). Terminu p-hacking tie paši autori plaši ieviesa rakstā par p līknes metodi, kas tiešsaistē parādījās 2013. gadā (Simonsohn u.c., 2014).",
     "crumbs": [
       "Sākums",
       "Analīze un ziņošana",
@@ -486,7 +546,7 @@
     "href": "jedzieni/p-vertibu-pielagosana.html#atsauces",
     "title": "P vērtību pielāgošana",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nJohn, L. K., Loewenstein, G., & Prelec, D. (2012). Measuring the prevalence of questionable research practices with incentives for truth telling. Psychological Science, 23(5), 524–532. https://doi.org/10.1177/0956797611430953\n\n\nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. https://doi.org/10.1126/science.aac4716\n\n\nSimmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632",
+    "text": "Atsauces\n\n\nJohn, L. K., Loewenstein, G., & Prelec, D. (2012). Measuring the prevalence of questionable research practices with incentives for truth telling. Psychological Science, 23(5), 524–532. https://doi.org/10.1177/0956797611430953\n\n\nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. https://doi.org/10.1126/science.aac4716\n\n\nSimmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632\n\n\nSimonsohn, U., Nelson, L. D., & Simmons, J. P. (2014). P-curve: A key to the file-drawer. Journal of Experimental Psychology: General, 143(2), 534–547. https://doi.org/10.1037/a0033242",
     "crumbs": [
       "Sākums",
       "Analīze un ziņošana",
@@ -511,6 +571,18 @@
     "title": "Papīru fabrikas",
     "section": "Definīcija",
     "text": "Definīcija\nPapīru fabrikas ir komerciālas, bieži nelegālas organizācijas, kas ražo un pārdod viltotus vai zemas kvalitātes manuskriptus, autora vietas un dažreiz arī recenzēšanas iznākumu (COPE & STM, 2022).",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Papīru fabrikas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/papiru-fabrikas.html#vēsture",
+    "href": "jedzieni/papiru-fabrikas.html#vēsture",
+    "title": "Papīru fabrikas",
+    "section": "Vēsture",
+    "text": "Vēsture\nZinātnes kontekstā jēdziens nostiprinājās 2010. gadu otrajā pusē. Viens no pirmajiem sistemātiskajiem pētījumiem bija Dženiferas Bairnas (Jennifer Byrne) un Sirila Labē (Cyril Labbé) darbs, kas tiešsaistē parādījās 2016. gadā. Sākot ar piecām publikācijām, kurās bija viena un tā pati kļūda eksperimenta aprakstā, viņi atrada 48 ļoti līdzīgus vēža pētījumu rakstus un secināja, ka daļa aprakstīto eksperimentu, iespējams, nemaz nav veikti (Byrne & Labbé, 2017). Jau 2013. gadā žurnāls Science bija aprakstījis starpniekus, kas pārdod gatavus rakstus (Hvistendahl, 2013).",
     "crumbs": [
       "Sākums",
       "Recenzēšana un publicēšana",
@@ -570,7 +642,7 @@
     "href": "jedzieni/papiru-fabrikas.html#atsauces",
     "title": "Papīru fabrikas",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nAbalkina, A., Aquarius, R., Bik, E., Bimler, D., Bishop, D., Byrne, J., Cabanac, G., Day, A., Labbé, C., & Wise, N. (2025). \"Stamp out paper mills\": Science sleuths on how to fight fake research. Nature, 637, 1047–1050. https://doi.org/10.1038/d41586-025-00212-1\n\n\nCOPE, & STM. (2022). Paper mills: Research report from COPE & STM. Committee on Publication Ethics. https://doi.org/10.24318/jtbG8IHL\n\n\nRichardson, R. A. K., Hong, S. S., Byrne, J. A., Stoeger, T., & Amaral, L. A. N. (2025). The entities enabling scientific fraud at scale are large, resilient, and growing rapidly. Proceedings of the National Academy of Sciences, 122(32), e2420092122. https://doi.org/10.1073/pnas.2420092122\n\n\nVan Noorden, R. (2023a). How big is science’s fake-paper problem? Nature, 623, 466–467. https://doi.org/10.1038/d41586-023-03464-x\n\n\nVan Noorden, R. (2023b). More than 10,000 research papers were retracted in 2023: A new record. Nature, 624, 479–481. https://doi.org/10.1038/d41586-023-03974-8",
+    "text": "Atsauces\n\n\nAbalkina, A., Aquarius, R., Bik, E., Bimler, D., Bishop, D., Byrne, J., Cabanac, G., Day, A., Labbé, C., & Wise, N. (2025). \"Stamp out paper mills\": Science sleuths on how to fight fake research. Nature, 637, 1047–1050. https://doi.org/10.1038/d41586-025-00212-1\n\n\nByrne, J. A., & Labbé, C. (2017). Striking similarities between publications from China describing single gene knockdown experiments in human cancer cell lines. Scientometrics, 110(3), 1471–1493. https://doi.org/10.1007/s11192-016-2209-6\n\n\nCOPE, & STM. (2022). Paper mills: Research report from COPE & STM. Committee on Publication Ethics. https://doi.org/10.24318/jtbG8IHL\n\n\nHvistendahl, M. (2013). China’s publication bazaar. Science, 342(6162), 1035–1039. https://doi.org/10.1126/science.342.6162.1035\n\n\nRichardson, R. A. K., Hong, S. S., Byrne, J. A., Stoeger, T., & Amaral, L. A. N. (2025). The entities enabling scientific fraud at scale are large, resilient, and growing rapidly. Proceedings of the National Academy of Sciences, 122(32), e2420092122. https://doi.org/10.1073/pnas.2420092122\n\n\nVan Noorden, R. (2023a). How big is science’s fake-paper problem? Nature, 623, 466–467. https://doi.org/10.1038/d41586-023-03464-x\n\n\nVan Noorden, R. (2023b). More than 10,000 research papers were retracted in 2023: A new record. Nature, 624, 479–481. https://doi.org/10.1038/d41586-023-03974-8",
     "crumbs": [
       "Sākums",
       "Recenzēšana un publicēšana",
@@ -595,6 +667,18 @@
     "title": "Falsifikācija",
     "section": "Definīcija",
     "text": "Definīcija\nEiropas Pētniecības integritātes kodekss falsifikāciju definē kā pētniecības materiālu, aprīkojuma vai procesu manipulēšanu, kā arī datu vai rezultātu mainīšanu, izlaišanu vai noklusēšanu bez pamatojuma (ALLEA, 2023).",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Falsifikācija"
+    ]
+  },
+  {
+    "objectID": "jedzieni/falsifikacija.html#vēsture",
+    "href": "jedzieni/falsifikacija.html#vēsture",
+    "title": "Falsifikācija",
+    "section": "Vēsture",
+    "text": "Vēsture\nBebidžs 1830. gadā aprakstīja divus falsifikācijas paveidus, kas pazīstami vēl šodien. Trimming jeb apgriešana nozīmēja novērojumu “pielīdzināšanu” vidējam, nogriežot lielākās novirzes un pieliekot tās mazākajām. Cooking jeb gatavošana nozīmēja no daudziem novērojumiem atlasīt tikai tos, kas der teorijai (Babbage, 1830). Mūsdienās gatavošanu pazīstam kā selektīvu ziņošanu.\nKā juridiski noteikts pārkāpums falsifikācija nostiprinājās ASV federālajā definīcijā 2000. gadā kopā ar fabrikāciju un plaģiātu (Office of Science and Technology Policy, 2000).",
     "crumbs": [
       "Sākums",
       "Dati",
@@ -654,7 +738,7 @@
     "href": "jedzieni/falsifikacija.html#atsauces",
     "title": "Falsifikācija",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nBik, E. M., Casadevall, A., & Fang, F. C. (2016). The prevalence of inappropriate image duplication in biomedical research publications. mBio, 7(3), e00809–16. https://doi.org/10.1128/mBio.00809-16\n\n\nPiller, C. (2024). Picture imperfect: Scores of papers by Eliezer Masliah, prominent neuroscientist and top NIH official, fall under suspicion. Science.",
+    "text": "Atsauces\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nBabbage, C. (1830). Reflections on the decline of science in England, and on some of its causes. B. Fellowes. https://www.gutenberg.org/ebooks/1216\n\n\nBik, E. M., Casadevall, A., & Fang, F. C. (2016). The prevalence of inappropriate image duplication in biomedical research publications. mBio, 7(3), e00809–16. https://doi.org/10.1128/mBio.00809-16\n\n\nOffice of Science and Technology Policy. (2000). Federal policy on research misconduct. Federal Register, 65(235), 76260–76264.\n\n\nPiller, C. (2024). Picture imperfect: Scores of papers by Eliezer Masliah, prominent neuroscientist and top NIH official, fall under suspicion. Science.",
     "crumbs": [
       "Sākums",
       "Dati",
@@ -701,7 +785,7 @@
     "href": "par-celvedi.html#struktūra",
     "title": "Par ceļvedi",
     "section": "Struktūra",
-    "text": "Struktūra\nKatram jēdzienam ir vienāda struktūra:\n\nDefinīcija, ja iespējams, balstīta uz Eiropas Pētniecības integritātes kodeksu (ALLEA, 2023) vai citu atzītu avotu.\nKā atpazīt: tipiskās pazīmes.\nCik izplatīts: empīriskie dati ar atsaucēm.\nPiemērs: oficiāli konstatēts gadījums.\nSaistītie jēdzieni.\nAtsauces APA stilā."
+    "text": "Struktūra\nKatram jēdzienam ir vienāda struktūra:\n\nDefinīcija, ja iespējams, balstīta uz Eiropas Pētniecības integritātes kodeksu (ALLEA, 2023) vai citu atzītu avotu.\nVēsture: kad termins vai parādība pirmoreiz aprakstīta.\nKā atpazīt: tipiskās pazīmes.\nCik izplatīts: empīriskie dati ar atsaucēm.\nPiemērs: oficiāli konstatēts gadījums.\nSaistītie jēdzieni.\nAtsauces APA stilā."
   },
   {
     "objectID": "par-celvedi.html#gadījumu-iekļaušanas-princips",
@@ -784,6 +868,18 @@
     ]
   },
   {
+    "objectID": "jedzieni/fabrikacija.html#vēsture",
+    "href": "jedzieni/fabrikacija.html#vēsture",
+    "title": "Fabrikācija",
+    "section": "Vēsture",
+    "text": "Vēsture\nPar datu izdomāšanu zinātnē rakstīja jau 1830. gadā angļu matemātiķis Čārlzs Bebidžs (Charles Babbage). Grāmatā par zinātnes panīkumu Anglijā viņš izšķīra četrus krāpšanas veidus. Viens no tiem bija forging, novērojumu izdomāšana, lai iegūtu zinātnieka slavu (Babbage, 1830).\nMūsdienu definīcija radās ASV. Pēc vairāk nekā desmit gadu diskusijām 2000. gadā Baltā nama Zinātnes un tehnoloģiju politikas birojs nostiprināja trīs pārkāpumu kodolu: fabrikāciju, falsifikāciju un plaģiātu, saīsināti FFP (Office of Science and Technology Policy, 2000). Arī Eiropas Pētniecības integritātes kodeksā šie trīs ir galvenie pētniecības pārkāpumi (ALLEA, 2023).",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Fabrikācija"
+    ]
+  },
+  {
     "objectID": "jedzieni/fabrikacija.html#kā-atpazīt",
     "href": "jedzieni/fabrikacija.html#kā-atpazīt",
     "title": "Fabrikācija",
@@ -836,7 +932,7 @@
     "href": "jedzieni/fabrikacija.html#atsauces",
     "title": "Fabrikācija",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nCarlisle, J. B. (2021). False individual patient data and zombie randomised controlled trials submitted to Anaesthesia. Anaesthesia, 76(4), 472–479. https://doi.org/10.1111/anae.15263\n\n\nFanelli, D. (2009). How many scientists fabricate and falsify research? A systematic review and meta-analysis of survey data. PLoS ONE, 4(5), e5738. https://doi.org/10.1371/journal.pone.0005738\n\n\nLevelt Committee, Noort Committee, & Drenth Committee. (2012). Flawed science: The fraudulent research practices of social psychologist Diederik Stapel. Tilburg University.",
+    "text": "Atsauces\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nBabbage, C. (1830). Reflections on the decline of science in England, and on some of its causes. B. Fellowes. https://www.gutenberg.org/ebooks/1216\n\n\nCarlisle, J. B. (2021). False individual patient data and zombie randomised controlled trials submitted to Anaesthesia. Anaesthesia, 76(4), 472–479. https://doi.org/10.1111/anae.15263\n\n\nFanelli, D. (2009). How many scientists fabricate and falsify research? A systematic review and meta-analysis of survey data. PLoS ONE, 4(5), e5738. https://doi.org/10.1371/journal.pone.0005738\n\n\nLevelt Committee, Noort Committee, & Drenth Committee. (2012). Flawed science: The fraudulent research practices of social psychologist Diederik Stapel. Tilburg University.\n\n\nOffice of Science and Technology Policy. (2000). Federal policy on research misconduct. Federal Register, 65(235), 76260–76264.",
     "crumbs": [
       "Sākums",
       "Dati",
@@ -861,6 +957,18 @@
     "title": "Autorības tirgus",
     "section": "Definīcija",
     "text": "Definīcija\nAutorības tirgus ir autora statusa pirkšana vai pārdošana rakstā, pie kura pircējs nav strādājis. Tas ir pārkāpums neatkarīgi no tā, vai pats raksts ir godīgs vai safabricēts, jo autorība tiek piešķirta nevis par ieguldījumu, bet par samaksu (ALLEA, 2023).",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Autorības tirgus"
+    ]
+  },
+  {
+    "objectID": "jedzieni/autoribas-tirgus.html#vēsture",
+    "href": "jedzieni/autoribas-tirgus.html#vēsture",
+    "title": "Autorības tirgus",
+    "section": "Vēsture",
+    "text": "Vēsture\nPlašākai sabiedrībai autorības tirgus kļuva zināms 2013. gadā, kad žurnāls Science publicēja Maras Hvistendālas (Mara Hvistendahl) slepeno izmeklēšanu. Žurnāliste, uzdodoties par pircēju, atklāja Ķīnā aģentūras, kas pārdeva autora vietas jau pieņemtos rakstos un veselus rakstus (Hvistendahl, 2013). Šī bija pirmā publicētā tiešā liecība par šādu tirgu.",
     "crumbs": [
       "Sākums",
       "Rakstīšana un autorība",
@@ -920,7 +1028,7 @@
     "href": "jedzieni/autoribas-tirgus.html#atsauces",
     "title": "Autorības tirgus",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nAbalkina, A. (2023). Publication and collaboration anomalies in academic papers originating from a paper mill: Evidence from a Russia-based paper mill. Learned Publishing, 36(4), 689–702. https://doi.org/10.1002/leap.1574\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nRichardson, R. A. K., Hong, S. S., & Abalkina, A. (2026). BuyTheBy: A dataset of 18,710 text-based paper mill advertisements with 51,812 timestamped prices. arXiv preprint. https://doi.org/10.48550/arXiv.2604.24576",
+    "text": "Atsauces\n\n\nAbalkina, A. (2023). Publication and collaboration anomalies in academic papers originating from a paper mill: Evidence from a Russia-based paper mill. Learned Publishing, 36(4), 689–702. https://doi.org/10.1002/leap.1574\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nHvistendahl, M. (2013). China’s publication bazaar. Science, 342(6162), 1035–1039. https://doi.org/10.1126/science.342.6162.1035\n\n\nRichardson, R. A. K., Hong, S. S., & Abalkina, A. (2026). BuyTheBy: A dataset of 18,710 text-based paper mill advertisements with 51,812 timestamped prices. arXiv preprint. https://doi.org/10.48550/arXiv.2604.24576",
     "crumbs": [
       "Sākums",
       "Rakstīšana un autorība",
@@ -945,6 +1053,18 @@
     "title": "Nopelnu autorība",
     "section": "Definīcija",
     "text": "Definīcija\nNopelnu autorība ir situācija, kad par autoru tiek norādīta persona, kura nav devusi būtisku ieguldījumu pētījumā vai rakstā, piemēram, nodaļas vadītājs vai finansējuma piesaistītājs. Pretējs gadījums ir spoku autorība, kad reālais autors, piemēram, uzņēmuma algots rakstītājs, netiek norādīts.\nEiropas kodekss paredz, ka par autoriem norāda tikai tos, kas ir devuši būtisku ieguldījumu un uzņemas atbildību par publikācijas saturu (ALLEA, 2023). Medicīnas žurnālos plaši izmanto ICMJE kritērijus, kas prasa ieguldījumu darbā, līdzdalību rakstīšanā, gala versijas apstiprināšanu un atbildības uzņemšanos.",
+    "crumbs": [
+      "Sākums",
+      "Rakstīšana un autorība",
+      "Nopelnu autorība"
+    ]
+  },
+  {
+    "objectID": "jedzieni/nopelnu-autoriba.html#vēsture",
+    "href": "jedzieni/nopelnu-autoriba.html#vēsture",
+    "title": "Nopelnu autorība",
+    "section": "Vēsture",
+    "text": "Vēsture\nAutorības kritērijus Starptautiskā medicīnas žurnālu redaktoru komiteja (ICMJE) pieņēma 1985. gadā, taču pētījumi rādīja, ka autori tos bieži neievēro vai nezina (Flanagin u.c., 1998). 1998. gadā Flanagina un kolēģi veica pirmo plašo daudzu žurnālu pētījumu: 19 % rakstu trīs vadošajos medicīnas žurnālos bija pazīmes, ka autoru vidū ir nopelnu autori, un 11 % rakstu bija “spoku autori”, kuru ieguldījums netika atzīts (Flanagin u.c., 1998).",
     "crumbs": [
       "Sākums",
       "Rakstīšana un autorība",
@@ -1004,7 +1124,7 @@
     "href": "jedzieni/nopelnu-autoriba.html#atsauces",
     "title": "Nopelnu autorība",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nMeursinge Reynders, R. A., Riet, G. ter, Di Girolamo, N., Cavagnetto, D., & Malički, M. (2024). Honorary authorship is highly prevalent in health sciences: Systematic review and meta-analysis of surveys. Scientific Reports, 14, 4385. https://doi.org/10.1038/s41598-024-54909-w",
+    "text": "Atsauces\n\n\nALLEA. (2023). The European Code of Conduct for Research Integrity: Revised edition 2023. ALLEA. https://doi.org/10.26356/ECOC\n\n\nFlanagin, A., Carey, L. A., Fontanarosa, P. B., Phillips, S. G., Pace, B. P., Lundberg, G. D., & Rennie, D. (1998). Prevalence of articles with honorary authors and ghost authors in peer-reviewed medical journals. JAMA, 280(3), 222–224. https://doi.org/10.1001/jama.280.3.222\n\n\nMeursinge Reynders, R. A., Riet, G. ter, Di Girolamo, N., Cavagnetto, D., & Malički, M. (2024). Honorary authorship is highly prevalent in health sciences: Systematic review and meta-analysis of surveys. Scientific Reports, 14, 4385. https://doi.org/10.1038/s41598-024-54909-w",
     "crumbs": [
       "Sākums",
       "Rakstīšana un autorība",
@@ -1029,6 +1149,18 @@
     "title": "Citēšanas manipulācijas",
     "section": "Definīcija",
     "text": "Definīcija\nCitēšanas manipulācijas ir citātu skaita mākslīga palielināšana, kas neatspoguļo darba reālo zinātnisko ietekmi. Galvenās formas:\n\npārmērīga pašcitēšana;\ncitēšanas karteļi: pētnieku vai žurnālu grupas, kas sistemātiski citē cita citu;\nrecenzentu vai redaktoru prasība citēt viņu darbus;\ncitātu pirkšana.",
+    "crumbs": [
+      "Sākums",
+      "Metrikas",
+      "Citēšanas manipulācijas"
+    ]
+  },
+  {
+    "objectID": "jedzieni/citesanas-manipulacijas.html#vēsture",
+    "href": "jedzieni/citesanas-manipulacijas.html#vēsture",
+    "title": "Citēšanas manipulācijas",
+    "section": "Vēsture",
+    "text": "Vēsture\nCitēšanas manipulācijas kļuva iespējamas, kad citātus sāka skaitīt. Jūdžins Garfīlds (Eugene Garfield) 1955. gadā ierosināja zinātnes citātu indeksu (Garfield, 1955), kas pēc tam kļuva par pamatu ietekmes faktoram un mūsdienu bibliometrijai.\n\ngadā vācu zinātnieks Georgs Franks (Georg Franck) žurnālā Science brīdināja par “citēšanas karteļiem”, redaktoru un žurnālu grupām, kas savstarpēji palielina citātu skaitu (Franck, 1999). 2012. gadā Vilhaits un Fongs (Wilhite, Fong) pirmo reizi plaši izmērīja “piespiedu citēšanu”, kad redaktori pieprasa autoriem citēt viņu žurnālu (Wilhite & Fong, 2012).",
     "crumbs": [
       "Sākums",
       "Metrikas",
@@ -1088,7 +1220,7 @@
     "href": "jedzieni/citesanas-manipulacijas.html#atsauces",
     "title": "Citēšanas manipulācijas",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nCatanzaro, M. (2024). Citation cartels help some mathematicians, and their universities, climb the rankings. Science. https://doi.org/10.1126/science.zcl2s6d\n\n\nClarivate. (2025). Highly Cited Researchers 2025: Analysis. https://clarivate.com/highly-cited-researchers/analysis/\n\n\nIbrahim, H., Liu, F., Zaki, Y., & Rahwan, T. (2025). Citation manipulation through citation mills and pre-print servers. Scientific Reports.\n\n\nIoannidis, J. P. A., Collins, T. A., & Baas, J. (2024). Evolving patterns of extreme publishing behavior across science. Scientometrics, 129(9), 5783–5796.\n\n\nIoannidis, J. P. A., Klavans, R., & Boyack, K. W. (2018). Thousands of scientists publish a paper every five days. Nature, 561(7722), 167–169. https://doi.org/10.1038/d41586-018-06185-8",
+    "text": "Atsauces\n\n\nCatanzaro, M. (2024). Citation cartels help some mathematicians, and their universities, climb the rankings. Science. https://doi.org/10.1126/science.zcl2s6d\n\n\nClarivate. (2025). Highly Cited Researchers 2025: Analysis. https://clarivate.com/highly-cited-researchers/analysis/\n\n\nFranck, G. (1999). Scientific communication: A vanity fair? Science, 286(5437), 53–55. https://doi.org/10.1126/science.286.5437.53\n\n\nGarfield, E. (1955). Citation indexes for science: A new dimension in documentation through association of ideas. Science, 122(3159), 108–111. https://doi.org/10.1126/science.122.3159.108\n\n\nIbrahim, H., Liu, F., Zaki, Y., & Rahwan, T. (2025). Citation manipulation through citation mills and pre-print servers. Scientific Reports.\n\n\nIoannidis, J. P. A., Collins, T. A., & Baas, J. (2024). Evolving patterns of extreme publishing behavior across science. Scientometrics, 129(9), 5783–5796.\n\n\nIoannidis, J. P. A., Klavans, R., & Boyack, K. W. (2018). Thousands of scientists publish a paper every five days. Nature, 561(7722), 167–169. https://doi.org/10.1038/d41586-018-06185-8\n\n\nWilhite, A. W., & Fong, E. A. (2012). Coercive citation in academic publishing. Science, 335(6068), 542–543. https://doi.org/10.1126/science.1212540",
     "crumbs": [
       "Sākums",
       "Metrikas",
@@ -1113,6 +1245,18 @@
     "title": "Viltus recenzēšana",
     "section": "Definīcija",
     "text": "Definīcija\nViltus recenzēšana ir recenzēšanas procesa manipulēšana, lai panāktu raksta pieņemšanu. Tipiskie veidi:\n\nžurnālam tiek ieteikti izdomāti recenzenti vai īsti eksperti ar viltotām e-pasta adresēm, un autors recenzē pats savu rakstu;\nrecenziju apļi, kuros autoru grupa savstarpēji recenzē rakstus;\ntrešo pušu aģentūras, kas par samaksu garantē labvēlīgu recenziju.",
+    "crumbs": [
+      "Sākums",
+      "Recenzēšana un publicēšana",
+      "Viltus recenzēšana"
+    ]
+  },
+  {
+    "objectID": "jedzieni/viltus-recenzesana.html#vēsture",
+    "href": "jedzieni/viltus-recenzesana.html#vēsture",
+    "title": "Viltus recenzēšana",
+    "section": "Vēsture",
+    "text": "Vēsture\nPirmais plaši zināmais gadījums atklājās 2012. gadā. Žurnāla Journal of Enzyme Inhibition and Medicinal Chemistry redaktoru pārsteidza, ka recenzijas par viena autora, Dienvidkorejas pētnieka Hjungina Muna (Hyung-In Moon), rakstiem pienāk neparasti ātri. Muns atzina, ka daudzas recenzijas uzrakstījis pats, jo kā recenzentus bija ieteicis izdomātas personas ar e-pasta adresēm, kas nonāca pie viņa. Divu gadu laikā pēc tam žurnāliem bija jāatsauc vairāk nekā 110 rakstu vismaz sešos līdzīgos gadījumos (Ferguson u.c., 2014).",
     "crumbs": [
       "Sākums",
       "Recenzēšana un publicēšana",
@@ -1172,7 +1316,7 @@
     "href": "jedzieni/viltus-recenzesana.html#atsauces",
     "title": "Viltus recenzēšana",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nAczel, B., Szaszi, B., & Holcombe, A. O. (2021). A billion-dollar donation: Estimating the cost of researchers’ time spent on peer review. Research Integrity and Peer Review, 6, 14. https://doi.org/10.1186/s41073-021-00118-2\n\n\nMoylan, E. (2015). Inappropriate manipulation of peer review. BMC blog.\n\n\nNaddaf, M. (2025). Major AI conference flooded with peer reviews written fully by AI. Nature.\n\n\nQi, C., Deng, L., Li, J., Guo, X., & Guo, Z. (2017). Characteristics of retractions related to faked peer reviews: An overview. Postgraduate Medical Journal, 93(1102), 499–503. https://doi.org/10.1136/postgradmedj-2016-133969",
+    "text": "Atsauces\n\n\nAczel, B., Szaszi, B., & Holcombe, A. O. (2021). A billion-dollar donation: Estimating the cost of researchers’ time spent on peer review. Research Integrity and Peer Review, 6, 14. https://doi.org/10.1186/s41073-021-00118-2\n\n\nFerguson, C., Marcus, A., & Oransky, I. (2014). Publishing: The peer-review scam. Nature, 515(7528), 480–482. https://doi.org/10.1038/515480a\n\n\nMoylan, E. (2015). Inappropriate manipulation of peer review. BMC blog.\n\n\nNaddaf, M. (2025). Major AI conference flooded with peer reviews written fully by AI. Nature.\n\n\nQi, C., Deng, L., Li, J., Guo, X., & Guo, Z. (2017). Characteristics of retractions related to faked peer reviews: An overview. Postgraduate Medical Journal, 93(1102), 499–503. https://doi.org/10.1136/postgradmedj-2016-133969",
     "crumbs": [
       "Sākums",
       "Recenzēšana un publicēšana",
@@ -1197,6 +1341,18 @@
     "title": "Zombiju pētījumi un atsaukumi",
     "section": "Definīcija",
     "text": "Definīcija\nZombiju pētījums ir pētījums ar tik nopietni viltotiem datiem, ka tas ir pilnībā nederīgs, bet tas tiek publicēts un izskatās pēc parasta pētījuma (Carlisle, 2021).\nAtsaukums ir izdevēja paziņojums, ka publikācija vairs nav uzskatāma par derīgu. Tas var būt saistīts ar pārkāpumu vai godīgu kļūdu.",
+    "crumbs": [
+      "Sākums",
+      "Dati",
+      "Zombiju pētījumi un atsaukumi"
+    ]
+  },
+  {
+    "objectID": "jedzieni/zombiju-petijumi.html#vēsture",
+    "href": "jedzieni/zombiju-petijumi.html#vēsture",
+    "title": "Zombiju pētījumi un atsaukumi",
+    "section": "Vēsture",
+    "text": "Vēsture\nTerminu “zombiju pētījumi” (zombie trials) 2020. gadā ieviesa britu anesteziologs un žurnāla Anaesthesia redaktors Džons Kārlails (John Carlisle). Viņš tā nosauca klīniskos pētījumus, kuru dati ir tik nopietni bojāti, ka pētījumam nevar uzticēties, lai gan ārēji tas izskatās kā parasts pētījums (Carlisle, 2021).",
     "crumbs": [
       "Sākums",
       "Dati",
@@ -1288,6 +1444,18 @@
     ]
   },
   {
+    "objectID": "jedzieni/publikaciju-nobide.html#vēsture",
+    "href": "jedzieni/publikaciju-nobide.html#vēsture",
+    "title": "Publikāciju nobīde",
+    "section": "Vēsture",
+    "text": "Vēsture\nPirmo empīrisko pierādījumu 1959. gadā publicēja statistiķis Teodors Sterlings (Theodore Sterling). Viņš konstatēja, ka 97,3 % rakstu četros nozīmīgos psiholoģijas žurnālos ziņoja par statistiski nozīmīgiem rezultātiem, un brīdināja, ka literatūra var lielā mērā sastāvēt no kļūdaini pozitīviem secinājumiem (Sterling, 1959).\nRobērts Rozentāls (Robert Rosenthal) 1979. gadā šo parādību nosauca par “atvilktnes problēmu” (file drawer problem): nenozīmīgi rezultāti paliek pētnieku atvilktnēs, un žurnālos nonāk tikai tie, kas “izdevušies” (Rosenthal, 1979).",
+    "crumbs": [
+      "Sākums",
+      "Analīze un ziņošana",
+      "Publikāciju nobīde"
+    ]
+  },
+  {
     "objectID": "jedzieni/publikaciju-nobide.html#kā-atpazīt",
     "href": "jedzieni/publikaciju-nobide.html#kā-atpazīt",
     "title": "Publikāciju nobīde",
@@ -1352,7 +1520,7 @@
     "href": "jedzieni/publikaciju-nobide.html#atsauces",
     "title": "Publikāciju nobīde",
     "section": "Atsauces",
-    "text": "Atsauces\n\n\nFranco, A., Malhotra, N., & Simonovits, G. (2014). Publication bias in the social sciences: Unlocking the file drawer. Science, 345(6203), 1502–1505. https://doi.org/10.1126/science.1255484\n\n\nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. https://doi.org/10.1126/science.aac4716\n\n\nRosenthal, R. (1979). The file drawer problem and tolerance for null results. Psychological Bulletin, 86(3), 638–641. https://doi.org/10.1037/0033-2909.86.3.638",
+    "text": "Atsauces\n\n\nFranco, A., Malhotra, N., & Simonovits, G. (2014). Publication bias in the social sciences: Unlocking the file drawer. Science, 345(6203), 1502–1505. https://doi.org/10.1126/science.1255484\n\n\nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. https://doi.org/10.1126/science.aac4716\n\n\nRosenthal, R. (1979). The file drawer problem and tolerance for null results. Psychological Bulletin, 86(3), 638–641. https://doi.org/10.1037/0033-2909.86.3.638\n\n\nSterling, T. D. (1959). Publication decisions and their possible effects on inferences drawn from tests of significance, or vice versa. Journal of the American Statistical Association, 54(285), 30–34. https://doi.org/10.2307/2282137",
     "crumbs": [
       "Sākums",
       "Analīze un ziņošana",
